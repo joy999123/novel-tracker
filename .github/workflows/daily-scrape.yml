@@ -46,6 +46,11 @@ jobs:
         run: node scrapers/jjwxc.js
         continue-on-error: true
 
+      # 晋江全榜单 (原生 HTTP，8 个榜单：新晋作者榜/月榜/总分榜/收入金榜/勤奋指数/完结金榜/新手金榜/千字金榜)
+      - name: Scrape JJWXC All Ranks (晋江全榜单)
+        run: node scrapers/jjwxc-all-ranks.js
+        continue-on-error: true
+
       # 起点收藏榜 Top1000 (每月1号更新 或 手动触发时运行，50页1000本)
       - name: Scrape Qidian Collection (起点收藏榜)
         run: |
