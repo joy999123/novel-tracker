@@ -1892,6 +1892,15 @@ function switchSubTab(contentId, prefix, subTabId) {
   document.getElementById(`${prefix}-sub-${subTabId}`).classList.add('active');
   document.querySelector(`#${contentId} .sub-tab-btn[data-subtab="${subTabId}"]`).classList.add('active');
 }
+
+// 数字格式化（积分等大数 → 万/亿）
+function fmtNumber(n) {
+  if (n == null || isNaN(n)) return '—';
+  const num = Number(n);
+  if (num >= 100000000) return (num / 100000000).toFixed(1).replace(/\.0$/, '') + '亿';
+  if (num >= 10000) return (num / 10000).toFixed(1).replace(/\.0$/, '') + '万';
+  return String(num);
+}
 function switchQidianSubTab(subTabId) { switchSubTab('qidianContent', 'qidian', subTabId); }
 function switchJjwxcSubTab(subTabId) { switchSubTab('jjwxcContent', 'jjwxc', subTabId); }
 function switchFanqieSubTab(subTabId) { switchSubTab('fanqieContent', 'fanqie', subTabId); }
@@ -2082,6 +2091,9 @@ async function renderJjwxcWithSubTabs(platform, data, contentEl) {
   const scoreData = await loadJSON('data/jjwxc/score1000.json');
   state.data.jjwxc_score = scoreData;
 
+  // 加载新人加权分析
+  const newcomerData = await loadJSON('data/jjwxc/newcomer.json');
+
   // 月榜 Top50 数据
   const books = data.books;
   const tagStats = data.tag_stats || {};
@@ -2111,6 +2123,7 @@ async function renderJjwxcWithSubTabs(platform, data, contentEl) {
     <div class="sub-tab-nav">
       <button class="sub-tab-btn active" data-subtab="monthrank" onclick="switchJjwxcSubTab('monthrank')">🔥 积分月榜 Top50</button>
       <button class="sub-tab-btn" data-subtab="score1000" onclick="switchJjwxcSubTab('score1000')">⭐ 积分榜 Top1000</button>
+      <button class="sub-tab-btn" data-subtab="newcomer" onclick="switchJjwxcSubTab('newcomer')">🌱 新人加权分析</button>
     </div>
 
     <!-- 积分月榜 Top50 内容 -->
@@ -2204,6 +2217,74 @@ async function renderJjwxcWithSubTabs(platform, data, contentEl) {
           <div class="book-list" id="bookList-jjwxc_score">
             ${renderScoreBookList(sBooks)}
           </div>
+        `}
+    </div>
+
+    <!-- 新人加权分析内容 -->
+    <div class="sub-tab-content" id="jjwxc-sub-newcomer">
+      ${!newcomerData
+        ? '<div class="empty-state">新人加权分析数据尚未生成，请先运行 <code>node scrapers/jjwxc-newcomer.js</code></div>'
+        : `
+          <div class="platform-meta" style="margin-bottom:12px;">分析基于 <strong>新晋作者榜（30天内新作者，按积分）</strong>，更新时间: ${newcomerData.update_time || '未知'} · ${newcomerData.thresholds?.by_sex?.length || 0} 个性向赛道</div>
+
+          ${newcomerData.ai_insight ? `
+            <div class="insight-card" style="background:linear-gradient(135deg,#f0f7ff,#eef4ff);border:1px solid #cfe0f5;border-radius:10px;padding:14px 18px;margin-bottom:18px;">
+              <div style="font-weight:700;color:#2b5ea7;margin-bottom:8px;">🤖 AI 新人解读</div>
+              <div style="line-height:1.7;color:#3a4a63;white-space:pre-wrap;">${newcomerData.ai_insight}</div>
+            </div>
+          ` : ''}
+
+          <div class="platform-meta" style="margin-bottom:10px;font-weight:700;color:#2d6a4f;">📊 赛道门槛友好度（0-100，越高越对新作者友好）</div>
+          <div class="tag-stats-bar" style="flex-wrap:wrap;margin-bottom:16px;">
+            ${(newcomerData.thresholds?.by_sex || []).map(s => `
+              <div style="flex:1;min-width:180px;background:#f7faf7;border:1px solid #dfeade;border-radius:8px;padding:10px 12px;margin:4px;">
+                <div style="font-weight:700;color:#2d6a4f;">${s.sex}</div>
+                <div style="font-size:20px;font-weight:800;color:#1b4332;">${s.friendliness}<span style="font-size:12px;color:#6b8f6e;">/100</span></div>
+                <div style="font-size:12px;color:#52796f;line-height:1.6;">
+                  积分中位 ${fmtNumber(s.score_p50)}（P25 ${fmtNumber(s.score_p25)} / P75 ${fmtNumber(s.score_p75)}）
+                </div>
+                <div style="font-size:12px;color:#52796f;line-height:1.6;">
+                  字数中位 ${s.word_median} · 连载占比 ${Math.round((s.serial_pct||0)*100)}%
+                </div>
+                <div style="font-size:12px;color:#52796f;line-height:1.6;">热门年代: ${s.top_eras || '—'}</div>
+                <div style="font-size:12px;color:#52796f;line-height:1.6;">热门主题: ${s.top_themes || '—'}</div>
+              </div>
+            `).join('')}
+          </div>
+
+          <div class="platform-meta" style="margin-bottom:10px;font-weight:700;color:#7a4d2d;">🌪️ 新人题材风向（新晋作者榜 共 ${newcomerData.trends?.total || 0} 本）</div>
+          <div style="display:flex;gap:20px;flex-wrap:wrap;margin-bottom:18px;">
+            <div style="flex:1;min-width:260px;">
+              <div style="font-size:13px;color:#666;margin-bottom:6px;">主题分布 Top8</div>
+              ${(newcomerData.trends?.theme || []).slice(0, 8).map(t => `
+                <div style="display:flex;align-items:center;margin:3px 0;gap:8px;">
+                  <span style="width:80px;font-size:13px;color:#333;text-align:right;">${t.tag}</span>
+                  <div style="flex:1;background:#eee;border-radius:4px;height:16px;position:relative;">
+                    <div style="position:absolute;left:0;top:0;bottom:0;width:${t.pct}%;background:#7a4d2d;border-radius:4px;"></div>
+                  </div>
+                  <span style="width:50px;font-size:12px;color:#666;">${t.count}本 ${t.pct}%</span>
+                </div>
+              `).join('')}
+            </div>
+            <div style="flex:1;min-width:260px;">
+              <div style="font-size:13px;color:#666;margin-bottom:6px;">年代 × 主题 组合 Top8</div>
+              ${(newcomerData.trends?.era_theme_top || []).slice(0, 8).map(c => `
+                <div style="display:flex;justify-content:space-between;padding:5px 10px;margin:3px 0;background:#faf6f0;border-radius:6px;font-size:13px;">
+                  <span style="color:#5a3a1d;">${c.combo}</span>
+                  <span style="color:#7a4d2d;font-weight:700;">${c.count}本</span>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+
+          <div class="platform-meta" style="margin-bottom:10px;font-weight:700;color:#4a4e8a;">🛤️ 新人成长路径（作者跨榜单交叉）</div>
+          <div class="tag-stats-bar" style="flex-wrap:wrap;margin-bottom:8px;">
+            ${Object.entries(newcomerData.pathways?.authors || {}).map(([key, v]) => {
+              const labels = { new_to_hand: '新晋作者榜 → 新手金榜', new_to_diligence: '新晋作者榜 → 勤奋指数', new_to_month: '新晋作者榜 → 月榜', hand_to_diligence: '新手金榜 → 勤奋指数', hand_to_month: '新手金榜 → 月榜', diligence_to_month: '勤奋指数 → 月榜' };
+              return `<span class="tag-stat-item"><span class="tag-name">${labels[key] || key}</span><span class="tag-count">${v.count} 人</span></span>`;
+            }).join('')}
+          </div>
+          <div style="font-size:12px;color:#888;line-height:1.6;margin-bottom:12px;">${newcomerData.pathways?.explain || ''} ${newcomerData.pathways?.note || ''}</div>
         `}
     </div>
   `;
