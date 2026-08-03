@@ -1,6 +1,6 @@
 {
   "summary": {
-    "update_time": "2026-08-03 20:18:08",
+    "update_time": "2026-08-03 20:54:52",
     "update_date": "2026-08-03",
     "source": "https://www.jjwxc.net/topten.php",
     "platform": "jjwxc",
@@ -5031,31 +5031,31 @@
         },
         {
           "rank": 45,
-          "book_id": "10864281",
-          "book_name": "星戒奇缘",
-          "author": "唤雨的鸟",
+          "book_id": "10915952",
+          "book_name": "[足球]主席阁下",
+          "author": "拾苔",
           "channel": "言情",
           "sex": "言情",
-          "nature": "原创",
+          "nature": "衍生",
           "genre": "言情",
-          "era": "架空历史",
-          "theme": "科幻",
+          "era": "近代现代",
+          "theme": "西方衍生",
           "primary_tag": "言情",
           "secondary_tags": [
-            "架空历史",
-            "科幻"
+            "近代现代",
+            "西方衍生"
           ],
           "all_tags": [
-            "原创",
+            "衍生",
             "言情",
-            "架空历史",
-            "科幻"
+            "近代现代",
+            "西方衍生"
           ],
-          "score": 2274180,
-          "word_count": 871043,
+          "score": 2343843,
+          "word_count": 31832,
           "status": "连载中",
-          "book_url": "https://www.jjwxc.net/onebook.php?novelid=10864281",
-          "author_url": "https://www.jjwxc.net/oneauthor.php?authorid=7703083"
+          "book_url": "https://www.jjwxc.net/onebook.php?novelid=10915952",
+          "author_url": "https://www.jjwxc.net/oneauthor.php?authorid=7739746"
         },
         {
           "rank": 45,
@@ -5143,31 +5143,31 @@
         },
         {
           "rank": 46,
-          "book_id": "10915952",
-          "book_name": "[足球]主席阁下",
-          "author": "拾苔",
+          "book_id": "10864281",
+          "book_name": "星戒奇缘",
+          "author": "唤雨的鸟",
           "channel": "言情",
           "sex": "言情",
-          "nature": "衍生",
+          "nature": "原创",
           "genre": "言情",
-          "era": "近代现代",
-          "theme": "西方衍生",
+          "era": "架空历史",
+          "theme": "科幻",
           "primary_tag": "言情",
           "secondary_tags": [
-            "近代现代",
-            "西方衍生"
+            "架空历史",
+            "科幻"
           ],
           "all_tags": [
-            "衍生",
+            "原创",
             "言情",
-            "近代现代",
-            "西方衍生"
+            "架空历史",
+            "科幻"
           ],
-          "score": 2228879,
-          "word_count": 27881,
+          "score": 2274180,
+          "word_count": 871043,
           "status": "连载中",
-          "book_url": "https://www.jjwxc.net/onebook.php?novelid=10915952",
-          "author_url": "https://www.jjwxc.net/oneauthor.php?authorid=7739746"
+          "book_url": "https://www.jjwxc.net/onebook.php?novelid=10864281",
+          "author_url": "https://www.jjwxc.net/oneauthor.php?authorid=7703083"
         },
         {
           "rank": 46,
@@ -5724,7 +5724,7 @@
             "奇幻"
           ],
           "score": 2130263,
-          "word_count": 106457,
+          "word_count": 111136,
           "status": "连载中",
           "book_url": "https://www.jjwxc.net/onebook.php?novelid=10871117",
           "author_url": "https://www.jjwxc.net/oneauthor.php?authorid=7708135"
@@ -6732,7 +6732,7 @@
             "爱情"
           ],
           "score": 1895244,
-          "word_count": 57834,
+          "word_count": 61719,
           "status": "连载中",
           "book_url": "https://www.jjwxc.net/onebook.php?novelid=10895019",
           "author_url": "https://www.jjwxc.net/oneauthor.php?authorid=7710084"
@@ -6844,7 +6844,7 @@
             "仙侠"
           ],
           "score": 1850833,
-          "word_count": 131738,
+          "word_count": 131740,
           "status": "连载中",
           "book_url": "https://www.jjwxc.net/onebook.php?novelid=10911552",
           "author_url": "https://www.jjwxc.net/oneauthor.php?authorid=7734915"
@@ -7068,7 +7068,7 @@
             "爱情"
           ],
           "score": 1842630,
-          "word_count": 68477,
+          "word_count": 71514,
           "status": "连载中",
           "book_url": "https://www.jjwxc.net/onebook.php?novelid=10887456",
           "author_url": "https://www.jjwxc.net/oneauthor.php?authorid=7719597"
@@ -7180,7 +7180,7 @@
             "爱情"
           ],
           "score": 1794826,
-          "word_count": 50258,
+          "word_count": 54457,
           "status": "连载中",
           "book_url": "https://www.jjwxc.net/onebook.php?novelid=10910073",
           "author_url": "https://www.jjwxc.net/oneauthor.php?authorid=7735629"
@@ -9308,7 +9308,7 @@
             "爱情"
           ],
           "score": 1549501,
-          "word_count": 46718,
+          "word_count": 49809,
           "status": "连载中",
           "book_url": "https://www.jjwxc.net/onebook.php?novelid=10889426",
           "author_url": "https://www.jjwxc.net/oneauthor.php?authorid=7720627"
@@ -12108,7 +12108,7 @@
             "爱情"
           ],
           "score": 1347936,
-          "word_count": 250938,
+          "word_count": 250777,
           "status": "完结",
           "book_url": "https://www.jjwxc.net/onebook.php?novelid=10868615",
           "author_url": "https://www.jjwxc.net/oneauthor.php?authorid=7706519"
@@ -13116,7 +13116,7 @@
             "奇幻"
           ],
           "score": 1302870,
-          "word_count": 63405,
+          "word_count": 63449,
           "status": "连载中",
           "book_url": "https://www.jjwxc.net/onebook.php?novelid=10894619",
           "author_url": "https://www.jjwxc.net/oneauthor.php?authorid=7724291"
@@ -17148,7 +17148,7 @@
             "爱情"
           ],
           "score": 1077827,
-          "word_count": 53772,
+          "word_count": 53713,
           "status": "连载中",
           "book_url": "https://www.jjwxc.net/onebook.php?novelid=10891375",
           "author_url": "https://www.jjwxc.net/oneauthor.php?authorid=7722037"
@@ -106044,24 +106044,6 @@
             },
             {
               "rank": 21,
-              "book_id": "5533159",
-              "book_name": "宿傩大人大义凛然",
-              "author": "萧泠风",
-              "channel": "衍生纯爱",
-              "genre": "衍生纯爱",
-              "primary_tag": "衍生纯爱",
-              "secondary_tags": [],
-              "all_tags": [
-                "衍生纯爱"
-              ],
-              "score": 0,
-              "word_count": 0,
-              "status": "未知",
-              "book_url": "https://www.jjwxc.net/onebook.php?novelid=5533159",
-              "author_url": "https://www.jjwxc.net/oneauthor.php?authorid=434575"
-            },
-            {
-              "rank": 22,
               "book_id": "9387008",
               "book_name": "回到明末当暴君[穿书]",
               "author": "青鸟临星",
@@ -106077,6 +106059,24 @@
               "status": "未知",
               "book_url": "https://www.jjwxc.net/onebook.php?novelid=9387008",
               "author_url": "https://www.jjwxc.net/oneauthor.php?authorid=313610"
+            },
+            {
+              "rank": 22,
+              "book_id": "5533159",
+              "book_name": "宿傩大人大义凛然",
+              "author": "萧泠风",
+              "channel": "衍生纯爱",
+              "genre": "衍生纯爱",
+              "primary_tag": "衍生纯爱",
+              "secondary_tags": [],
+              "all_tags": [
+                "衍生纯爱"
+              ],
+              "score": 0,
+              "word_count": 0,
+              "status": "未知",
+              "book_url": "https://www.jjwxc.net/onebook.php?novelid=5533159",
+              "author_url": "https://www.jjwxc.net/oneauthor.php?authorid=434575"
             },
             {
               "rank": 23,
