@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-03 00:42:15",
+  "update_time": "2026-08-03 14:38:05",
   "update_date": "2026-08-03",
   "update_month": "2026-08",
   "total_count": 1000,
@@ -17,17 +17,17 @@
     "游戏": 53,
     "悬疑灵异": 34,
     "奇幻": 39,
-    "轻小说": 78,
+    "轻小说": 79,
     "武侠": 16,
     "军事": 8,
     "现实": 3,
     "诸天无限": 34,
-    "短篇": 2,
+    "短篇": 1,
     "体育": 11
   },
   "gender_stats": {
-    "男频": 934,
-    "未知": 66
+    "男频": 935,
+    "未知": 65
   },
   "books": [
     {
@@ -1969,27 +1969,6 @@
     },
     {
       "rank": 92,
-      "book_id": "1026909178",
-      "book_name": "我的谍战岁月",
-      "author": "猪头七",
-      "gender": "男频",
-      "primary_tag": "军事",
-      "secondary_tags": [
-        "谍战特工"
-      ],
-      "all_tags": [
-        "军事",
-        "谍战特工"
-      ],
-      "abstract": "代号‘火苗’——你的功勋永垂不朽！企鹅群号：78697817",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1026909178/150.webp",
-      "book_url": "https://www.qidian.com/book/1026909178/"
-    },
-    {
-      "rank": 93,
       "book_id": "1038253868",
       "book_name": "温暖的季风",
       "author": "夜影恋姬",
@@ -2008,6 +1987,27 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1038253868/150.webp",
       "book_url": "https://www.qidian.com/book/1038253868/"
+    },
+    {
+      "rank": 93,
+      "book_id": "1026909178",
+      "book_name": "我的谍战岁月",
+      "author": "猪头七",
+      "gender": "男频",
+      "primary_tag": "军事",
+      "secondary_tags": [
+        "谍战特工"
+      ],
+      "all_tags": [
+        "军事",
+        "谍战特工"
+      ],
+      "abstract": "代号‘火苗’——你的功勋永垂不朽！企鹅群号：78697817",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1026909178/150.webp",
+      "book_url": "https://www.qidian.com/book/1026909178/"
     },
     {
       "rank": 94,
@@ -7125,6 +7125,27 @@
     },
     {
       "rank": 336,
+      "book_id": "1044572097",
+      "book_name": "冬日重现",
+      "author": "雪梨炖茶",
+      "gender": "男频",
+      "primary_tag": "轻小说",
+      "secondary_tags": [
+        "恋爱日常"
+      ],
+      "all_tags": [
+        "轻小说",
+        "恋爱日常"
+      ],
+      "abstract": "张述桐曾有两个女同学：一个是有钱人家的骄傲大小姐；一个是在山里当庙祝的清冷少女。她们一个被杀死在八年前，一个死在了八年后。张述桐还有一个不可告人的秘密：他能回到过去。...可好不容易救回了她们，她们怎么自己打起来了？...深山、大湖、神庙、水下的阴影、八年前的连环凶杀案，还有女孩逐渐冰冷的身体；这是一个发生在冬天的小岛上，一群少男少女之间，有些温馨、有些惊悚、有些浪漫的青春故事。...（恋爱+时空穿梭+校园+悬疑）",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1044572097/150.webp",
+      "book_url": "https://www.qidian.com/book/1044572097/"
+    },
+    {
+      "rank": 337,
       "book_id": "1037095853",
       "book_name": "牧者密续",
       "author": "不祈十弦",
@@ -7145,7 +7166,7 @@
       "book_url": "https://www.qidian.com/book/1037095853/"
     },
     {
-      "rank": 337,
+      "rank": 338,
       "book_id": "1777445",
       "book_name": "天珠变",
       "author": "唐家三少",
@@ -7166,7 +7187,7 @@
       "book_url": "https://www.qidian.com/book/1777445/"
     },
     {
-      "rank": 338,
+      "rank": 339,
       "book_id": "1021566237",
       "book_name": "黑石密码",
       "author": "三脚架",
@@ -7187,7 +7208,7 @@
       "book_url": "https://www.qidian.com/book/1021566237/"
     },
     {
-      "rank": 339,
+      "rank": 340,
       "book_id": "1001730574",
       "book_name": "史上最强师兄",
       "author": "八月飞鹰",
@@ -7210,7 +7231,7 @@
       "book_url": "https://www.qidian.com/book/1001730574/"
     },
     {
-      "rank": 340,
+      "rank": 341,
       "book_id": "1021476342",
       "book_name": "只想退休的我被迫成了大将",
       "author": "咸鱼军头",
@@ -7231,7 +7252,7 @@
       "book_url": "https://www.qidian.com/book/1021476342/"
     },
     {
-      "rank": 341,
+      "rank": 342,
       "book_id": "1029288960",
       "book_name": "调教玩家：谨慎NPC的职业素养",
       "author": "紫岚or蓝",
@@ -7252,7 +7273,7 @@
       "book_url": "https://www.qidian.com/book/1029288960/"
     },
     {
-      "rank": 342,
+      "rank": 343,
       "book_id": "1040149021",
       "book_name": "志怪书",
       "author": "金色茉莉花",
@@ -7273,7 +7294,7 @@
       "book_url": "https://www.qidian.com/book/1040149021/"
     },
     {
-      "rank": 343,
+      "rank": 344,
       "book_id": "1013414929",
       "book_name": "手术直播间",
       "author": "真熊初墨",
@@ -7294,7 +7315,7 @@
       "book_url": "https://www.qidian.com/book/1013414929/"
     },
     {
-      "rank": 344,
+      "rank": 345,
       "book_id": "3458639",
       "book_name": "人道至尊",
       "author": "宅猪",
@@ -7315,7 +7336,7 @@
       "book_url": "https://www.qidian.com/book/3458639/"
     },
     {
-      "rank": 345,
+      "rank": 346,
       "book_id": "1011940368",
       "book_name": "洪荒历",
       "author": "zhttty",
@@ -7336,7 +7357,7 @@
       "book_url": "https://www.qidian.com/book/1011940368/"
     },
     {
-      "rank": 346,
+      "rank": 347,
       "book_id": "1010399782",
       "book_name": "太初",
       "author": "高楼大厦",
@@ -7357,7 +7378,7 @@
       "book_url": "https://www.qidian.com/book/1010399782/"
     },
     {
-      "rank": 347,
+      "rank": 348,
       "book_id": "1036400049",
       "book_name": "寻找无间地狱",
       "author": "林八八八",
@@ -7376,27 +7397,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1036400049/150.webp",
       "book_url": "https://www.qidian.com/book/1036400049/"
-    },
-    {
-      "rank": 348,
-      "book_id": "1021226784",
-      "book_name": "突然成仙了怎么办",
-      "author": "欢颜笑语",
-      "gender": "男频",
-      "primary_tag": "都市",
-      "secondary_tags": [
-        "都市异能"
-      ],
-      "all_tags": [
-        "都市",
-        "都市异能"
-      ],
-      "abstract": "（新书《车速很快，你忍一下》已上线，希望大家关注。）这天，林凡与圣女同时穿越，之后更是发现，他们可以无限互穿。随后，两人在不同时空，杠上了。直到某日，林凡穿越归来，却发现自己已经成仙！突然成仙了怎么办？在线等，挺急的。（群号:1005499845，静待朋友们加入）",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1021226784/150.webp",
-      "book_url": "https://www.qidian.com/book/1021226784/"
     },
     {
       "rank": 349,
@@ -7421,24 +7421,24 @@
     },
     {
       "rank": 350,
-      "book_id": "1021232502",
-      "book_name": "皇兄万岁",
-      "author": "剪水II",
+      "book_id": "1021226784",
+      "book_name": "突然成仙了怎么办",
+      "author": "欢颜笑语",
       "gender": "男频",
-      "primary_tag": "玄幻",
+      "primary_tag": "都市",
       "secondary_tags": [
-        "东方玄幻"
+        "都市异能"
       ],
       "all_tags": [
-        "玄幻",
-        "东方玄幻"
+        "都市",
+        "都市异能"
       ],
-      "abstract": "“夏极，你身为皇子，玷污我皇家颜面，该当何罪！”“我愿在藏经阁，禁足三年。”“准了。”“陛下，皇家藏经阁中可是有不少神功异术…”“都搬了，只留佛经，给那逆子！！”于是，皇子看了两年佛经。您翻过《般若心经》，提取了技能珠“不动明王身（第九层）”您翻过《金刚经》，提取了技能珠“九阳心经（第九层）”您翻过《地藏经》，提取技能珠“十八镇狱劲（第九层）”您又翻过《法华义疏》，《莲华经》，《阿须弥经》,《现在如来经》……企鹅群号：823614575，欢迎加入（已满）企鹅群号：715538233~~（可加）",
+      "abstract": "（新书《车速很快，你忍一下》已上线，希望大家关注。）这天，林凡与圣女同时穿越，之后更是发现，他们可以无限互穿。随后，两人在不同时空，杠上了。直到某日，林凡穿越归来，却发现自己已经成仙！突然成仙了怎么办？在线等，挺急的。（群号:1005499845，静待朋友们加入）",
       "status": "完结",
       "word_count": "",
       "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1021232502/150.webp",
-      "book_url": "https://www.qidian.com/book/1021232502/"
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1021226784/150.webp",
+      "book_url": "https://www.qidian.com/book/1021226784/"
     },
     {
       "rank": 351,
@@ -7488,6 +7488,27 @@
     },
     {
       "rank": 353,
+      "book_id": "1021232502",
+      "book_name": "皇兄万岁",
+      "author": "剪水II",
+      "gender": "男频",
+      "primary_tag": "玄幻",
+      "secondary_tags": [
+        "东方玄幻"
+      ],
+      "all_tags": [
+        "玄幻",
+        "东方玄幻"
+      ],
+      "abstract": "“夏极，你身为皇子，玷污我皇家颜面，该当何罪！”“我愿在藏经阁，禁足三年。”“准了。”“陛下，皇家藏经阁中可是有不少神功异术…”“都搬了，只留佛经，给那逆子！！”于是，皇子看了两年佛经。您翻过《般若心经》，提取了技能珠“不动明王身（第九层）”您翻过《金刚经》，提取了技能珠“九阳心经（第九层）”您翻过《地藏经》，提取技能珠“十八镇狱劲（第九层）”您又翻过《法华义疏》，《莲华经》，《阿须弥经》,《现在如来经》……企鹅群号：823614575，欢迎加入（已满）企鹅群号：715538233~~（可加）",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1021232502/150.webp",
+      "book_url": "https://www.qidian.com/book/1021232502/"
+    },
+    {
+      "rank": 354,
       "book_id": "1005405437",
       "book_name": "老衲要还俗",
       "author": "一梦黄粱",
@@ -7508,7 +7529,7 @@
       "book_url": "https://www.qidian.com/book/1005405437/"
     },
     {
-      "rank": 354,
+      "rank": 355,
       "book_id": "1027697153",
       "book_name": "重生大时代之1993",
       "author": "三月麻竹",
@@ -7529,7 +7550,7 @@
       "book_url": "https://www.qidian.com/book/1027697153/"
     },
     {
-      "rank": 355,
+      "rank": 356,
       "book_id": "1031726900",
       "book_name": "重生从老婆倒追我开始",
       "author": "一素一荤",
@@ -7550,7 +7571,7 @@
       "book_url": "https://www.qidian.com/book/1031726900/"
     },
     {
-      "rank": 356,
+      "rank": 357,
       "book_id": "1693876",
       "book_name": "重生之贼行天下",
       "author": "发飙的蜗牛",
@@ -7571,7 +7592,7 @@
       "book_url": "https://www.qidian.com/book/1693876/"
     },
     {
-      "rank": 357,
+      "rank": 358,
       "book_id": "1020580616",
       "book_name": "大周仙吏",
       "author": "荣小荣",
@@ -7592,7 +7613,7 @@
       "book_url": "https://www.qidian.com/book/1020580616/"
     },
     {
-      "rank": 358,
+      "rank": 359,
       "book_id": "1042169201",
       "book_name": "系统很抽象，还好我也是",
       "author": "扑街天线",
@@ -7613,7 +7634,7 @@
       "book_url": "https://www.qidian.com/book/1042169201/"
     },
     {
-      "rank": 359,
+      "rank": 360,
       "book_id": "1031146750",
       "book_name": "我在修仙界长生不死",
       "author": "贰更2",
@@ -7634,7 +7655,7 @@
       "book_url": "https://www.qidian.com/book/1031146750/"
     },
     {
-      "rank": 360,
+      "rank": 361,
       "book_id": "1029169548",
       "book_name": "机械炼金术士",
       "author": "盲候",
@@ -7655,7 +7676,7 @@
       "book_url": "https://www.qidian.com/book/1029169548/"
     },
     {
-      "rank": 361,
+      "rank": 362,
       "book_id": "1006853204",
       "book_name": "文化入侵异世界",
       "author": "姐姐的新娘",
@@ -7678,7 +7699,7 @@
       "book_url": "https://www.qidian.com/book/1006853204/"
     },
     {
-      "rank": 362,
+      "rank": 363,
       "book_id": "1005061389",
       "book_name": "如意小郎君",
       "author": "荣小荣",
@@ -7699,7 +7720,7 @@
       "book_url": "https://www.qidian.com/book/1005061389/"
     },
     {
-      "rank": 363,
+      "rank": 364,
       "book_id": "1011452759",
       "book_name": "小世界其乐无穷",
       "author": "听日",
@@ -7722,7 +7743,7 @@
       "book_url": "https://www.qidian.com/book/1011452759/"
     },
     {
-      "rank": 364,
+      "rank": 365,
       "book_id": "1003123274",
       "book_name": "最强boss系统",
       "author": "封七月",
@@ -7743,7 +7764,7 @@
       "book_url": "https://www.qidian.com/book/1003123274/"
     },
     {
-      "rank": 365,
+      "rank": 366,
       "book_id": "1016418552",
       "book_name": "这号有毒",
       "author": "幼儿园一把手",
@@ -7764,7 +7785,7 @@
       "book_url": "https://www.qidian.com/book/1016418552/"
     },
     {
-      "rank": 366,
+      "rank": 367,
       "book_id": "1036993574",
       "book_name": "金丹是恒星，你管这叫修仙？",
       "author": "走地鹤",
@@ -7785,7 +7806,7 @@
       "book_url": "https://www.qidian.com/book/1036993574/"
     },
     {
-      "rank": 367,
+      "rank": 368,
       "book_id": "1004079399",
       "book_name": "我是大玩家",
       "author": "会说话的肘子",
@@ -7808,7 +7829,7 @@
       "book_url": "https://www.qidian.com/book/1004079399/"
     },
     {
-      "rank": 368,
+      "rank": 369,
       "book_id": "1502261",
       "book_name": "邪龙道",
       "author": "血红",
@@ -7829,7 +7850,7 @@
       "book_url": "https://www.qidian.com/book/1502261/"
     },
     {
-      "rank": 369,
+      "rank": 370,
       "book_id": "1015525869",
       "book_name": "变成血族是什么体验",
       "author": "神行汉堡",
@@ -7852,7 +7873,7 @@
       "book_url": "https://www.qidian.com/book/1015525869/"
     },
     {
-      "rank": 370,
+      "rank": 371,
       "book_id": "1016970531",
       "book_name": "我真没想当救世主啊",
       "author": "火中物",
@@ -7873,7 +7894,7 @@
       "book_url": "https://www.qidian.com/book/1016970531/"
     },
     {
-      "rank": 371,
+      "rank": 372,
       "book_id": "70705",
       "book_name": "冰火魔厨",
       "author": "唐家三少",
@@ -7894,7 +7915,7 @@
       "book_url": "https://www.qidian.com/book/70705/"
     },
     {
-      "rank": 372,
+      "rank": 373,
       "book_id": "1015407320",
       "book_name": "大明最后一个狠人",
       "author": "大明第一帅",
@@ -7915,7 +7936,7 @@
       "book_url": "https://www.qidian.com/book/1015407320/"
     },
     {
-      "rank": 373,
+      "rank": 374,
       "book_id": "1014190598",
       "book_name": "我真没想出名啊",
       "author": "巫马行",
@@ -7936,7 +7957,7 @@
       "book_url": "https://www.qidian.com/book/1014190598/"
     },
     {
-      "rank": 374,
+      "rank": 375,
       "book_id": "23813",
       "book_name": "狂神",
       "author": "唐家三少",
@@ -7957,7 +7978,7 @@
       "book_url": "https://www.qidian.com/book/23813/"
     },
     {
-      "rank": 375,
+      "rank": 376,
       "book_id": "1029575290",
       "book_name": "王者时代：英雄书卷",
       "author": "王者荣耀妙笔计划",
@@ -7978,7 +7999,7 @@
       "book_url": "https://www.qidian.com/book/1029575290/"
     },
     {
-      "rank": 376,
+      "rank": 377,
       "book_id": "1209022",
       "book_name": "逍行纪",
       "author": "血红",
@@ -7999,7 +8020,7 @@
       "book_url": "https://www.qidian.com/book/1209022/"
     },
     {
-      "rank": 377,
+      "rank": 378,
       "book_id": "1037333167",
       "book_name": "速通修仙！",
       "author": "平层",
@@ -8020,7 +8041,7 @@
       "book_url": "https://www.qidian.com/book/1037333167/"
     },
     {
-      "rank": 378,
+      "rank": 379,
       "book_id": "1023212048",
       "book_name": "基因大时代",
       "author": "猪三不",
@@ -8041,7 +8062,7 @@
       "book_url": "https://www.qidian.com/book/1023212048/"
     },
     {
-      "rank": 379,
+      "rank": 380,
       "book_id": "1036361539",
       "book_name": "岳父朱棣，迎娶毁容郡主我乐麻了",
       "author": "过节长肉肉",
@@ -8062,7 +8083,7 @@
       "book_url": "https://www.qidian.com/book/1036361539/"
     },
     {
-      "rank": 380,
+      "rank": 381,
       "book_id": "1040860448",
       "book_name": "港片：你洪兴仔，慈善大王什么鬼",
       "author": "皮皮树",
@@ -8083,7 +8104,7 @@
       "book_url": "https://www.qidian.com/book/1040860448/"
     },
     {
-      "rank": 381,
+      "rank": 382,
       "book_id": "1015057768",
       "book_name": "我只想安静地打游戏",
       "author": "十二翼黑暗炽天使",
@@ -8104,7 +8125,7 @@
       "book_url": "https://www.qidian.com/book/1015057768/"
     },
     {
-      "rank": 382,
+      "rank": 383,
       "book_id": "1044900108",
       "book_name": "神明调查报告",
       "author": "黑山老鬼",
@@ -8125,7 +8146,7 @@
       "book_url": "https://www.qidian.com/book/1044900108/"
     },
     {
-      "rank": 383,
+      "rank": 384,
       "book_id": "1009915605",
       "book_name": "奶爸的文艺人生",
       "author": "寒门",
@@ -8148,7 +8169,7 @@
       "book_url": "https://www.qidian.com/book/1009915605/"
     },
     {
-      "rank": 384,
+      "rank": 385,
       "book_id": "1000616",
       "book_name": "重生西游",
       "author": "宅猪",
@@ -8169,7 +8190,7 @@
       "book_url": "https://www.qidian.com/book/1000616/"
     },
     {
-      "rank": 385,
+      "rank": 386,
       "book_id": "1003714606",
       "book_name": "火影之最强震遁",
       "author": "夜南听风",
@@ -8190,7 +8211,7 @@
       "book_url": "https://www.qidian.com/book/1003714606/"
     },
     {
-      "rank": 386,
+      "rank": 387,
       "book_id": "3542798",
       "book_name": "幻想世界大穿越",
       "author": "辰一十一",
@@ -8211,7 +8232,7 @@
       "book_url": "https://www.qidian.com/book/3542798/"
     },
     {
-      "rank": 387,
+      "rank": 388,
       "book_id": "1021183429",
       "book_name": "从斗罗开始签到女神",
       "author": "柠檬ice",
@@ -8232,7 +8253,7 @@
       "book_url": "https://www.qidian.com/book/1021183429/"
     },
     {
-      "rank": 388,
+      "rank": 389,
       "book_id": "1036211225",
       "book_name": "我！清理员！",
       "author": "鱼狱圄",
@@ -8253,7 +8274,7 @@
       "book_url": "https://www.qidian.com/book/1036211225/"
     },
     {
-      "rank": 389,
+      "rank": 390,
       "book_id": "1015276074",
       "book_name": "饲养全人类",
       "author": "三百斤的微笑",
@@ -8274,7 +8295,7 @@
       "book_url": "https://www.qidian.com/book/1015276074/"
     },
     {
-      "rank": 390,
+      "rank": 391,
       "book_id": "1024222253",
       "book_name": "不死的我只好假扮血族",
       "author": "屠鸽者",
@@ -8297,7 +8318,7 @@
       "book_url": "https://www.qidian.com/book/1024222253/"
     },
     {
-      "rank": 391,
+      "rank": 392,
       "book_id": "3584300",
       "book_name": "颤栗世界",
       "author": "奥比椰",
@@ -8318,7 +8339,7 @@
       "book_url": "https://www.qidian.com/book/3584300/"
     },
     {
-      "rank": 392,
+      "rank": 393,
       "book_id": "1011831961",
       "book_name": "天下第九",
       "author": "鹅是老五",
@@ -8339,7 +8360,7 @@
       "book_url": "https://www.qidian.com/book/1011831961/"
     },
     {
-      "rank": 393,
+      "rank": 394,
       "book_id": "1032610158",
       "book_name": "红楼之挽天倾",
       "author": "林悦南兮",
@@ -8360,7 +8381,7 @@
       "book_url": "https://www.qidian.com/book/1032610158/"
     },
     {
-      "rank": 394,
+      "rank": 395,
       "book_id": "1043695973",
       "book_name": "重启人生",
       "author": "王梓钧",
@@ -8381,7 +8402,7 @@
       "book_url": "https://www.qidian.com/book/1043695973/"
     },
     {
-      "rank": 395,
+      "rank": 396,
       "book_id": "1017757758",
       "book_name": "无敌师叔祖",
       "author": "九次绝",
@@ -8402,7 +8423,7 @@
       "book_url": "https://www.qidian.com/book/1017757758/"
     },
     {
-      "rank": 396,
+      "rank": 397,
       "book_id": "1028365093",
       "book_name": "晚唐浮生",
       "author": "孤独麦客",
@@ -8423,7 +8444,7 @@
       "book_url": "https://www.qidian.com/book/1028365093/"
     },
     {
-      "rank": 397,
+      "rank": 398,
       "book_id": "1015289802",
       "book_name": "从1983开始",
       "author": "睡觉会变白",
@@ -8444,7 +8465,7 @@
       "book_url": "https://www.qidian.com/book/1015289802/"
     },
     {
-      "rank": 398,
+      "rank": 399,
       "book_id": "1586078",
       "book_name": "重生之玩物人生",
       "author": "尝谕",
@@ -8465,7 +8486,7 @@
       "book_url": "https://www.qidian.com/book/1586078/"
     },
     {
-      "rank": 399,
+      "rank": 400,
       "book_id": "1036894162",
       "book_name": "才将白月光追到手，青梅竹马急了",
       "author": "天.蚕",
@@ -8486,7 +8507,7 @@
       "book_url": "https://www.qidian.com/book/1036894162/"
     },
     {
-      "rank": 400,
+      "rank": 401,
       "book_id": "1023715291",
       "book_name": "旧日之箓",
       "author": "熊狼狗",
@@ -8507,7 +8528,7 @@
       "book_url": "https://www.qidian.com/book/1023715291/"
     },
     {
-      "rank": 401,
+      "rank": 402,
       "book_id": "1034000598",
       "book_name": "猩红降临",
       "author": "黑山老鬼",
@@ -8528,7 +8549,7 @@
       "book_url": "https://www.qidian.com/book/1034000598/"
     },
     {
-      "rank": 402,
+      "rank": 403,
       "book_id": "3313422",
       "book_name": "深渊主宰",
       "author": "诸生浮屠",
@@ -8551,7 +8572,7 @@
       "book_url": "https://www.qidian.com/book/3313422/"
     },
     {
-      "rank": 403,
+      "rank": 404,
       "book_id": "1035282882",
       "book_name": "神明模拟器",
       "author": "鹿人戛",
@@ -8572,7 +8593,7 @@
       "book_url": "https://www.qidian.com/book/1035282882/"
     },
     {
-      "rank": 404,
+      "rank": 405,
       "book_id": "1479",
       "book_name": "江山美人志",
       "author": "瑞根",
@@ -8593,7 +8614,7 @@
       "book_url": "https://www.qidian.com/book/1479/"
     },
     {
-      "rank": 405,
+      "rank": 406,
       "book_id": "1033383600",
       "book_name": "反派大师兄，师妹们全是病娇",
       "author": "就爱吃话梅",
@@ -8614,7 +8635,7 @@
       "book_url": "https://www.qidian.com/book/1033383600/"
     },
     {
-      "rank": 406,
+      "rank": 407,
       "book_id": "1505511",
       "book_name": "地师",
       "author": "徐公子胜治",
@@ -8635,7 +8656,7 @@
       "book_url": "https://www.qidian.com/book/1505511/"
     },
     {
-      "rank": 407,
+      "rank": 408,
       "book_id": "3662715",
       "book_name": "大魏宫廷",
       "author": "贱宗首席弟子",
@@ -8654,27 +8675,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/3662715/150.webp",
       "book_url": "https://www.qidian.com/book/3662715/"
-    },
-    {
-      "rank": 408,
-      "book_id": "1036777227",
-      "book_name": "说好制作烂游戏，泰坦陨落什么鬼",
-      "author": "布洛芬战士",
-      "gender": "男频",
-      "primary_tag": "游戏",
-      "secondary_tags": [
-        "游戏系统"
-      ],
-      "all_tags": [
-        "游戏",
-        "游戏系统"
-      ],
-      "abstract": "新书《让你修仙，你修成游戏老祖了？》已发布！【我，沈妙妙，开局被迫接手一家游戏公司。】不过好在，返利系统及时觉醒，只要公司亏损，系统就会以十倍返利进行补偿！所以，本少女总裁的目标是——干倒公司！财富自由！【我，顾晟，开局穿越成了一名游戏设计师。】不过好在，游戏宝库系统觉醒，只要不断产出爆款游戏，就能登上游戏之王的宝座！所以，本游戏总监的目标是——做大做强！再创辉煌！……当摆烂总裁遇上老六设计师，公司的画风逐渐抽象——“说好的机甲游戏没人玩呢？你这《泰坦陨落》什么鬼？”“说好的恐怖游戏市场差呢？你这《逃生》是什么情况？”“说好的二代射击容易赔呢？你特么《使命召唤》都要翻拍了？”看着那全线盈利的财报，沈妙妙脑瓜子嗡嗡的。一分钱都亏不出去的她，只能把心一横！“从现在开始！给我狠狠折磨玩家！”她就不信，这钱她还亏不出去了！闻言，顾晟将手中的一沓策划案展开：“那老板你看——黑、血、仁、狼……咱们先做哪个？”",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1036777227/150.webp",
-      "book_url": "https://www.qidian.com/book/1036777227/"
     },
     {
       "rank": 409,
@@ -8699,6 +8699,27 @@
     },
     {
       "rank": 410,
+      "book_id": "1036777227",
+      "book_name": "说好制作烂游戏，泰坦陨落什么鬼",
+      "author": "布洛芬战士",
+      "gender": "男频",
+      "primary_tag": "游戏",
+      "secondary_tags": [
+        "游戏系统"
+      ],
+      "all_tags": [
+        "游戏",
+        "游戏系统"
+      ],
+      "abstract": "新书《让你修仙，你修成游戏老祖了？》已发布！【我，沈妙妙，开局被迫接手一家游戏公司。】不过好在，返利系统及时觉醒，只要公司亏损，系统就会以十倍返利进行补偿！所以，本少女总裁的目标是——干倒公司！财富自由！【我，顾晟，开局穿越成了一名游戏设计师。】不过好在，游戏宝库系统觉醒，只要不断产出爆款游戏，就能登上游戏之王的宝座！所以，本游戏总监的目标是——做大做强！再创辉煌！……当摆烂总裁遇上老六设计师，公司的画风逐渐抽象——“说好的机甲游戏没人玩呢？你这《泰坦陨落》什么鬼？”“说好的恐怖游戏市场差呢？你这《逃生》是什么情况？”“说好的二代射击容易赔呢？你特么《使命召唤》都要翻拍了？”看着那全线盈利的财报，沈妙妙脑瓜子嗡嗡的。一分钱都亏不出去的她，只能把心一横！“从现在开始！给我狠狠折磨玩家！”她就不信，这钱她还亏不出去了！闻言，顾晟将手中的一沓策划案展开：“那老板你看——黑、血、仁、狼……咱们先做哪个？”",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1036777227/150.webp",
+      "book_url": "https://www.qidian.com/book/1036777227/"
+    },
+    {
+      "rank": 411,
       "book_id": "1038079835",
       "book_name": "重启神话",
       "author": "凤嘲凰",
@@ -8719,7 +8740,7 @@
       "book_url": "https://www.qidian.com/book/1038079835/"
     },
     {
-      "rank": 411,
+      "rank": 412,
       "book_id": "1025543103",
       "book_name": "噩梦惊袭",
       "author": "温柔劝睡师",
@@ -8740,7 +8761,7 @@
       "book_url": "https://www.qidian.com/book/1025543103/"
     },
     {
-      "rank": 412,
+      "rank": 413,
       "book_id": "1524659",
       "book_name": "异世邪君",
       "author": "风凌天下",
@@ -8761,7 +8782,7 @@
       "book_url": "https://www.qidian.com/book/1524659/"
     },
     {
-      "rank": 413,
+      "rank": 414,
       "book_id": "1039028902",
       "book_name": "天命皆烬",
       "author": "阴天神隐",
@@ -8782,7 +8803,7 @@
       "book_url": "https://www.qidian.com/book/1039028902/"
     },
     {
-      "rank": 414,
+      "rank": 415,
       "book_id": "1011049064",
       "book_name": "一品修仙",
       "author": "不放心油条",
@@ -8803,7 +8824,7 @@
       "book_url": "https://www.qidian.com/book/1011049064/"
     },
     {
-      "rank": 415,
+      "rank": 416,
       "book_id": "1023439204",
       "book_name": "我在玄幻世界冒充天机神算",
       "author": "残剑",
@@ -8824,7 +8845,7 @@
       "book_url": "https://www.qidian.com/book/1023439204/"
     },
     {
-      "rank": 416,
+      "rank": 417,
       "book_id": "1035347647",
       "book_name": "仙人只想躺着",
       "author": "猪心虾仁",
@@ -8845,7 +8866,7 @@
       "book_url": "https://www.qidian.com/book/1035347647/"
     },
     {
-      "rank": 417,
+      "rank": 418,
       "book_id": "1039989149",
       "book_name": "从箭术开始修行",
       "author": "豆浆油条热干面",
@@ -8866,7 +8887,7 @@
       "book_url": "https://www.qidian.com/book/1039989149/"
     },
     {
-      "rank": 418,
+      "rank": 419,
       "book_id": "1025461668",
       "book_name": "每天都离现形更近一步",
       "author": "陈词懒调",
@@ -8887,7 +8908,7 @@
       "book_url": "https://www.qidian.com/book/1025461668/"
     },
     {
-      "rank": 419,
+      "rank": 420,
       "book_id": "1003692682",
       "book_name": "超级神基因",
       "author": "十二翼黑暗炽天使",
@@ -8908,7 +8929,7 @@
       "book_url": "https://www.qidian.com/book/1003692682/"
     },
     {
-      "rank": 420,
+      "rank": 421,
       "book_id": "1039229",
       "book_name": "权柄",
       "author": "三戒大师",
@@ -8929,7 +8950,7 @@
       "book_url": "https://www.qidian.com/book/1039229/"
     },
     {
-      "rank": 421,
+      "rank": 422,
       "book_id": "1019401181",
       "book_name": "篮球从呼吸法开始",
       "author": "爱打球的毛毛",
@@ -8950,7 +8971,7 @@
       "book_url": "https://www.qidian.com/book/1019401181/"
     },
     {
-      "rank": 422,
+      "rank": 423,
       "book_id": "1016049749",
       "book_name": "我能提取熟练度",
       "author": "云东流",
@@ -8971,7 +8992,7 @@
       "book_url": "https://www.qidian.com/book/1016049749/"
     },
     {
-      "rank": 423,
+      "rank": 424,
       "book_id": "1013026063",
       "book_name": "重生野性时代",
       "author": "王梓钧",
@@ -8992,7 +9013,7 @@
       "book_url": "https://www.qidian.com/book/1013026063/"
     },
     {
-      "rank": 424,
+      "rank": 425,
       "book_id": "1368297",
       "book_name": "上品寒士",
       "author": "贼道三痴",
@@ -9013,7 +9034,7 @@
       "book_url": "https://www.qidian.com/book/1368297/"
     },
     {
-      "rank": 425,
+      "rank": 426,
       "book_id": "1015338557",
       "book_name": "我给万物加个点",
       "author": "常世",
@@ -9034,7 +9055,7 @@
       "book_url": "https://www.qidian.com/book/1015338557/"
     },
     {
-      "rank": 426,
+      "rank": 427,
       "book_id": "1025750236",
       "book_name": "全球进入大洪水时代",
       "author": "死神钓者",
@@ -9055,7 +9076,7 @@
       "book_url": "https://www.qidian.com/book/1025750236/"
     },
     {
-      "rank": 427,
+      "rank": 428,
       "book_id": "86766",
       "book_name": "都市至尊首富",
       "author": "鱼人二代",
@@ -9076,7 +9097,7 @@
       "book_url": "https://www.qidian.com/book/86766/"
     },
     {
-      "rank": 428,
+      "rank": 429,
       "book_id": "1003694333",
       "book_name": "斗战狂潮",
       "author": "骷髅精灵",
@@ -9097,7 +9118,7 @@
       "book_url": "https://www.qidian.com/book/1003694333/"
     },
     {
-      "rank": 429,
+      "rank": 430,
       "book_id": "1030665314",
       "book_name": "人道大圣",
       "author": "莫默",
@@ -9118,7 +9139,7 @@
       "book_url": "https://www.qidian.com/book/1030665314/"
     },
     {
-      "rank": 430,
+      "rank": 431,
       "book_id": "3638453",
       "book_name": "五行天",
       "author": "方想",
@@ -9139,7 +9160,7 @@
       "book_url": "https://www.qidian.com/book/3638453/"
     },
     {
-      "rank": 431,
+      "rank": 432,
       "book_id": "1040320296",
       "book_name": "大明：开局请朱元璋退位",
       "author": "姜阿山小树",
@@ -9160,7 +9181,7 @@
       "book_url": "https://www.qidian.com/book/1040320296/"
     },
     {
-      "rank": 432,
+      "rank": 433,
       "book_id": "1037094455",
       "book_name": "大明第一贪官",
       "author": "渝江河",
@@ -9181,7 +9202,7 @@
       "book_url": "https://www.qidian.com/book/1037094455/"
     },
     {
-      "rank": 433,
+      "rank": 434,
       "book_id": "1024469627",
       "book_name": "仙界第一卧底",
       "author": "中二少年肤浅",
@@ -9202,7 +9223,7 @@
       "book_url": "https://www.qidian.com/book/1024469627/"
     },
     {
-      "rank": 434,
+      "rank": 435,
       "book_id": "1037188069",
       "book_name": "灾变卡皇",
       "author": "盲候",
@@ -9223,7 +9244,7 @@
       "book_url": "https://www.qidian.com/book/1037188069/"
     },
     {
-      "rank": 435,
+      "rank": 436,
       "book_id": "1037555204",
       "book_name": "我一精神病，被挑中参加规则怪谈",
       "author": "小渔吃不饱",
@@ -9244,7 +9265,7 @@
       "book_url": "https://www.qidian.com/book/1037555204/"
     },
     {
-      "rank": 436,
+      "rank": 437,
       "book_id": "3234652",
       "book_name": "夜天子",
       "author": "月关",
@@ -9265,7 +9286,7 @@
       "book_url": "https://www.qidian.com/book/3234652/"
     },
     {
-      "rank": 437,
+      "rank": 438,
       "book_id": "2872920",
       "book_name": "我的女友是丧尸",
       "author": "黑暗荔枝",
@@ -9288,7 +9309,7 @@
       "book_url": "https://www.qidian.com/book/2872920/"
     },
     {
-      "rank": 438,
+      "rank": 439,
       "book_id": "1017580377",
       "book_name": "我老婆是大明星",
       "author": "玉米煮不熟",
@@ -9309,7 +9330,7 @@
       "book_url": "https://www.qidian.com/book/1017580377/"
     },
     {
-      "rank": 439,
+      "rank": 440,
       "book_id": "1038970972",
       "book_name": "他们越反对，越是说明我做对了",
       "author": "金属雨点",
@@ -9330,7 +9351,7 @@
       "book_url": "https://www.qidian.com/book/1038970972/"
     },
     {
-      "rank": 440,
+      "rank": 441,
       "book_id": "2227457",
       "book_name": "飞天",
       "author": "跃千愁",
@@ -9351,7 +9372,7 @@
       "book_url": "https://www.qidian.com/book/2227457/"
     },
     {
-      "rank": 441,
+      "rank": 442,
       "book_id": "1042444808",
       "book_name": "坐看仙倾",
       "author": "错哪儿了",
@@ -9372,7 +9393,7 @@
       "book_url": "https://www.qidian.com/book/1042444808/"
     },
     {
-      "rank": 442,
+      "rank": 443,
       "book_id": "1015710955",
       "book_name": "我真的是正派",
       "author": "白驹易逝",
@@ -9393,7 +9414,7 @@
       "book_url": "https://www.qidian.com/book/1015710955/"
     },
     {
-      "rank": 443,
+      "rank": 444,
       "book_id": "1167384",
       "book_name": "天王",
       "author": "跳舞",
@@ -9414,7 +9435,7 @@
       "book_url": "https://www.qidian.com/book/1167384/"
     },
     {
-      "rank": 444,
+      "rank": 445,
       "book_id": "1175246",
       "book_name": "凌天传说",
       "author": "风凌天下",
@@ -9435,7 +9456,7 @@
       "book_url": "https://www.qidian.com/book/1175246/"
     },
     {
-      "rank": 445,
+      "rank": 446,
       "book_id": "1015358161",
       "book_name": "玄浑道章",
       "author": "误道者",
@@ -9456,7 +9477,7 @@
       "book_url": "https://www.qidian.com/book/1015358161/"
     },
     {
-      "rank": 446,
+      "rank": 447,
       "book_id": "40717",
       "book_name": "惟我独仙",
       "author": "唐家三少",
@@ -9477,7 +9498,7 @@
       "book_url": "https://www.qidian.com/book/40717/"
     },
     {
-      "rank": 447,
+      "rank": 448,
       "book_id": "1034328271",
       "book_name": "大苍守夜人",
       "author": "二十四桥明月夜",
@@ -9498,7 +9519,7 @@
       "book_url": "https://www.qidian.com/book/1034328271/"
     },
     {
-      "rank": 448,
+      "rank": 449,
       "book_id": "1005392714",
       "book_name": "狂探",
       "author": "旷海忘湖",
@@ -9519,7 +9540,7 @@
       "book_url": "https://www.qidian.com/book/1005392714/"
     },
     {
-      "rank": 449,
+      "rank": 450,
       "book_id": "2817301",
       "book_name": "灵域",
       "author": "逆苍天",
@@ -9540,7 +9561,7 @@
       "book_url": "https://www.qidian.com/book/2817301/"
     },
     {
-      "rank": 450,
+      "rank": 451,
       "book_id": "3088498",
       "book_name": "重生之神级败家子",
       "author": "辰机唐红豆",
@@ -9561,7 +9582,7 @@
       "book_url": "https://www.qidian.com/book/3088498/"
     },
     {
-      "rank": 451,
+      "rank": 452,
       "book_id": "1025677149",
       "book_name": "弃宇宙",
       "author": "鹅是老五",
@@ -9582,7 +9603,7 @@
       "book_url": "https://www.qidian.com/book/1025677149/"
     },
     {
-      "rank": 452,
+      "rank": 453,
       "book_id": "1038219653",
       "book_name": "大宣武圣",
       "author": "夜南听风",
@@ -9603,7 +9624,7 @@
       "book_url": "https://www.qidian.com/book/1038219653/"
     },
     {
-      "rank": 453,
+      "rank": 454,
       "book_id": "1280156",
       "book_name": "混乱战神",
       "author": "撞破南墙",
@@ -9624,7 +9645,7 @@
       "book_url": "https://www.qidian.com/book/1280156/"
     },
     {
-      "rank": 454,
+      "rank": 455,
       "book_id": "3569244",
       "book_name": "我在末世有套房",
       "author": "晨星LL",
@@ -9645,7 +9666,7 @@
       "book_url": "https://www.qidian.com/book/3569244/"
     },
     {
-      "rank": 455,
+      "rank": 456,
       "book_id": "1414604",
       "book_name": "傲剑凌云",
       "author": "小刀锋利",
@@ -9666,7 +9687,7 @@
       "book_url": "https://www.qidian.com/book/1414604/"
     },
     {
-      "rank": 456,
+      "rank": 457,
       "book_id": "1028756851",
       "book_name": "众神世界从虫族开始崛起",
       "author": "神凰争渡",
@@ -9687,7 +9708,7 @@
       "book_url": "https://www.qidian.com/book/1028756851/"
     },
     {
-      "rank": 457,
+      "rank": 458,
       "book_id": "1551407",
       "book_name": "末世超级商人",
       "author": "雨水",
@@ -9708,7 +9729,7 @@
       "book_url": "https://www.qidian.com/book/1551407/"
     },
     {
-      "rank": 458,
+      "rank": 459,
       "book_id": "2648573",
       "book_name": "天骄无双",
       "author": "跳舞",
@@ -9729,7 +9750,7 @@
       "book_url": "https://www.qidian.com/book/2648573/"
     },
     {
-      "rank": 459,
+      "rank": 460,
       "book_id": "2117586",
       "book_name": "最终进化",
       "author": "卷土",
@@ -9750,7 +9771,7 @@
       "book_url": "https://www.qidian.com/book/2117586/"
     },
     {
-      "rank": 460,
+      "rank": 461,
       "book_id": "1004976324",
       "book_name": "顾道长生",
       "author": "睡觉会变白",
@@ -9771,7 +9792,7 @@
       "book_url": "https://www.qidian.com/book/1004976324/"
     },
     {
-      "rank": 461,
+      "rank": 462,
       "book_id": "1034625995",
       "book_name": "神印王座II皓月当空",
       "author": "唐家三少",
@@ -9792,7 +9813,7 @@
       "book_url": "https://www.qidian.com/book/1034625995/"
     },
     {
-      "rank": 462,
+      "rank": 463,
       "book_id": "1016314237",
       "book_name": "万界圆梦师",
       "author": "棉衣卫",
@@ -9813,7 +9834,7 @@
       "book_url": "https://www.qidian.com/book/1016314237/"
     },
     {
-      "rank": 463,
+      "rank": 464,
       "book_id": "1020600369",
       "book_name": "地球人实在太凶猛了",
       "author": "卧牛真人",
@@ -9834,7 +9855,7 @@
       "book_url": "https://www.qidian.com/book/1020600369/"
     },
     {
-      "rank": 464,
+      "rank": 465,
       "book_id": "53234",
       "book_name": "佛本是道",
       "author": "梦入神机",
@@ -9855,7 +9876,7 @@
       "book_url": "https://www.qidian.com/book/53234/"
     },
     {
-      "rank": 465,
+      "rank": 466,
       "book_id": "101839",
       "book_name": "生肖守护神",
       "author": "唐家三少",
@@ -9876,7 +9897,7 @@
       "book_url": "https://www.qidian.com/book/101839/"
     },
     {
-      "rank": 466,
+      "rank": 467,
       "book_id": "1044139620",
       "book_name": "今天毁灭世界了吗？",
       "author": "如星也",
@@ -9897,7 +9918,7 @@
       "book_url": "https://www.qidian.com/book/1044139620/"
     },
     {
-      "rank": 467,
+      "rank": 468,
       "book_id": "1039918657",
       "book_name": "这个武圣血条太厚",
       "author": "不会飞的笔",
@@ -9918,7 +9939,7 @@
       "book_url": "https://www.qidian.com/book/1039918657/"
     },
     {
-      "rank": 468,
+      "rank": 469,
       "book_id": "1040684057",
       "book_name": "北齐怪谈",
       "author": "历史系之狼",
@@ -9939,7 +9960,7 @@
       "book_url": "https://www.qidian.com/book/1040684057/"
     },
     {
-      "rank": 469,
+      "rank": 470,
       "book_id": "123900",
       "book_name": "鬼吹灯II",
       "author": "本物天下霸唱",
@@ -9958,27 +9979,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/123900/150.webp",
       "book_url": "https://www.qidian.com/book/123900/"
-    },
-    {
-      "rank": 470,
-      "book_id": "1003580078",
-      "book_name": "重生之财源滚滚",
-      "author": "老鹰吃小鸡",
-      "gender": "男频",
-      "primary_tag": "都市",
-      "secondary_tags": [
-        "都市生活"
-      ],
-      "all_tags": [
-        "都市",
-        "都市生活"
-      ],
-      "abstract": "当重生成为一种潮流，李东也幸运地赶上了重生的马车。上辈子遗憾太多，这辈子且让他一一弥补！看小人物重回2004，亲情爱情双丰收，发家致富两不误！新书《全球高武》已发布，求支持！（读者群:250605308，全订群号:572213998需验证）",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1003580078/150.webp",
-      "book_url": "https://www.qidian.com/book/1003580078/"
     },
     {
       "rank": 471,
@@ -10003,6 +10003,27 @@
     },
     {
       "rank": 472,
+      "book_id": "1003580078",
+      "book_name": "重生之财源滚滚",
+      "author": "老鹰吃小鸡",
+      "gender": "男频",
+      "primary_tag": "都市",
+      "secondary_tags": [
+        "都市生活"
+      ],
+      "all_tags": [
+        "都市",
+        "都市生活"
+      ],
+      "abstract": "当重生成为一种潮流，李东也幸运地赶上了重生的马车。上辈子遗憾太多，这辈子且让他一一弥补！看小人物重回2004，亲情爱情双丰收，发家致富两不误！新书《全球高武》已发布，求支持！（读者群:250605308，全订群号:572213998需验证）",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1003580078/150.webp",
+      "book_url": "https://www.qidian.com/book/1003580078/"
+    },
+    {
+      "rank": 473,
       "book_id": "1099648",
       "book_name": "比蒙传奇",
       "author": "写字板",
@@ -10023,7 +10044,7 @@
       "book_url": "https://www.qidian.com/book/1099648/"
     },
     {
-      "rank": 473,
+      "rank": 474,
       "book_id": "3441641",
       "book_name": "掠天记",
       "author": "黑山老鬼",
@@ -10044,7 +10065,7 @@
       "book_url": "https://www.qidian.com/book/3441641/"
     },
     {
-      "rank": 474,
+      "rank": 475,
       "book_id": "1024969712",
       "book_name": "开局签到如来神掌",
       "author": "回到原初",
@@ -10065,7 +10086,7 @@
       "book_url": "https://www.qidian.com/book/1024969712/"
     },
     {
-      "rank": 475,
+      "rank": 476,
       "book_id": "1031743384",
       "book_name": "走进不科学",
       "author": "新手钓鱼人",
@@ -10086,7 +10107,7 @@
       "book_url": "https://www.qidian.com/book/1031743384/"
     },
     {
-      "rank": 476,
+      "rank": 477,
       "book_id": "1038645620",
       "book_name": "玄幻：老婆女帝，萌娃大闹九州",
       "author": "我不是老酒",
@@ -10107,7 +10128,7 @@
       "book_url": "https://www.qidian.com/book/1038645620/"
     },
     {
-      "rank": 477,
+      "rank": 478,
       "book_id": "1027068989",
       "book_name": "从龙族开始打穿世界",
       "author": "起飞的大象",
@@ -10128,7 +10149,7 @@
       "book_url": "https://www.qidian.com/book/1027068989/"
     },
     {
-      "rank": 478,
+      "rank": 479,
       "book_id": "1409408",
       "book_name": "步步生莲",
       "author": "月关",
@@ -10149,7 +10170,7 @@
       "book_url": "https://www.qidian.com/book/1409408/"
     },
     {
-      "rank": 479,
+      "rank": 480,
       "book_id": "1013293257",
       "book_name": "舌尖上的霍格沃茨",
       "author": "幽萌之羽",
@@ -10170,7 +10191,7 @@
       "book_url": "https://www.qidian.com/book/1013293257/"
     },
     {
-      "rank": 480,
+      "rank": 481,
       "book_id": "3022294",
       "book_name": "魔天记",
       "author": "忘语",
@@ -10191,7 +10212,7 @@
       "book_url": "https://www.qidian.com/book/3022294/"
     },
     {
-      "rank": 481,
+      "rank": 482,
       "book_id": "149042",
       "book_name": "时光之心",
       "author": "格子里的夜晚",
@@ -10212,7 +10233,7 @@
       "book_url": "https://www.qidian.com/book/149042/"
     },
     {
-      "rank": 482,
+      "rank": 483,
       "book_id": "1040307982",
       "book_name": "苟成圣人，仙官召我养马",
       "author": "任我笑",
@@ -10233,7 +10254,7 @@
       "book_url": "https://www.qidian.com/book/1040307982/"
     },
     {
-      "rank": 483,
+      "rank": 484,
       "book_id": "2430034",
       "book_name": "晚明",
       "author": "柯山梦",
@@ -10254,7 +10275,7 @@
       "book_url": "https://www.qidian.com/book/2430034/"
     },
     {
-      "rank": 484,
+      "rank": 485,
       "book_id": "1016509432",
       "book_name": "世界树的游戏",
       "author": "咯嘣",
@@ -10275,7 +10296,7 @@
       "book_url": "https://www.qidian.com/book/1016509432/"
     },
     {
-      "rank": 485,
+      "rank": 486,
       "book_id": "1033822086",
       "book_name": "我一个人砍翻乱世",
       "author": "新丰",
@@ -10296,7 +10317,7 @@
       "book_url": "https://www.qidian.com/book/1033822086/"
     },
     {
-      "rank": 486,
+      "rank": 487,
       "book_id": "1033731887",
       "book_name": "陈医生，别怂！",
       "author": "手握寸关尺",
@@ -10317,7 +10338,7 @@
       "book_url": "https://www.qidian.com/book/1033731887/"
     },
     {
-      "rank": 487,
+      "rank": 488,
       "book_id": "1024051587",
       "book_name": "这是我的星球",
       "author": "姬叉",
@@ -10338,7 +10359,7 @@
       "book_url": "https://www.qidian.com/book/1024051587/"
     },
     {
-      "rank": 488,
+      "rank": 489,
       "book_id": "1021708634",
       "book_name": "柯学验尸官",
       "author": "河流之汪",
@@ -10359,7 +10380,7 @@
       "book_url": "https://www.qidian.com/book/1021708634/"
     },
     {
-      "rank": 489,
+      "rank": 490,
       "book_id": "37954",
       "book_name": "高手寂寞",
       "author": "兰帝魅晨",
@@ -10380,7 +10401,7 @@
       "book_url": "https://www.qidian.com/book/37954/"
     },
     {
-      "rank": 490,
+      "rank": 491,
       "book_id": "1018092083",
       "book_name": "我非痴愚实乃纯良",
       "author": "怪诞的表哥",
@@ -10401,7 +10422,7 @@
       "book_url": "https://www.qidian.com/book/1018092083/"
     },
     {
-      "rank": 491,
+      "rank": 492,
       "book_id": "1034167664",
       "book_name": "我是导演，我不比烂",
       "author": "不是老狗",
@@ -10422,7 +10443,7 @@
       "book_url": "https://www.qidian.com/book/1034167664/"
     },
     {
-      "rank": 492,
+      "rank": 493,
       "book_id": "1908768",
       "book_name": "锦衣夜行",
       "author": "月关",
@@ -10443,7 +10464,7 @@
       "book_url": "https://www.qidian.com/book/1908768/"
     },
     {
-      "rank": 493,
+      "rank": 494,
       "book_id": "78256",
       "book_name": "寸芒",
       "author": "我吃西红柿",
@@ -10464,7 +10485,7 @@
       "book_url": "https://www.qidian.com/book/78256/"
     },
     {
-      "rank": 494,
+      "rank": 495,
       "book_id": "1034609549",
       "book_name": "终末的绅士",
       "author": "穿黄衣的阿肥",
@@ -10485,7 +10506,7 @@
       "book_url": "https://www.qidian.com/book/1034609549/"
     },
     {
-      "rank": 495,
+      "rank": 496,
       "book_id": "1013228494",
       "book_name": "超神制卡师",
       "author": "零下九十度",
@@ -10506,7 +10527,7 @@
       "book_url": "https://www.qidian.com/book/1013228494/"
     },
     {
-      "rank": 496,
+      "rank": 497,
       "book_id": "3070038",
       "book_name": "大宋的智慧",
       "author": "孑与2",
@@ -10527,7 +10548,7 @@
       "book_url": "https://www.qidian.com/book/3070038/"
     },
     {
-      "rank": 497,
+      "rank": 498,
       "book_id": "1036410434",
       "book_name": "我在荒岛肝属性",
       "author": "最终永恒",
@@ -10548,7 +10569,7 @@
       "book_url": "https://www.qidian.com/book/1036410434/"
     },
     {
-      "rank": 498,
+      "rank": 499,
       "book_id": "1041573111",
       "book_name": "老祖，时代变了",
       "author": "阿玖未",
@@ -10569,7 +10590,7 @@
       "book_url": "https://www.qidian.com/book/1041573111/"
     },
     {
-      "rank": 499,
+      "rank": 500,
       "book_id": "1283959",
       "book_name": "寂灭天骄",
       "author": "高楼大厦",
@@ -10590,7 +10611,7 @@
       "book_url": "https://www.qidian.com/book/1283959/"
     },
     {
-      "rank": 500,
+      "rank": 501,
       "book_id": "1035708597",
       "book_name": "神剑无敌",
       "author": "神见",
@@ -10611,7 +10632,7 @@
       "book_url": "https://www.qidian.com/book/1035708597/"
     },
     {
-      "rank": 501,
+      "rank": 502,
       "book_id": "1026684143",
       "book_name": "仙子很凶",
       "author": "关关公子",
@@ -10632,7 +10653,7 @@
       "book_url": "https://www.qidian.com/book/1026684143/"
     },
     {
-      "rank": 502,
+      "rank": 503,
       "book_id": "1003438608",
       "book_name": "废土崛起",
       "author": "通吃",
@@ -10653,7 +10674,7 @@
       "book_url": "https://www.qidian.com/book/1003438608/"
     },
     {
-      "rank": 503,
+      "rank": 504,
       "book_id": "180029",
       "book_name": "召唤千军",
       "author": "高森",
@@ -10674,7 +10695,7 @@
       "book_url": "https://www.qidian.com/book/180029/"
     },
     {
-      "rank": 504,
+      "rank": 505,
       "book_id": "2124975",
       "book_name": "宠魅",
       "author": "乱",
@@ -10695,7 +10716,7 @@
       "book_url": "https://www.qidian.com/book/2124975/"
     },
     {
-      "rank": 505,
+      "rank": 506,
       "book_id": "1044780667",
       "book_name": "高门庶子",
       "author": "一片雪饼",
@@ -10716,7 +10737,7 @@
       "book_url": "https://www.qidian.com/book/1044780667/"
     },
     {
-      "rank": 506,
+      "rank": 507,
       "book_id": "1038168589",
       "book_name": "临安不夜侯",
       "author": "月关",
@@ -10737,7 +10758,7 @@
       "book_url": "https://www.qidian.com/book/1038168589/"
     },
     {
-      "rank": 507,
+      "rank": 508,
       "book_id": "1036056564",
       "book_name": "让你当兵戒网瘾，你成军官了",
       "author": "特种兵歌",
@@ -10758,7 +10779,7 @@
       "book_url": "https://www.qidian.com/book/1036056564/"
     },
     {
-      "rank": 508,
+      "rank": 509,
       "book_id": "53885",
       "book_name": "空速星痕",
       "author": "唐家三少",
@@ -10779,7 +10800,7 @@
       "book_url": "https://www.qidian.com/book/53885/"
     },
     {
-      "rank": 509,
+      "rank": 510,
       "book_id": "1017419975",
       "book_name": "大唐孽子",
       "author": "南山堂",
@@ -10800,7 +10821,7 @@
       "book_url": "https://www.qidian.com/book/1017419975/"
     },
     {
-      "rank": 510,
+      "rank": 511,
       "book_id": "1343635",
       "book_name": "官居一品",
       "author": "三戒大师",
@@ -10821,7 +10842,7 @@
       "book_url": "https://www.qidian.com/book/1343635/"
     },
     {
-      "rank": 511,
+      "rank": 512,
       "book_id": "1013480015",
       "book_name": "北宋大丈夫",
       "author": "迪巴拉爵士",
@@ -10842,7 +10863,7 @@
       "book_url": "https://www.qidian.com/book/1013480015/"
     },
     {
-      "rank": 512,
+      "rank": 513,
       "book_id": "1032536692",
       "book_name": "掌控时光之龙",
       "author": "唐宋元明氢",
@@ -10863,7 +10884,7 @@
       "book_url": "https://www.qidian.com/book/1032536692/"
     },
     {
-      "rank": 513,
+      "rank": 514,
       "book_id": "1034244836",
       "book_name": "我以神明为食",
       "author": "相思洗红豆",
@@ -10884,49 +10905,7 @@
       "book_url": "https://www.qidian.com/book/1034244836/"
     },
     {
-      "rank": 514,
-      "book_id": "1016604776",
-      "book_name": "颤栗高空",
-      "author": "奥比椰",
-      "gender": "男频",
-      "primary_tag": "悬疑灵异",
-      "secondary_tags": [
-        "诡异神秘"
-      ],
-      "all_tags": [
-        "悬疑灵异",
-        "诡异神秘"
-      ],
-      "abstract": "一觉醒来，出现在了千余米的高空。这是一根高耸入云的石柱的顶端。我是怎么上来的？我该怎么下去？救命啊！",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1016604776/150.webp",
-      "book_url": "https://www.qidian.com/book/1016604776/"
-    },
-    {
       "rank": 515,
-      "book_id": "3268922",
-      "book_name": "巫师之旅",
-      "author": "一行白鹭上青天",
-      "gender": "未知",
-      "primary_tag": "奇幻",
-      "secondary_tags": [
-        "剑与魔法"
-      ],
-      "all_tags": [
-        "奇幻",
-        "剑与魔法"
-      ],
-      "abstract": "给我无尽的知识，我便以自身为支点，撬动无尽世界。故事讲述的是一个名为格林的巫师，依靠自己的智慧和运气，学习自己独特的巫师知识，游历异域世界，参与不同文明战争的故事。新书《灾难降临》已经发布，希望大家多多支持！",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/3268922/150.webp",
-      "book_url": "https://www.qidian.com/book/3268922/"
-    },
-    {
-      "rank": 516,
       "book_id": "1035633356",
       "book_name": "那年华娱",
       "author": "做梦的木头",
@@ -10947,7 +10926,49 @@
       "book_url": "https://www.qidian.com/book/1035633356/"
     },
     {
+      "rank": 516,
+      "book_id": "1016604776",
+      "book_name": "颤栗高空",
+      "author": "奥比椰",
+      "gender": "男频",
+      "primary_tag": "悬疑灵异",
+      "secondary_tags": [
+        "诡异神秘"
+      ],
+      "all_tags": [
+        "悬疑灵异",
+        "诡异神秘"
+      ],
+      "abstract": "一觉醒来，出现在了千余米的高空。这是一根高耸入云的石柱的顶端。我是怎么上来的？我该怎么下去？救命啊！",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1016604776/150.webp",
+      "book_url": "https://www.qidian.com/book/1016604776/"
+    },
+    {
       "rank": 517,
+      "book_id": "3268922",
+      "book_name": "巫师之旅",
+      "author": "一行白鹭上青天",
+      "gender": "未知",
+      "primary_tag": "奇幻",
+      "secondary_tags": [
+        "剑与魔法"
+      ],
+      "all_tags": [
+        "奇幻",
+        "剑与魔法"
+      ],
+      "abstract": "给我无尽的知识，我便以自身为支点，撬动无尽世界。故事讲述的是一个名为格林的巫师，依靠自己的智慧和运气，学习自己独特的巫师知识，游历异域世界，参与不同文明战争的故事。新书《灾难降临》已经发布，希望大家多多支持！",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/3268922/150.webp",
+      "book_url": "https://www.qidian.com/book/3268922/"
+    },
+    {
+      "rank": 518,
       "book_id": "1036671375",
       "book_name": "法力无边高大仙",
       "author": "踏雪真人",
@@ -10968,7 +10989,7 @@
       "book_url": "https://www.qidian.com/book/1036671375/"
     },
     {
-      "rank": 518,
+      "rank": 519,
       "book_id": "1004175804",
       "book_name": "逍遥小书生",
       "author": "荣小荣",
@@ -10989,7 +11010,7 @@
       "book_url": "https://www.qidian.com/book/1004175804/"
     },
     {
-      "rank": 519,
+      "rank": 520,
       "book_id": "1031101410",
       "book_name": "公子别秀",
       "author": "荣小荣",
@@ -11010,7 +11031,7 @@
       "book_url": "https://www.qidian.com/book/1031101410/"
     },
     {
-      "rank": 520,
+      "rank": 521,
       "book_id": "1033013151",
       "book_name": "大国科技",
       "author": "九月酱",
@@ -11031,7 +11052,7 @@
       "book_url": "https://www.qidian.com/book/1033013151/"
     },
     {
-      "rank": 521,
+      "rank": 522,
       "book_id": "1043605775",
       "book_name": "巫师：我的职业面板没有上限",
       "author": "acane酱",
@@ -11050,27 +11071,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1043605775/150.webp",
       "book_url": "https://www.qidian.com/book/1043605775/"
-    },
-    {
-      "rank": 522,
-      "book_id": "1003631173",
-      "book_name": "调教大宋",
-      "author": "苍山月",
-      "gender": "男频",
-      "primary_tag": "历史",
-      "secondary_tags": [
-        "两宋元明"
-      ],
-      "all_tags": [
-        "历史",
-        "两宋元明"
-      ],
-      "abstract": "庆历六年，歌舞升平的赵宋王朝。迎来了一个疯子....亲眼见识了大宋的雍容华贵与温情。起初唐奕只想享受这个时代，什么靖康之耻、蒙古铁骑都与他无关。反正再怎么闹腾历史都有它自己的轨迹。千年之后中华还是中华！亡不了！但当那位忧国忧民的老人出现在他面前的时候，他的心变了...他想为那个老人做点什么顺便为这个时代做点什么....于是怎么把大宋这只羊，变成呲着资本獠牙的狼！成了唐奕唯一的目标！！吐槽群：492610427；全订群：531461799",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1003631173/150.webp",
-      "book_url": "https://www.qidian.com/book/1003631173/"
     },
     {
       "rank": 523,
@@ -11095,6 +11095,27 @@
     },
     {
       "rank": 524,
+      "book_id": "1003631173",
+      "book_name": "调教大宋",
+      "author": "苍山月",
+      "gender": "男频",
+      "primary_tag": "历史",
+      "secondary_tags": [
+        "两宋元明"
+      ],
+      "all_tags": [
+        "历史",
+        "两宋元明"
+      ],
+      "abstract": "庆历六年，歌舞升平的赵宋王朝。迎来了一个疯子....亲眼见识了大宋的雍容华贵与温情。起初唐奕只想享受这个时代，什么靖康之耻、蒙古铁骑都与他无关。反正再怎么闹腾历史都有它自己的轨迹。千年之后中华还是中华！亡不了！但当那位忧国忧民的老人出现在他面前的时候，他的心变了...他想为那个老人做点什么顺便为这个时代做点什么....于是怎么把大宋这只羊，变成呲着资本獠牙的狼！成了唐奕唯一的目标！！吐槽群：492610427；全订群：531461799",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1003631173/150.webp",
+      "book_url": "https://www.qidian.com/book/1003631173/"
+    },
+    {
+      "rank": 525,
       "book_id": "1016407584",
       "book_name": "序列玩家",
       "author": "踏浪寻舟",
@@ -11115,7 +11136,7 @@
       "book_url": "https://www.qidian.com/book/1016407584/"
     },
     {
-      "rank": 525,
+      "rank": 526,
       "book_id": "1033052560",
       "book_name": "天庭最后一个大佬",
       "author": "言归正传",
@@ -11136,7 +11157,7 @@
       "book_url": "https://www.qidian.com/book/1033052560/"
     },
     {
-      "rank": 526,
+      "rank": 527,
       "book_id": "1014196851",
       "book_name": "重回二零零五",
       "author": "独钓长江雪",
@@ -11157,7 +11178,7 @@
       "book_url": "https://www.qidian.com/book/1014196851/"
     },
     {
-      "rank": 527,
+      "rank": 528,
       "book_id": "1035441955",
       "book_name": "刚成仙神，子孙求我出山",
       "author": "任我笑",
@@ -11176,27 +11197,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1035441955/150.webp",
       "book_url": "https://www.qidian.com/book/1035441955/"
-    },
-    {
-      "rank": 528,
-      "book_id": "1043271960",
-      "book_name": "十四亿国民的王国继承人",
-      "author": "刘遇",
-      "gender": "男频",
-      "primary_tag": "轻小说",
-      "secondary_tags": [
-        "原生幻想"
-      ],
-      "all_tags": [
-        "轻小说",
-        "原生幻想"
-      ],
-      "abstract": "夏明宇意外从蓝星穿越到了类似奇幻中世纪，但人人头顶都有着一行身份标签的异世界。平民标签者：为几块黑面包，一栋狭小的房子奋斗终生，整日劳累却惶恐难安。贵族标签者：生来拥有财富，俊美容貌以及撕碎律法的力量，只需尽情享受人生。国王标签者：我不吃牛肉。当惯了牛马的夏明宇，本以为自己穿越了也要继续当牛马时，却发现身旁已经跪满了人，原来他头顶的标签居然是——十四亿国民的王国继承人！夏明宇：“？？？”不是，我哪来的那么大王国？等等，某种意义上来讲，穿越前人人都是接班人...数年后，在开国仪式上，面对着下方无数殷切期盼的国民，第一任也是最后一任国王夏明宇开口道：“我有一个梦想，这片国土上此后不会再有农奴，妓女，奴隶等一切被压迫的人民。”“我有一个梦想，在昔日奴隶之都的遗址上，昔日奴隶的孩子能与昔日贵族的孩子席地而坐，亲如手足、”“我有一个梦想，我的国家里，不会再有人依靠头顶的标签来辨别一个人的高贵，而是依靠品格与道德的优劣。”....“诸位国民，虽前路艰难，更有重重诱惑，但请借予我力量，与我一同实现这些梦想吧！”（注：主角会把制造娼妓的人送上断头台！）",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1043271960/150.webp",
-      "book_url": "https://www.qidian.com/book/1043271960/"
     },
     {
       "rank": 529,
@@ -11221,6 +11221,27 @@
     },
     {
       "rank": 530,
+      "book_id": "1043271960",
+      "book_name": "十四亿国民的王国继承人",
+      "author": "刘遇",
+      "gender": "男频",
+      "primary_tag": "轻小说",
+      "secondary_tags": [
+        "原生幻想"
+      ],
+      "all_tags": [
+        "轻小说",
+        "原生幻想"
+      ],
+      "abstract": "夏明宇意外从蓝星穿越到了类似奇幻中世纪，但人人头顶都有着一行身份标签的异世界。平民标签者：为几块黑面包，一栋狭小的房子奋斗终生，整日劳累却惶恐难安。贵族标签者：生来拥有财富，俊美容貌以及撕碎律法的力量，只需尽情享受人生。国王标签者：我不吃牛肉。当惯了牛马的夏明宇，本以为自己穿越了也要继续当牛马时，却发现身旁已经跪满了人，原来他头顶的标签居然是——十四亿国民的王国继承人！夏明宇：“？？？”不是，我哪来的那么大王国？等等，某种意义上来讲，穿越前人人都是接班人...数年后，在开国仪式上，面对着下方无数殷切期盼的国民，第一任也是最后一任国王夏明宇开口道：“我有一个梦想，这片国土上此后不会再有农奴，妓女，奴隶等一切被压迫的人民。”“我有一个梦想，在昔日奴隶之都的遗址上，昔日奴隶的孩子能与昔日贵族的孩子席地而坐，亲如手足、”“我有一个梦想，我的国家里，不会再有人依靠头顶的标签来辨别一个人的高贵，而是依靠品格与道德的优劣。”....“诸位国民，虽前路艰难，更有重重诱惑，但请借予我力量，与我一同实现这些梦想吧！”（注：主角会把制造娼妓的人送上断头台！）",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1043271960/150.webp",
+      "book_url": "https://www.qidian.com/book/1043271960/"
+    },
+    {
+      "rank": 531,
       "book_id": "1049807",
       "book_name": "大魔王",
       "author": "逆苍天",
@@ -11241,7 +11262,7 @@
       "book_url": "https://www.qidian.com/book/1049807/"
     },
     {
-      "rank": 531,
+      "rank": 532,
       "book_id": "34144",
       "book_name": "大汉帝国风云录",
       "author": "猛子",
@@ -11262,7 +11283,7 @@
       "book_url": "https://www.qidian.com/book/34144/"
     },
     {
-      "rank": 532,
+      "rank": 533,
       "book_id": "1031481816",
       "book_name": "斗罗之我的系统又不服气了",
       "author": "九号掌柜",
@@ -11283,7 +11304,7 @@
       "book_url": "https://www.qidian.com/book/1031481816/"
     },
     {
-      "rank": 533,
+      "rank": 534,
       "book_id": "1015102783",
       "book_name": "黎明医生",
       "author": "机器人瓦力",
@@ -11304,7 +11325,7 @@
       "book_url": "https://www.qidian.com/book/1015102783/"
     },
     {
-      "rank": 534,
+      "rank": 535,
       "book_id": "501",
       "book_name": "小兵传奇",
       "author": "玄雨",
@@ -11325,7 +11346,7 @@
       "book_url": "https://www.qidian.com/book/501/"
     },
     {
-      "rank": 535,
+      "rank": 536,
       "book_id": "1031950",
       "book_name": "卡徒",
       "author": "方想",
@@ -11346,7 +11367,7 @@
       "book_url": "https://www.qidian.com/book/1031950/"
     },
     {
-      "rank": 536,
+      "rank": 537,
       "book_id": "1033533370",
       "book_name": "7号基地",
       "author": "净无痕",
@@ -11367,7 +11388,7 @@
       "book_url": "https://www.qidian.com/book/1033533370/"
     },
     {
-      "rank": 537,
+      "rank": 538,
       "book_id": "1401421",
       "book_name": "疯狂的硬盘",
       "author": "银河九天",
@@ -11388,7 +11409,7 @@
       "book_url": "https://www.qidian.com/book/1401421/"
     },
     {
-      "rank": 538,
+      "rank": 539,
       "book_id": "1028382562",
       "book_name": "NBA：开局一张三分体验卡",
       "author": "一江秋月",
@@ -11409,7 +11430,7 @@
       "book_url": "https://www.qidian.com/book/1028382562/"
     },
     {
-      "rank": 539,
+      "rank": 540,
       "book_id": "1035239681",
       "book_name": "从武王伐纣开始建立千年世家",
       "author": "花非花月夜",
@@ -11430,7 +11451,7 @@
       "book_url": "https://www.qidian.com/book/1035239681/"
     },
     {
-      "rank": 540,
+      "rank": 541,
       "book_id": "1009616",
       "book_name": "恶汉",
       "author": "庚新",
@@ -11451,7 +11472,7 @@
       "book_url": "https://www.qidian.com/book/1009616/"
     },
     {
-      "rank": 541,
+      "rank": 542,
       "book_id": "116406",
       "book_name": "风临异世",
       "author": "蓝领笑笑生",
@@ -11472,7 +11493,7 @@
       "book_url": "https://www.qidian.com/book/116406/"
     },
     {
-      "rank": 542,
+      "rank": 543,
       "book_id": "1035627273",
       "book_name": "巫师：从骑士呼吸法开始肝经验",
       "author": "田隶",
@@ -11493,7 +11514,7 @@
       "book_url": "https://www.qidian.com/book/1035627273/"
     },
     {
-      "rank": 543,
+      "rank": 544,
       "book_id": "1044839471",
       "book_name": "真君驾到",
       "author": "阎ZK",
@@ -11514,7 +11535,7 @@
       "book_url": "https://www.qidian.com/book/1044839471/"
     },
     {
-      "rank": 544,
+      "rank": 545,
       "book_id": "1263084",
       "book_name": "贼胆",
       "author": "发飙的蜗牛",
@@ -11535,7 +11556,7 @@
       "book_url": "https://www.qidian.com/book/1263084/"
     },
     {
-      "rank": 545,
+      "rank": 546,
       "book_id": "1039370183",
       "book_name": "朕能走到对岸吗",
       "author": "爱吃麻辣猪蹄",
@@ -11556,7 +11577,7 @@
       "book_url": "https://www.qidian.com/book/1039370183/"
     },
     {
-      "rank": 546,
+      "rank": 547,
       "book_id": "1037798729",
       "book_name": "那年花开1981",
       "author": "风随流云",
@@ -11577,7 +11598,7 @@
       "book_url": "https://www.qidian.com/book/1037798729/"
     },
     {
-      "rank": 547,
+      "rank": 548,
       "book_id": "2311686",
       "book_name": "光明纪元",
       "author": "血红",
@@ -11598,7 +11619,7 @@
       "book_url": "https://www.qidian.com/book/2311686/"
     },
     {
-      "rank": 548,
+      "rank": 549,
       "book_id": "1032693838",
       "book_name": "龙虎道主",
       "author": "我是瞎混的",
@@ -11619,7 +11640,7 @@
       "book_url": "https://www.qidian.com/book/1032693838/"
     },
     {
-      "rank": 549,
+      "rank": 550,
       "book_id": "3129273",
       "book_name": "逍遥派",
       "author": "白马出淤泥",
@@ -11640,7 +11661,7 @@
       "book_url": "https://www.qidian.com/book/3129273/"
     },
     {
-      "rank": 550,
+      "rank": 551,
       "book_id": "1001827159",
       "book_name": "侠行天下",
       "author": "zhttty",
@@ -11663,7 +11684,7 @@
       "book_url": "https://www.qidian.com/book/1001827159/"
     },
     {
-      "rank": 551,
+      "rank": 552,
       "book_id": "1034314926",
       "book_name": "长生武道：从五禽养生拳开始",
       "author": "真不是许仙",
@@ -11684,7 +11705,7 @@
       "book_url": "https://www.qidian.com/book/1034314926/"
     },
     {
-      "rank": 552,
+      "rank": 553,
       "book_id": "1031263457",
       "book_name": "电影救世主",
       "author": "第十个小号角",
@@ -11705,7 +11726,7 @@
       "book_url": "https://www.qidian.com/book/1031263457/"
     },
     {
-      "rank": 553,
+      "rank": 554,
       "book_id": "1024548872",
       "book_name": "出生就被包养的龙",
       "author": "瑞血丰年",
@@ -11726,7 +11747,7 @@
       "book_url": "https://www.qidian.com/book/1024548872/"
     },
     {
-      "rank": 554,
+      "rank": 555,
       "book_id": "1031784529",
       "book_name": "谁还不是个修行者了",
       "author": "金色茉莉花",
@@ -11747,7 +11768,7 @@
       "book_url": "https://www.qidian.com/book/1031784529/"
     },
     {
-      "rank": 555,
+      "rank": 556,
       "book_id": "1023415526",
       "book_name": "九星之主",
       "author": "育",
@@ -11768,7 +11789,7 @@
       "book_url": "https://www.qidian.com/book/1023415526/"
     },
     {
-      "rank": 556,
+      "rank": 557,
       "book_id": "1045457037",
       "book_name": "贫道要考大学",
       "author": "转角吻猪",
@@ -11789,7 +11810,7 @@
       "book_url": "https://www.qidian.com/book/1045457037/"
     },
     {
-      "rank": 557,
+      "rank": 558,
       "book_id": "1037958529",
       "book_name": "斩灵少女：我契约的全是上古神兵",
       "author": "超电磁驴",
@@ -11810,7 +11831,7 @@
       "book_url": "https://www.qidian.com/book/1037958529/"
     },
     {
-      "rank": 558,
+      "rank": 559,
       "book_id": "1025553433",
       "book_name": "我的云养女友",
       "author": "常世",
@@ -11831,7 +11852,7 @@
       "book_url": "https://www.qidian.com/book/1025553433/"
     },
     {
-      "rank": 559,
+      "rank": 560,
       "book_id": "1021402755",
       "book_name": "我在东京教剑道",
       "author": "康斯坦丁伯爵",
@@ -11852,7 +11873,7 @@
       "book_url": "https://www.qidian.com/book/1021402755/"
     },
     {
-      "rank": 560,
+      "rank": 561,
       "book_id": "1016754466",
       "book_name": "超神宠兽店",
       "author": "古羲",
@@ -11873,7 +11894,7 @@
       "book_url": "https://www.qidian.com/book/1016754466/"
     },
     {
-      "rank": 561,
+      "rank": 562,
       "book_id": "1430017",
       "book_name": "黑锅",
       "author": "常书欣",
@@ -11894,7 +11915,7 @@
       "book_url": "https://www.qidian.com/book/1430017/"
     },
     {
-      "rank": 562,
+      "rank": 563,
       "book_id": "1041917715",
       "book_name": "活人深处",
       "author": "穿黄衣的阿肥",
@@ -11915,7 +11936,7 @@
       "book_url": "https://www.qidian.com/book/1041917715/"
     },
     {
-      "rank": 563,
+      "rank": 564,
       "book_id": "1025080386",
       "book_name": "我不是野人",
       "author": "孑与2",
@@ -11936,7 +11957,7 @@
       "book_url": "https://www.qidian.com/book/1025080386/"
     },
     {
-      "rank": 564,
+      "rank": 565,
       "book_id": "1016758057",
       "book_name": "通幽大圣",
       "author": "封七月",
@@ -11957,7 +11978,7 @@
       "book_url": "https://www.qidian.com/book/1016758057/"
     },
     {
-      "rank": 565,
+      "rank": 566,
       "book_id": "2641978",
       "book_name": "大道独行",
       "author": "雾外江山",
@@ -11978,7 +11999,7 @@
       "book_url": "https://www.qidian.com/book/2641978/"
     },
     {
-      "rank": 566,
+      "rank": 567,
       "book_id": "1028121685",
       "book_name": "长生志异",
       "author": "真愚老人",
@@ -11999,7 +12020,7 @@
       "book_url": "https://www.qidian.com/book/1028121685/"
     },
     {
-      "rank": 567,
+      "rank": 568,
       "book_id": "1512194",
       "book_name": "超级吸收",
       "author": "曾经拥有的方向感",
@@ -12020,7 +12041,7 @@
       "book_url": "https://www.qidian.com/book/1512194/"
     },
     {
-      "rank": 568,
+      "rank": 569,
       "book_id": "1036344735",
       "book_name": "骂谁实力派呢",
       "author": "胖一点",
@@ -12041,7 +12062,7 @@
       "book_url": "https://www.qidian.com/book/1036344735/"
     },
     {
-      "rank": 569,
+      "rank": 570,
       "book_id": "3001062",
       "book_name": "无敌唤灵",
       "author": "苍天白鹤",
@@ -12062,7 +12083,7 @@
       "book_url": "https://www.qidian.com/book/3001062/"
     },
     {
-      "rank": 570,
+      "rank": 571,
       "book_id": "1040984794",
       "book_name": "武圣！",
       "author": "田隶",
@@ -12083,7 +12104,7 @@
       "book_url": "https://www.qidian.com/book/1040984794/"
     },
     {
-      "rank": 571,
+      "rank": 572,
       "book_id": "3683496",
       "book_name": "白袍总管",
       "author": "萧舒",
@@ -12104,7 +12125,7 @@
       "book_url": "https://www.qidian.com/book/3683496/"
     },
     {
-      "rank": 572,
+      "rank": 573,
       "book_id": "1031134042",
       "book_name": "我的成神日志",
       "author": "大力宝",
@@ -12125,7 +12146,7 @@
       "book_url": "https://www.qidian.com/book/1031134042/"
     },
     {
-      "rank": 573,
+      "rank": 574,
       "book_id": "1321622",
       "book_name": "阳神",
       "author": "梦入神机",
@@ -12146,7 +12167,7 @@
       "book_url": "https://www.qidian.com/book/1321622/"
     },
     {
-      "rank": 574,
+      "rank": 575,
       "book_id": "1013861765",
       "book_name": "召唤梦魇",
       "author": "滚开",
@@ -12167,7 +12188,7 @@
       "book_url": "https://www.qidian.com/book/1013861765/"
     },
     {
-      "rank": 575,
+      "rank": 576,
       "book_id": "1010245952",
       "book_name": "重燃",
       "author": "奥尔良烤鲟鱼堡",
@@ -12188,7 +12209,7 @@
       "book_url": "https://www.qidian.com/book/1010245952/"
     },
     {
-      "rank": 576,
+      "rank": 577,
       "book_id": "1033992391",
       "book_name": "重生之我绝不当舔狗",
       "author": "猫戏狗",
@@ -12209,7 +12230,7 @@
       "book_url": "https://www.qidian.com/book/1033992391/"
     },
     {
-      "rank": 577,
+      "rank": 578,
       "book_id": "1592462",
       "book_name": "锦衣当国",
       "author": "特别白",
@@ -12230,7 +12251,7 @@
       "book_url": "https://www.qidian.com/book/1592462/"
     },
     {
-      "rank": 578,
+      "rank": 579,
       "book_id": "1042256884",
       "book_name": "末日：我打造无限列车",
       "author": "不二可乐",
@@ -12251,7 +12272,7 @@
       "book_url": "https://www.qidian.com/book/1042256884/"
     },
     {
-      "rank": 579,
+      "rank": 580,
       "book_id": "53489",
       "book_name": "至尊无赖",
       "author": "跳舞",
@@ -12272,7 +12293,7 @@
       "book_url": "https://www.qidian.com/book/53489/"
     },
     {
-      "rank": 580,
+      "rank": 581,
       "book_id": "1013048595",
       "book_name": "随身带个狩猎空间",
       "author": "青空洗雨",
@@ -12293,7 +12314,7 @@
       "book_url": "https://www.qidian.com/book/1013048595/"
     },
     {
-      "rank": 581,
+      "rank": 582,
       "book_id": "1024722352",
       "book_name": "掌门低调点",
       "author": "幼儿园一把手",
@@ -12314,7 +12335,7 @@
       "book_url": "https://www.qidian.com/book/1024722352/"
     },
     {
-      "rank": 582,
+      "rank": 583,
       "book_id": "3434900",
       "book_name": "网游之大盗贼",
       "author": "泛舟填词",
@@ -12335,7 +12356,7 @@
       "book_url": "https://www.qidian.com/book/3434900/"
     },
     {
-      "rank": 583,
+      "rank": 584,
       "book_id": "3516230",
       "book_name": "完美人生",
       "author": "刀一耕",
@@ -12356,7 +12377,7 @@
       "book_url": "https://www.qidian.com/book/3516230/"
     },
     {
-      "rank": 584,
+      "rank": 585,
       "book_id": "1034029056",
       "book_name": "大国军舰",
       "author": "华东之雄",
@@ -12377,7 +12398,7 @@
       "book_url": "https://www.qidian.com/book/1034029056/"
     },
     {
-      "rank": 585,
+      "rank": 586,
       "book_id": "1004936518",
       "book_name": "未来天王",
       "author": "陈词懒调",
@@ -12400,7 +12421,7 @@
       "book_url": "https://www.qidian.com/book/1004936518/"
     },
     {
-      "rank": 586,
+      "rank": 587,
       "book_id": "1350244",
       "book_name": "剑噬天下",
       "author": "乘风御剑",
@@ -12421,7 +12442,7 @@
       "book_url": "https://www.qidian.com/book/1350244/"
     },
     {
-      "rank": 587,
+      "rank": 588,
       "book_id": "2540310",
       "book_name": "帝尊",
       "author": "宅猪",
@@ -12442,7 +12463,7 @@
       "book_url": "https://www.qidian.com/book/2540310/"
     },
     {
-      "rank": 588,
+      "rank": 589,
       "book_id": "1021283704",
       "book_name": "太乙",
       "author": "雾外江山",
@@ -12463,7 +12484,7 @@
       "book_url": "https://www.qidian.com/book/1021283704/"
     },
     {
-      "rank": 589,
+      "rank": 590,
       "book_id": "1011092046",
       "book_name": "剑徒之路",
       "author": "惰堕",
@@ -12484,7 +12505,7 @@
       "book_url": "https://www.qidian.com/book/1011092046/"
     },
     {
-      "rank": 590,
+      "rank": 591,
       "book_id": "1036660859",
       "book_name": "末世：我的关键词比别人多一个",
       "author": "棉衣卫",
@@ -12505,7 +12526,7 @@
       "book_url": "https://www.qidian.com/book/1036660859/"
     },
     {
-      "rank": 591,
+      "rank": 592,
       "book_id": "1030846729",
       "book_name": "我已不做大佬好多年",
       "author": "萌俊",
@@ -12526,7 +12547,7 @@
       "book_url": "https://www.qidian.com/book/1030846729/"
     },
     {
-      "rank": 592,
+      "rank": 593,
       "book_id": "119863",
       "book_name": "网游之模拟城市",
       "author": "笨太子",
@@ -12547,7 +12568,7 @@
       "book_url": "https://www.qidian.com/book/119863/"
     },
     {
-      "rank": 593,
+      "rank": 594,
       "book_id": "1042181628",
       "book_name": "我成了女魔头的心魔",
       "author": "金秋雨落",
@@ -12568,7 +12589,7 @@
       "book_url": "https://www.qidian.com/book/1042181628/"
     },
     {
-      "rank": 594,
+      "rank": 595,
       "book_id": "1911245",
       "book_name": "杀神",
       "author": "逆苍天",
@@ -12589,7 +12610,7 @@
       "book_url": "https://www.qidian.com/book/1911245/"
     },
     {
-      "rank": 595,
+      "rank": 596,
       "book_id": "1014234529",
       "book_name": "我夺舍了魔皇",
       "author": "八月飞鹰",
@@ -12610,7 +12631,7 @@
       "book_url": "https://www.qidian.com/book/1014234529/"
     },
     {
-      "rank": 596,
+      "rank": 597,
       "book_id": "1013184675",
       "book_name": "转生眼中的火影世界",
       "author": "空想之龙",
@@ -12631,7 +12652,7 @@
       "book_url": "https://www.qidian.com/book/1013184675/"
     },
     {
-      "rank": 597,
+      "rank": 598,
       "book_id": "1027307054",
       "book_name": "某霍格沃茨的魔文教授",
       "author": "韩游思",
@@ -12652,7 +12673,7 @@
       "book_url": "https://www.qidian.com/book/1027307054/"
     },
     {
-      "rank": 598,
+      "rank": 599,
       "book_id": "1363451",
       "book_name": "诡刺",
       "author": "纷舞妖姬",
@@ -12673,7 +12694,7 @@
       "book_url": "https://www.qidian.com/book/1363451/"
     },
     {
-      "rank": 599,
+      "rank": 600,
       "book_id": "1017266570",
       "book_name": "重塑千禧年代",
       "author": "渔雪",
@@ -12694,7 +12715,7 @@
       "book_url": "https://www.qidian.com/book/1017266570/"
     },
     {
-      "rank": 600,
+      "rank": 601,
       "book_id": "1034059872",
       "book_name": "亚人娘补完手册",
       "author": "伊巍蟹",
@@ -12715,7 +12736,7 @@
       "book_url": "https://www.qidian.com/book/1034059872/"
     },
     {
-      "rank": 601,
+      "rank": 602,
       "book_id": "1011282175",
       "book_name": "天阿降临",
       "author": "烟雨江南",
@@ -12736,7 +12757,7 @@
       "book_url": "https://www.qidian.com/book/1011282175/"
     },
     {
-      "rank": 602,
+      "rank": 603,
       "book_id": "1017596129",
       "book_name": "我真不是仙二代",
       "author": "明月地上霜",
@@ -12757,7 +12778,7 @@
       "book_url": "https://www.qidian.com/book/1017596129/"
     },
     {
-      "rank": 603,
+      "rank": 604,
       "book_id": "1012894975",
       "book_name": "原来我是妖二代",
       "author": "卖报小郎君",
@@ -12780,7 +12801,7 @@
       "book_url": "https://www.qidian.com/book/1012894975/"
     },
     {
-      "rank": 604,
+      "rank": 605,
       "book_id": "1036314249",
       "book_name": "兼职艺术家",
       "author": "我最白",
@@ -12801,7 +12822,7 @@
       "book_url": "https://www.qidian.com/book/1036314249/"
     },
     {
-      "rank": 605,
+      "rank": 606,
       "book_id": "1032977339",
       "book_name": "倾覆之塔",
       "author": "不祈十弦",
@@ -12822,7 +12843,7 @@
       "book_url": "https://www.qidian.com/book/1032977339/"
     },
     {
-      "rank": 606,
+      "rank": 607,
       "book_id": "1039378361",
       "book_name": "神佛竟是我自己",
       "author": "独孤欢",
@@ -12843,7 +12864,7 @@
       "book_url": "https://www.qidian.com/book/1039378361/"
     },
     {
-      "rank": 607,
+      "rank": 608,
       "book_id": "1023811878",
       "book_name": "血税",
       "author": "大瓜熊",
@@ -12862,27 +12883,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1023811878/150.webp",
       "book_url": "https://www.qidian.com/book/1023811878/"
-    },
-    {
-      "rank": 608,
-      "book_id": "1023215696",
-      "book_name": "天道方程式",
-      "author": "二目",
-      "gender": "未知",
-      "primary_tag": "奇幻",
-      "secondary_tags": [
-        "史诗奇幻"
-      ],
-      "all_tags": [
-        "奇幻",
-        "史诗奇幻"
-      ],
-      "abstract": "这个世界有妖魔鬼怪、魑魅魍魉，有奇术异法，也有权谋相争，但在接受过现代教育的穿越者眼中，探索未知永远摆在第一位！（正经脸）加入枢密府是为了学术研究勾搭女妖是为了学术研究一切都是为了研究，研究就是一切！公主：跟我造——也是为了研究吗！夏凡：那是为了创造研究的环境和培养研究的下一代！PS：选词填空，不是造人。新书读者群：871301822",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1023215696/150.webp",
-      "book_url": "https://www.qidian.com/book/1023215696/"
     },
     {
       "rank": 609,
@@ -12907,6 +12907,27 @@
     },
     {
       "rank": 610,
+      "book_id": "1023215696",
+      "book_name": "天道方程式",
+      "author": "二目",
+      "gender": "未知",
+      "primary_tag": "奇幻",
+      "secondary_tags": [
+        "史诗奇幻"
+      ],
+      "all_tags": [
+        "奇幻",
+        "史诗奇幻"
+      ],
+      "abstract": "这个世界有妖魔鬼怪、魑魅魍魉，有奇术异法，也有权谋相争，但在接受过现代教育的穿越者眼中，探索未知永远摆在第一位！（正经脸）加入枢密府是为了学术研究勾搭女妖是为了学术研究一切都是为了研究，研究就是一切！公主：跟我造——也是为了研究吗！夏凡：那是为了创造研究的环境和培养研究的下一代！PS：选词填空，不是造人。新书读者群：871301822",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1023215696/150.webp",
+      "book_url": "https://www.qidian.com/book/1023215696/"
+    },
+    {
+      "rank": 611,
       "book_id": "1034356220",
       "book_name": "这个文字冒险游戏绝对有毒",
       "author": "七字五彩",
@@ -12927,7 +12948,7 @@
       "book_url": "https://www.qidian.com/book/1034356220/"
     },
     {
-      "rank": 611,
+      "rank": 612,
       "book_id": "1011040896",
       "book_name": "诸天投影",
       "author": "裴屠狗",
@@ -12950,7 +12971,7 @@
       "book_url": "https://www.qidian.com/book/1011040896/"
     },
     {
-      "rank": 612,
+      "rank": 613,
       "book_id": "1023473373",
       "book_name": "平常人类的平凡生活",
       "author": "何处可桃",
@@ -12971,7 +12992,7 @@
       "book_url": "https://www.qidian.com/book/1023473373/"
     },
     {
-      "rank": 613,
+      "rank": 614,
       "book_id": "1036346295",
       "book_name": "我说了我会时光倒流",
       "author": "熊狼狗",
@@ -12992,7 +13013,7 @@
       "book_url": "https://www.qidian.com/book/1036346295/"
     },
     {
-      "rank": 614,
+      "rank": 615,
       "book_id": "3686542",
       "book_name": "恶魔囚笼",
       "author": "颓废龙",
@@ -13011,27 +13032,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/3686542/150.webp",
       "book_url": "https://www.qidian.com/book/3686542/"
-    },
-    {
-      "rank": 615,
-      "book_id": "1036460842",
-      "book_name": "我的御兽真不是邪神",
-      "author": "晨色暮鸦",
-      "gender": "男频",
-      "primary_tag": "玄幻",
-      "secondary_tags": [
-        "异世大陆"
-      ],
-      "all_tags": [
-        "玄幻",
-        "异世大陆"
-      ],
-      "abstract": "陆羽来到了一个邪神窥视、古老禁忌从时光深处复苏的诡异御兽世界。这个世界飞禽走兽、山川河流、乃至是元素都能诞生灵性化为宠兽，其中强大者自身即生态位，辐射出黄泉秘境、骸骨国度、魅魔之巢、天穹树国等生态秘境，孕育无数眷属。御兽师与宠兽契约、培养，驾驭灵性。在目睹【禁忌太阳】事件后，陆羽获得了从世间万物提取素材、编辑【秘食】的能力。进化秘食，以【破碎的黄昏世界】＋【古龙死蛋】=终焉之宴，御兽食用后进化终焉龙神，黄昏领域侵蚀世界，化身末日上帝。技能秘食为御兽掠夺万物技能，走向全知全能，祭祀秘食截取禁忌时光，祭祀古老存在，亵渎诸神。而他的御兽画风也变得诡异起来。有着编织众生之梦，蛛丝缠绕古龙为食的蛛影，也有着污染多元宇宙的深红之主，也有以世界为食的诸界吞噬者……对此，他解释道：“我的御兽们只是有些诡异，真不是邪神啊！”",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1036460842/150.webp",
-      "book_url": "https://www.qidian.com/book/1036460842/"
     },
     {
       "rank": 616,
@@ -13056,6 +13056,27 @@
     },
     {
       "rank": 617,
+      "book_id": "1036460842",
+      "book_name": "我的御兽真不是邪神",
+      "author": "晨色暮鸦",
+      "gender": "男频",
+      "primary_tag": "玄幻",
+      "secondary_tags": [
+        "异世大陆"
+      ],
+      "all_tags": [
+        "玄幻",
+        "异世大陆"
+      ],
+      "abstract": "陆羽来到了一个邪神窥视、古老禁忌从时光深处复苏的诡异御兽世界。这个世界飞禽走兽、山川河流、乃至是元素都能诞生灵性化为宠兽，其中强大者自身即生态位，辐射出黄泉秘境、骸骨国度、魅魔之巢、天穹树国等生态秘境，孕育无数眷属。御兽师与宠兽契约、培养，驾驭灵性。在目睹【禁忌太阳】事件后，陆羽获得了从世间万物提取素材、编辑【秘食】的能力。进化秘食，以【破碎的黄昏世界】＋【古龙死蛋】=终焉之宴，御兽食用后进化终焉龙神，黄昏领域侵蚀世界，化身末日上帝。技能秘食为御兽掠夺万物技能，走向全知全能，祭祀秘食截取禁忌时光，祭祀古老存在，亵渎诸神。而他的御兽画风也变得诡异起来。有着编织众生之梦，蛛丝缠绕古龙为食的蛛影，也有着污染多元宇宙的深红之主，也有以世界为食的诸界吞噬者……对此，他解释道：“我的御兽们只是有些诡异，真不是邪神啊！”",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1036460842/150.webp",
+      "book_url": "https://www.qidian.com/book/1036460842/"
+    },
+    {
+      "rank": 618,
       "book_id": "1077731",
       "book_name": "人道天堂",
       "author": "荆柯守",
@@ -13076,7 +13097,7 @@
       "book_url": "https://www.qidian.com/book/1077731/"
     },
     {
-      "rank": 618,
+      "rank": 619,
       "book_id": "1030665269",
       "book_name": "我真不是乱选的",
       "author": "暮色北冥",
@@ -13097,7 +13118,7 @@
       "book_url": "https://www.qidian.com/book/1030665269/"
     },
     {
-      "rank": 619,
+      "rank": 620,
       "book_id": "1030053097",
       "book_name": "斗罗之我举世无双",
       "author": "青山月夏",
@@ -13118,7 +13139,7 @@
       "book_url": "https://www.qidian.com/book/1030053097/"
     },
     {
-      "rank": 620,
+      "rank": 621,
       "book_id": "1409055",
       "book_name": "三国之宅行天下",
       "author": "贱宗首席弟子",
@@ -13139,7 +13160,7 @@
       "book_url": "https://www.qidian.com/book/1409055/"
     },
     {
-      "rank": 621,
+      "rank": 622,
       "book_id": "1012797863",
       "book_name": "影视世界旅行家",
       "author": "昨夜大雨",
@@ -13160,7 +13181,7 @@
       "book_url": "https://www.qidian.com/book/1012797863/"
     },
     {
-      "rank": 622,
+      "rank": 623,
       "book_id": "1034571136",
       "book_name": "从军火商到战争之王",
       "author": "耗子爱吃鸡腿",
@@ -13181,7 +13202,7 @@
       "book_url": "https://www.qidian.com/book/1034571136/"
     },
     {
-      "rank": 623,
+      "rank": 624,
       "book_id": "1036005048",
       "book_name": "封神：我被众神偷听心声！",
       "author": "脑洞狂想者",
@@ -13202,7 +13223,7 @@
       "book_url": "https://www.qidian.com/book/1036005048/"
     },
     {
-      "rank": 624,
+      "rank": 625,
       "book_id": "1037491938",
       "book_name": "别人练级我修仙，苟到大乘再出山",
       "author": "三五玄七",
@@ -13225,7 +13246,7 @@
       "book_url": "https://www.qidian.com/book/1037491938/"
     },
     {
-      "rank": 625,
+      "rank": 626,
       "book_id": "3347574",
       "book_name": "从前有座灵剑山",
       "author": "国王陛下",
@@ -13248,7 +13269,7 @@
       "book_url": "https://www.qidian.com/book/3347574/"
     },
     {
-      "rank": 626,
+      "rank": 627,
       "book_id": "1026085339",
       "book_name": "我儿快拼爹",
       "author": "东土大茄",
@@ -13269,7 +13290,7 @@
       "book_url": "https://www.qidian.com/book/1026085339/"
     },
     {
-      "rank": 627,
+      "rank": 628,
       "book_id": "1042434597",
       "book_name": "仙不是这么修的",
       "author": "凤嘲凰",
@@ -13290,7 +13311,7 @@
       "book_url": "https://www.qidian.com/book/1042434597/"
     },
     {
-      "rank": 628,
+      "rank": 629,
       "book_id": "1009454017",
       "book_name": "万道龙皇",
       "author": "牧童听竹",
@@ -13311,7 +13332,7 @@
       "book_url": "https://www.qidian.com/book/1009454017/"
     },
     {
-      "rank": 629,
+      "rank": 630,
       "book_id": "1004049449",
       "book_name": "青叶灵异事务所",
       "author": "库奇奇",
@@ -13334,7 +13355,7 @@
       "book_url": "https://www.qidian.com/book/1004049449/"
     },
     {
-      "rank": 630,
+      "rank": 631,
       "book_id": "1011576939",
       "book_name": "同桌凶猛",
       "author": "柳下挥",
@@ -13355,7 +13376,7 @@
       "book_url": "https://www.qidian.com/book/1011576939/"
     },
     {
-      "rank": 631,
+      "rank": 632,
       "book_id": "1037088525",
       "book_name": "末世降临，先杀圣母",
       "author": "缺悦",
@@ -13376,7 +13397,7 @@
       "book_url": "https://www.qidian.com/book/1037088525/"
     },
     {
-      "rank": 632,
+      "rank": 633,
       "book_id": "3660695",
       "book_name": "神藏",
       "author": "打眼",
@@ -13397,7 +13418,7 @@
       "book_url": "https://www.qidian.com/book/3660695/"
     },
     {
-      "rank": 633,
+      "rank": 634,
       "book_id": "1084150",
       "book_name": "顺明",
       "author": "特别白",
@@ -13418,7 +13439,7 @@
       "book_url": "https://www.qidian.com/book/1084150/"
     },
     {
-      "rank": 634,
+      "rank": 635,
       "book_id": "1037027106",
       "book_name": "诡异命纹：开局铭刻十大阎罗",
       "author": "胡言不说",
@@ -13439,7 +13460,7 @@
       "book_url": "https://www.qidian.com/book/1037027106/"
     },
     {
-      "rank": 635,
+      "rank": 636,
       "book_id": "1012016027",
       "book_name": "仙草供应商",
       "author": "寂寞我独走",
@@ -13460,7 +13481,7 @@
       "book_url": "https://www.qidian.com/book/1012016027/"
     },
     {
-      "rank": 636,
+      "rank": 637,
       "book_id": "1125727",
       "book_name": "刑徒",
       "author": "庚新",
@@ -13481,7 +13502,7 @@
       "book_url": "https://www.qidian.com/book/1125727/"
     },
     {
-      "rank": 637,
+      "rank": 638,
       "book_id": "1005399587",
       "book_name": "宠物天王",
       "author": "皆破",
@@ -13504,7 +13525,7 @@
       "book_url": "https://www.qidian.com/book/1005399587/"
     },
     {
-      "rank": 638,
+      "rank": 639,
       "book_id": "181086",
       "book_name": "莲花宝鉴",
       "author": "油炸包子",
@@ -13525,7 +13546,7 @@
       "book_url": "https://www.qidian.com/book/181086/"
     },
     {
-      "rank": 639,
+      "rank": 640,
       "book_id": "1028116749",
       "book_name": "锦衣",
       "author": "上山打老虎额",
@@ -13546,7 +13567,7 @@
       "book_url": "https://www.qidian.com/book/1028116749/"
     },
     {
-      "rank": 640,
+      "rank": 641,
       "book_id": "1039427973",
       "book_name": "剑出衡山",
       "author": "一片苏叶",
@@ -13567,7 +13588,7 @@
       "book_url": "https://www.qidian.com/book/1039427973/"
     },
     {
-      "rank": 641,
+      "rank": 642,
       "book_id": "1103464",
       "book_name": "破灭时空",
       "author": "任怨",
@@ -13588,7 +13609,7 @@
       "book_url": "https://www.qidian.com/book/1103464/"
     },
     {
-      "rank": 642,
+      "rank": 643,
       "book_id": "1771445",
       "book_name": "大周皇族",
       "author": "皇甫奇",
@@ -13609,7 +13630,7 @@
       "book_url": "https://www.qidian.com/book/1771445/"
     },
     {
-      "rank": 643,
+      "rank": 644,
       "book_id": "3094349",
       "book_name": "三界血歌",
       "author": "血红",
@@ -13630,7 +13651,7 @@
       "book_url": "https://www.qidian.com/book/3094349/"
     },
     {
-      "rank": 644,
+      "rank": 645,
       "book_id": "136383",
       "book_name": "张三丰弟子现代生活录",
       "author": "断桥残雪",
@@ -13651,7 +13672,7 @@
       "book_url": "https://www.qidian.com/book/136383/"
     },
     {
-      "rank": 645,
+      "rank": 646,
       "book_id": "1037778561",
       "book_name": "LOL：稳健的我，开局刷满属性",
       "author": "人间以痛吻我",
@@ -13672,7 +13693,7 @@
       "book_url": "https://www.qidian.com/book/1037778561/"
     },
     {
-      "rank": 646,
+      "rank": 647,
       "book_id": "1036692662",
       "book_name": "大明：剧透未来，朱元璋崩溃了",
       "author": "墨守白",
@@ -13693,7 +13714,7 @@
       "book_url": "https://www.qidian.com/book/1036692662/"
     },
     {
-      "rank": 647,
+      "rank": 648,
       "book_id": "1017596768",
       "book_name": "数风流人物",
       "author": "瑞根",
@@ -13714,7 +13735,7 @@
       "book_url": "https://www.qidian.com/book/1017596768/"
     },
     {
-      "rank": 648,
+      "rank": 649,
       "book_id": "1033737401",
       "book_name": "偷偷养只小金乌",
       "author": "育",
@@ -13735,7 +13756,7 @@
       "book_url": "https://www.qidian.com/book/1033737401/"
     },
     {
-      "rank": 649,
+      "rank": 650,
       "book_id": "145840",
       "book_name": "仙界修仙",
       "author": "莫默",
@@ -13756,7 +13777,7 @@
       "book_url": "https://www.qidian.com/book/145840/"
     },
     {
-      "rank": 650,
+      "rank": 651,
       "book_id": "1032753995",
       "book_name": "全球轮回：我的身份有问题",
       "author": "云东流",
@@ -13777,7 +13798,7 @@
       "book_url": "https://www.qidian.com/book/1032753995/"
     },
     {
-      "rank": 651,
+      "rank": 652,
       "book_id": "1036487387",
       "book_name": "您完全不按套路通关是吗",
       "author": "星声",
@@ -13798,7 +13819,7 @@
       "book_url": "https://www.qidian.com/book/1036487387/"
     },
     {
-      "rank": 652,
+      "rank": 653,
       "book_id": "182898",
       "book_name": "老婆爱上我",
       "author": "傲无常",
@@ -13819,7 +13840,7 @@
       "book_url": "https://www.qidian.com/book/182898/"
     },
     {
-      "rank": 653,
+      "rank": 654,
       "book_id": "1017062322",
       "book_name": "从此刻开始让世界感受痛苦",
       "author": "天际白",
@@ -13840,7 +13861,7 @@
       "book_url": "https://www.qidian.com/book/1017062322/"
     },
     {
-      "rank": 654,
+      "rank": 655,
       "book_id": "1022885215",
       "book_name": "大唐第一世家",
       "author": "晴了",
@@ -13861,7 +13882,7 @@
       "book_url": "https://www.qidian.com/book/1022885215/"
     },
     {
-      "rank": 655,
+      "rank": 656,
       "book_id": "66963",
       "book_name": "张三丰异界游",
       "author": "写字板",
@@ -13882,7 +13903,7 @@
       "book_url": "https://www.qidian.com/book/66963/"
     },
     {
-      "rank": 656,
+      "rank": 657,
       "book_id": "1040308337",
       "book_name": "足球：我的AI系统提供满级预判",
       "author": "松园314",
@@ -13903,7 +13924,7 @@
       "book_url": "https://www.qidian.com/book/1040308337/"
     },
     {
-      "rank": 657,
+      "rank": 658,
       "book_id": "1009522",
       "book_name": "重生混元道",
       "author": "鱼泪满江",
@@ -13924,7 +13945,7 @@
       "book_url": "https://www.qidian.com/book/1009522/"
     },
     {
-      "rank": 658,
+      "rank": 659,
       "book_id": "1036316540",
       "book_name": "暮年修仙，我成长寿道尊",
       "author": "徍男",
@@ -13945,7 +13966,7 @@
       "book_url": "https://www.qidian.com/book/1036316540/"
     },
     {
-      "rank": 659,
+      "rank": 660,
       "book_id": "134033",
       "book_name": "冠军教父",
       "author": "林海听涛",
@@ -13966,7 +13987,7 @@
       "book_url": "https://www.qidian.com/book/134033/"
     },
     {
-      "rank": 660,
+      "rank": 661,
       "book_id": "1031623089",
       "book_name": "武林神话：从迎娶江玉燕开始",
       "author": "江户川东南",
@@ -13987,7 +14008,7 @@
       "book_url": "https://www.qidian.com/book/1031623089/"
     },
     {
-      "rank": 661,
+      "rank": 662,
       "book_id": "51004",
       "book_name": "格斗狂想",
       "author": "铅笔刀",
@@ -14006,27 +14027,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/51004/150.webp",
       "book_url": "https://www.qidian.com/book/51004/"
-    },
-    {
-      "rank": 662,
-      "book_id": "1037919923",
-      "book_name": "海盗王权",
-      "author": "北海牧鲸",
-      "gender": "未知",
-      "primary_tag": "奇幻",
-      "secondary_tags": [
-        "剑与魔法"
-      ],
-      "all_tags": [
-        "奇幻",
-        "剑与魔法"
-      ],
-      "abstract": "列王加冕，自血火中崛起；众生叩拜，在王座下咏唱！命运从不因爱而仁慈，因伟大而公平，弱肉强食才是王道！火炮的唯一用途便是丈量国土！射程之内皆为真理！而在这个被巨舰大炮主宰的大航海时代，唯一的真理便是...拿来吧你！“等等！海外都是些什么东西？撤退，撤...啊——！”上一个纪元的伟大存在早已淹没于史诗，无知的凡人趁势而起，擦亮火炮，扬帆起航。可这个时代虽然已经变了，却又没有变得那么彻底。拜伦带着一本【航海日志】，一头扎进了这个神秘、蛮荒、血腥....却也摇摇欲坠的大航海时代。侥幸在红白蔷薇的王位战争中幸存，以海盗民族的湾民之血踏足超凡，登上【荣耀阶梯】。用自己的【王权铁律·海盗法典】威压七海，加冕【狂猎：噬血的暴风之王】。直到这时他才发现，这个即将沉没的蔚蓝世界，或许需要一位...新的船长！",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1037919923/150.webp",
-      "book_url": "https://www.qidian.com/book/1037919923/"
     },
     {
       "rank": 663,
@@ -14051,6 +14051,27 @@
     },
     {
       "rank": 664,
+      "book_id": "1037919923",
+      "book_name": "海盗王权",
+      "author": "北海牧鲸",
+      "gender": "未知",
+      "primary_tag": "奇幻",
+      "secondary_tags": [
+        "剑与魔法"
+      ],
+      "all_tags": [
+        "奇幻",
+        "剑与魔法"
+      ],
+      "abstract": "列王加冕，自血火中崛起；众生叩拜，在王座下咏唱！命运从不因爱而仁慈，因伟大而公平，弱肉强食才是王道！火炮的唯一用途便是丈量国土！射程之内皆为真理！而在这个被巨舰大炮主宰的大航海时代，唯一的真理便是...拿来吧你！“等等！海外都是些什么东西？撤退，撤...啊——！”上一个纪元的伟大存在早已淹没于史诗，无知的凡人趁势而起，擦亮火炮，扬帆起航。可这个时代虽然已经变了，却又没有变得那么彻底。拜伦带着一本【航海日志】，一头扎进了这个神秘、蛮荒、血腥....却也摇摇欲坠的大航海时代。侥幸在红白蔷薇的王位战争中幸存，以海盗民族的湾民之血踏足超凡，登上【荣耀阶梯】。用自己的【王权铁律·海盗法典】威压七海，加冕【狂猎：噬血的暴风之王】。直到这时他才发现，这个即将沉没的蔚蓝世界，或许需要一位...新的船长！",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1037919923/150.webp",
+      "book_url": "https://www.qidian.com/book/1037919923/"
+    },
+    {
+      "rank": 665,
       "book_id": "1004073922",
       "book_name": "异世界的美食家",
       "author": "李鸿天",
@@ -14073,7 +14094,7 @@
       "book_url": "https://www.qidian.com/book/1004073922/"
     },
     {
-      "rank": 665,
+      "rank": 666,
       "book_id": "1015154561",
       "book_name": "建造狂魔",
       "author": "好多牛",
@@ -14094,7 +14115,7 @@
       "book_url": "https://www.qidian.com/book/1015154561/"
     },
     {
-      "rank": 666,
+      "rank": 667,
       "book_id": "99283",
       "book_name": "异界兽医",
       "author": "油炸包子",
@@ -14115,7 +14136,7 @@
       "book_url": "https://www.qidian.com/book/99283/"
     },
     {
-      "rank": 667,
+      "rank": 668,
       "book_id": "1028036771",
       "book_name": "吕布的人生模拟器",
       "author": "会说话的胡子",
@@ -14136,7 +14157,7 @@
       "book_url": "https://www.qidian.com/book/1028036771/"
     },
     {
-      "rank": 668,
+      "rank": 669,
       "book_id": "1010144088",
       "book_name": "无限先知",
       "author": "吴杰超",
@@ -14159,7 +14180,7 @@
       "book_url": "https://www.qidian.com/book/1010144088/"
     },
     {
-      "rank": 669,
+      "rank": 670,
       "book_id": "1040639260",
       "book_name": "恋爱净化协议",
       "author": "伊巍蟹",
@@ -14180,7 +14201,7 @@
       "book_url": "https://www.qidian.com/book/1040639260/"
     },
     {
-      "rank": 670,
+      "rank": 671,
       "book_id": "1040794052",
       "book_name": "从栽下菩提树开始成神",
       "author": "念头不通达",
@@ -14201,7 +14222,7 @@
       "book_url": "https://www.qidian.com/book/1040794052/"
     },
     {
-      "rank": 671,
+      "rank": 672,
       "book_id": "3347952",
       "book_name": "俗人回档",
       "author": "庚不让",
@@ -14222,7 +14243,7 @@
       "book_url": "https://www.qidian.com/book/3347952/"
     },
     {
-      "rank": 672,
+      "rank": 673,
       "book_id": "1034914322",
       "book_name": "我降临于诸天世界",
       "author": "郭家",
@@ -14243,7 +14264,7 @@
       "book_url": "https://www.qidian.com/book/1034914322/"
     },
     {
-      "rank": 673,
+      "rank": 674,
       "book_id": "1035020326",
       "book_name": "危机处理游戏",
       "author": "土土士",
@@ -14264,7 +14285,7 @@
       "book_url": "https://www.qidian.com/book/1035020326/"
     },
     {
-      "rank": 674,
+      "rank": 675,
       "book_id": "1015804431",
       "book_name": "青莲之巅",
       "author": "肖十一莫",
@@ -14285,7 +14306,7 @@
       "book_url": "https://www.qidian.com/book/1015804431/"
     },
     {
-      "rank": 675,
+      "rank": 676,
       "book_id": "1034379627",
       "book_name": "谍影凌云",
       "author": "罗飞羽",
@@ -14306,7 +14327,7 @@
       "book_url": "https://www.qidian.com/book/1034379627/"
     },
     {
-      "rank": 676,
+      "rank": 677,
       "book_id": "1014109610",
       "book_name": "地球第一剑",
       "author": "言归正传",
@@ -14327,7 +14348,7 @@
       "book_url": "https://www.qidian.com/book/1014109610/"
     },
     {
-      "rank": 677,
+      "rank": 678,
       "book_id": "3427715",
       "book_name": "贞观大闲人",
       "author": "贼眉鼠眼",
@@ -14348,7 +14369,7 @@
       "book_url": "https://www.qidian.com/book/3427715/"
     },
     {
-      "rank": 678,
+      "rank": 679,
       "book_id": "1010737835",
       "book_name": "大数据修仙",
       "author": "陈风笑",
@@ -14369,7 +14390,7 @@
       "book_url": "https://www.qidian.com/book/1010737835/"
     },
     {
-      "rank": 679,
+      "rank": 680,
       "book_id": "1018476807",
       "book_name": "红楼春",
       "author": "屋外风吹凉",
@@ -14388,27 +14409,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1018476807/150.webp",
       "book_url": "https://www.qidian.com/book/1018476807/"
-    },
-    {
-      "rank": 680,
-      "book_id": "31468",
-      "book_name": "变脸武士",
-      "author": "跳舞",
-      "gender": "未知",
-      "primary_tag": "奇幻",
-      "secondary_tags": [
-        "剑与魔法"
-      ],
-      "all_tags": [
-        "奇幻",
-        "剑与魔法"
-      ],
-      "abstract": "一个小人物的成长传奇故事……有东方术法的妖异，有魔法世界的奇幻，有金戈铁马的悲壮，有荡气回肠的真情，有捧腹大笑的恶搞……【跳舞出品，必属精品！】【目前本人在起点已经全本的作品：《欲望中的城市》，《嬉皮笑脸》】",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/31468/150.webp",
-      "book_url": "https://www.qidian.com/book/31468/"
     },
     {
       "rank": 681,
@@ -14433,6 +14433,27 @@
     },
     {
       "rank": 682,
+      "book_id": "31468",
+      "book_name": "变脸武士",
+      "author": "跳舞",
+      "gender": "未知",
+      "primary_tag": "奇幻",
+      "secondary_tags": [
+        "剑与魔法"
+      ],
+      "all_tags": [
+        "奇幻",
+        "剑与魔法"
+      ],
+      "abstract": "一个小人物的成长传奇故事……有东方术法的妖异，有魔法世界的奇幻，有金戈铁马的悲壮，有荡气回肠的真情，有捧腹大笑的恶搞……【跳舞出品，必属精品！】【目前本人在起点已经全本的作品：《欲望中的城市》，《嬉皮笑脸》】",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/31468/150.webp",
+      "book_url": "https://www.qidian.com/book/31468/"
+    },
+    {
+      "rank": 683,
       "book_id": "1023208515",
       "book_name": "末世宅在家最稳健",
       "author": "冰火六重天",
@@ -14453,7 +14474,7 @@
       "book_url": "https://www.qidian.com/book/1023208515/"
     },
     {
-      "rank": 683,
+      "rank": 684,
       "book_id": "1029107689",
       "book_name": "加一个，我不太会打",
       "author": "葛洛夫街兄弟",
@@ -14474,7 +14495,7 @@
       "book_url": "https://www.qidian.com/book/1029107689/"
     },
     {
-      "rank": 684,
+      "rank": 685,
       "book_id": "1018970292",
       "book_name": "港综世界大枭雄",
       "author": "萌俊",
@@ -14495,7 +14516,7 @@
       "book_url": "https://www.qidian.com/book/1018970292/"
     },
     {
-      "rank": 685,
+      "rank": 686,
       "book_id": "1011471481",
       "book_name": "这个明星来自地球",
       "author": "关乌鸦",
@@ -14516,7 +14537,7 @@
       "book_url": "https://www.qidian.com/book/1011471481/"
     },
     {
-      "rank": 686,
+      "rank": 687,
       "book_id": "1037557322",
       "book_name": "修仙：当你把事情做到极致",
       "author": "忘记穿马甲",
@@ -14537,7 +14558,7 @@
       "book_url": "https://www.qidian.com/book/1037557322/"
     },
     {
-      "rank": 687,
+      "rank": 688,
       "book_id": "2234059",
       "book_name": "神煌",
       "author": "开荒",
@@ -14558,7 +14579,7 @@
       "book_url": "https://www.qidian.com/book/2234059/"
     },
     {
-      "rank": 688,
+      "rank": 689,
       "book_id": "27146",
       "book_name": "铁血大秦",
       "author": "风华爵士",
@@ -14579,7 +14600,7 @@
       "book_url": "https://www.qidian.com/book/27146/"
     },
     {
-      "rank": 689,
+      "rank": 690,
       "book_id": "1006894811",
       "book_name": "回到明朝当暴君",
       "author": "天煌贵胄",
@@ -14600,7 +14621,7 @@
       "book_url": "https://www.qidian.com/book/1006894811/"
     },
     {
-      "rank": 690,
+      "rank": 691,
       "book_id": "1529640",
       "book_name": "我当阴阳先生的那几年",
       "author": "崔走召",
@@ -14621,7 +14642,7 @@
       "book_url": "https://www.qidian.com/book/1529640/"
     },
     {
-      "rank": 691,
+      "rank": 692,
       "book_id": "1021518584",
       "book_name": "我有一个剑仙娘子",
       "author": "阳小戎",
@@ -14642,7 +14663,7 @@
       "book_url": "https://www.qidian.com/book/1021518584/"
     },
     {
-      "rank": 692,
+      "rank": 693,
       "book_id": "1003529357",
       "book_name": "燃钢之魂",
       "author": "阴天神隐",
@@ -14665,7 +14686,7 @@
       "book_url": "https://www.qidian.com/book/1003529357/"
     },
     {
-      "rank": 693,
+      "rank": 694,
       "book_id": "2182740",
       "book_name": "灭运图录",
       "author": "爱潜水的乌贼",
@@ -14686,7 +14707,7 @@
       "book_url": "https://www.qidian.com/book/2182740/"
     },
     {
-      "rank": 694,
+      "rank": 695,
       "book_id": "3425938",
       "book_name": "原始战记",
       "author": "陈词懒调",
@@ -14707,7 +14728,7 @@
       "book_url": "https://www.qidian.com/book/3425938/"
     },
     {
-      "rank": 695,
+      "rank": 696,
       "book_id": "1036862774",
       "book_name": "武侠：开局获得一甲子内力！",
       "author": "落魄的小纯洁",
@@ -14728,7 +14749,7 @@
       "book_url": "https://www.qidian.com/book/1036862774/"
     },
     {
-      "rank": 696,
+      "rank": 697,
       "book_id": "1031777262",
       "book_name": "重生：原来宝藏女孩等了我十七年",
       "author": "狗粮鱼",
@@ -14749,7 +14770,7 @@
       "book_url": "https://www.qidian.com/book/1031777262/"
     },
     {
-      "rank": 697,
+      "rank": 698,
       "book_id": "1037502499",
       "book_name": "学霸的军工科研系统",
       "author": "十月廿二",
@@ -14770,7 +14791,7 @@
       "book_url": "https://www.qidian.com/book/1037502499/"
     },
     {
-      "rank": 698,
+      "rank": 699,
       "book_id": "1039841174",
       "book_name": "仙官有令",
       "author": "裴不了",
@@ -14791,7 +14812,7 @@
       "book_url": "https://www.qidian.com/book/1039841174/"
     },
     {
-      "rank": 699,
+      "rank": 700,
       "book_id": "1034476014",
       "book_name": "秦功",
       "author": "下雨我带刀",
@@ -14812,7 +14833,7 @@
       "book_url": "https://www.qidian.com/book/1034476014/"
     },
     {
-      "rank": 700,
+      "rank": 701,
       "book_id": "1004990373",
       "book_name": "全民进化时代",
       "author": "黑土冒青烟",
@@ -14833,7 +14854,7 @@
       "book_url": "https://www.qidian.com/book/1004990373/"
     },
     {
-      "rank": 701,
+      "rank": 702,
       "book_id": "1034079746",
       "book_name": "招黑体质开局修行在废土",
       "author": "陈风笑",
@@ -14852,27 +14873,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1034079746/150.webp",
       "book_url": "https://www.qidian.com/book/1034079746/"
-    },
-    {
-      "rank": 702,
-      "book_id": "1040257435",
-      "book_name": "修仙：我在现代留过学",
-      "author": "脑袋大又秃",
-      "gender": "男频",
-      "primary_tag": "仙侠",
-      "secondary_tags": [
-        "修真文明"
-      ],
-      "all_tags": [
-        "仙侠",
-        "修真文明"
-      ],
-      "abstract": "如同核武器只是科学的副产物一样，长生也不过是道途求索中的小小馈赠。新法道祖，大贤良师，万年来最强修士郑法真人招收亲传弟子，参考书籍如下：《符篆中的拓扑学——从小云雨符说起》《法器的人工智能研究：器灵初探》《九转金丹元素分解》《阵法通路基础》注：在《仙道》期刊上发表过论文者优先录取。",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1040257435/150.webp",
-      "book_url": "https://www.qidian.com/book/1040257435/"
     },
     {
       "rank": 703,
@@ -14897,6 +14897,27 @@
     },
     {
       "rank": 704,
+      "book_id": "1040257435",
+      "book_name": "修仙：我在现代留过学",
+      "author": "脑袋大又秃",
+      "gender": "男频",
+      "primary_tag": "仙侠",
+      "secondary_tags": [
+        "修真文明"
+      ],
+      "all_tags": [
+        "仙侠",
+        "修真文明"
+      ],
+      "abstract": "如同核武器只是科学的副产物一样，长生也不过是道途求索中的小小馈赠。新法道祖，大贤良师，万年来最强修士郑法真人招收亲传弟子，参考书籍如下：《符篆中的拓扑学——从小云雨符说起》《法器的人工智能研究：器灵初探》《九转金丹元素分解》《阵法通路基础》注：在《仙道》期刊上发表过论文者优先录取。",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1040257435/150.webp",
+      "book_url": "https://www.qidian.com/book/1040257435/"
+    },
+    {
+      "rank": 705,
       "book_id": "44173",
       "book_name": "星峰传说",
       "author": "我吃西红柿",
@@ -14917,7 +14938,7 @@
       "book_url": "https://www.qidian.com/book/44173/"
     },
     {
-      "rank": 705,
+      "rank": 706,
       "book_id": "1026906551",
       "book_name": "重生：从分手开始的文娱",
       "author": "萌新山鬼",
@@ -14938,7 +14959,7 @@
       "book_url": "https://www.qidian.com/book/1026906551/"
     },
     {
-      "rank": 706,
+      "rank": 707,
       "book_id": "3684955",
       "book_name": "心魔",
       "author": "沁纸花青",
@@ -14959,7 +14980,7 @@
       "book_url": "https://www.qidian.com/book/3684955/"
     },
     {
-      "rank": 707,
+      "rank": 708,
       "book_id": "1015156572",
       "book_name": "创造游戏世界",
       "author": "姐姐的新娘",
@@ -14980,7 +15001,7 @@
       "book_url": "https://www.qidian.com/book/1015156572/"
     },
     {
-      "rank": 708,
+      "rank": 709,
       "book_id": "3123620",
       "book_name": "疯巫妖的实验日志",
       "author": "愤怒的松鼠",
@@ -15003,7 +15024,7 @@
       "book_url": "https://www.qidian.com/book/3123620/"
     },
     {
-      "rank": 709,
+      "rank": 710,
       "book_id": "1021580268",
       "book_name": "我真不是魔神",
       "author": "要离刺荆轲",
@@ -15024,7 +15045,7 @@
       "book_url": "https://www.qidian.com/book/1021580268/"
     },
     {
-      "rank": 710,
+      "rank": 711,
       "book_id": "1040990451",
       "book_name": "非正常美食文",
       "author": "吨吨吨吨吨",
@@ -15045,7 +15066,7 @@
       "book_url": "https://www.qidian.com/book/1040990451/"
     },
     {
-      "rank": 711,
+      "rank": 712,
       "book_id": "3432834",
       "book_name": "黄金渔场",
       "author": "全金属弹壳",
@@ -15068,7 +15089,7 @@
       "book_url": "https://www.qidian.com/book/3432834/"
     },
     {
-      "rank": 712,
+      "rank": 713,
       "book_id": "1040259451",
       "book_name": "星武纪元",
       "author": "猪三不",
@@ -15089,7 +15110,7 @@
       "book_url": "https://www.qidian.com/book/1040259451/"
     },
     {
-      "rank": 713,
+      "rank": 714,
       "book_id": "1026368126",
       "book_name": "全球废土：避难所无限升级",
       "author": "斤斤斤",
@@ -15110,7 +15131,7 @@
       "book_url": "https://www.qidian.com/book/1026368126/"
     },
     {
-      "rank": 714,
+      "rank": 715,
       "book_id": "1421335",
       "book_name": "猎国",
       "author": "跳舞",
@@ -15131,7 +15152,7 @@
       "book_url": "https://www.qidian.com/book/1421335/"
     },
     {
-      "rank": 715,
+      "rank": 716,
       "book_id": "3172915",
       "book_name": "材料帝国",
       "author": "齐橙",
@@ -15152,7 +15173,7 @@
       "book_url": "https://www.qidian.com/book/3172915/"
     },
     {
-      "rank": 716,
+      "rank": 717,
       "book_id": "1010828991",
       "book_name": "无敌真寂寞",
       "author": "新丰",
@@ -15175,7 +15196,7 @@
       "book_url": "https://www.qidian.com/book/1010828991/"
     },
     {
-      "rank": 717,
+      "rank": 718,
       "book_id": "1083499",
       "book_name": "符医天下",
       "author": "叶天南",
@@ -15196,7 +15217,7 @@
       "book_url": "https://www.qidian.com/book/1083499/"
     },
     {
-      "rank": 718,
+      "rank": 719,
       "book_id": "1037525448",
       "book_name": "我的兵种无限进化",
       "author": "笔墨纸键",
@@ -15217,7 +15238,7 @@
       "book_url": "https://www.qidian.com/book/1037525448/"
     },
     {
-      "rank": 719,
+      "rank": 720,
       "book_id": "1016872810",
       "book_name": "洪主",
       "author": "烽仙",
@@ -15238,7 +15259,7 @@
       "book_url": "https://www.qidian.com/book/1016872810/"
     },
     {
-      "rank": 720,
+      "rank": 721,
       "book_id": "1034706141",
       "book_name": "这个影帝要加钱",
       "author": "游方老盗",
@@ -15259,7 +15280,7 @@
       "book_url": "https://www.qidian.com/book/1034706141/"
     },
     {
-      "rank": 721,
+      "rank": 722,
       "book_id": "1036177915",
       "book_name": "我有一枚命运魔骰",
       "author": "水煮仙人球",
@@ -15280,70 +15301,7 @@
       "book_url": "https://www.qidian.com/book/1036177915/"
     },
     {
-      "rank": 722,
-      "book_id": "1024792501",
-      "book_name": "穿越八年才出道",
-      "author": "茗夜",
-      "gender": "男频",
-      "primary_tag": "都市",
-      "secondary_tags": [
-        "娱乐明星"
-      ],
-      "all_tags": [
-        "都市",
-        "娱乐明星"
-      ],
-      "abstract": "新书：当你将一切做到极致。……穿越八年，本想以普通人的身份和你们相处！但是，换来的却是离婚！那我……摊牌了。",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1024792501/150.webp",
-      "book_url": "https://www.qidian.com/book/1024792501/"
-    },
-    {
       "rank": 723,
-      "book_id": "154696",
-      "book_name": "我的美女大小姐",
-      "author": "李兴禹",
-      "gender": "男频",
-      "primary_tag": "都市",
-      "secondary_tags": [
-        "都市生活"
-      ],
-      "all_tags": [
-        "都市",
-        "都市生活"
-      ],
-      "abstract": "一张假冒的脑癌诊断书，使吴天还没来得及谈恋爱就牵着一个陌生女人的手步入婚姻的殿堂。娶一个陌生的女人做老婆，是一场悲剧。娶一个把全世界都骗了的女人做老婆，更是悲剧。“老婆，咱们离婚吧”“在我的字典里，没有离婚，只有守寡。”“那你弄死我吧。”“不行，我还没玩够。”有这样的老婆，真锻炼人......！",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/154696/150.webp",
-      "book_url": "https://www.qidian.com/book/154696/"
-    },
-    {
-      "rank": 724,
-      "book_id": "1033521212",
-      "book_name": "霍格沃茨之灰巫师",
-      "author": "睡个饱觉",
-      "gender": "未知",
-      "primary_tag": "奇幻",
-      "secondary_tags": [
-        "现代魔法"
-      ],
-      "all_tags": [
-        "奇幻",
-        "现代魔法"
-      ],
-      "abstract": "新书《我这重生的打开方式不对》，有兴趣的可以过来看看~……《哈利波特》是一本童话故事？摆在安东面前的，是随意释放恶咒的黑巫师，是尔虞我诈、是恶臭生虫、是犹如泥潭一般的巫师世界边缘。在这魔法部管辖不到的地方，就连斯内普杀人如麻的赫赫威名都响彻四方。怎么活下去？这是他唯一需要思考的。也许霍格沃茨的录取通知书的到来将会是刺透阴霾云层的阳光。但在此之前，他必须靠自己。唯有自己！“钻心剜骨！”魔咒的光芒照亮了安东的脸，他笑得是那么畅快，“好耶，我又活下来了。”",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1033521212/150.webp",
-      "book_url": "https://www.qidian.com/book/1033521212/"
-    },
-    {
-      "rank": 725,
       "book_id": "1037170076",
       "book_name": "被巴萨甩卖国米后的那些事儿",
       "author": "臊子拌面",
@@ -15364,7 +15322,70 @@
       "book_url": "https://www.qidian.com/book/1037170076/"
     },
     {
+      "rank": 724,
+      "book_id": "1024792501",
+      "book_name": "穿越八年才出道",
+      "author": "茗夜",
+      "gender": "男频",
+      "primary_tag": "都市",
+      "secondary_tags": [
+        "娱乐明星"
+      ],
+      "all_tags": [
+        "都市",
+        "娱乐明星"
+      ],
+      "abstract": "新书：当你将一切做到极致。……穿越八年，本想以普通人的身份和你们相处！但是，换来的却是离婚！那我……摊牌了。",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1024792501/150.webp",
+      "book_url": "https://www.qidian.com/book/1024792501/"
+    },
+    {
+      "rank": 725,
+      "book_id": "154696",
+      "book_name": "我的美女大小姐",
+      "author": "李兴禹",
+      "gender": "男频",
+      "primary_tag": "都市",
+      "secondary_tags": [
+        "都市生活"
+      ],
+      "all_tags": [
+        "都市",
+        "都市生活"
+      ],
+      "abstract": "一张假冒的脑癌诊断书，使吴天还没来得及谈恋爱就牵着一个陌生女人的手步入婚姻的殿堂。娶一个陌生的女人做老婆，是一场悲剧。娶一个把全世界都骗了的女人做老婆，更是悲剧。“老婆，咱们离婚吧”“在我的字典里，没有离婚，只有守寡。”“那你弄死我吧。”“不行，我还没玩够。”有这样的老婆，真锻炼人......！",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/154696/150.webp",
+      "book_url": "https://www.qidian.com/book/154696/"
+    },
+    {
       "rank": 726,
+      "book_id": "1033521212",
+      "book_name": "霍格沃茨之灰巫师",
+      "author": "睡个饱觉",
+      "gender": "未知",
+      "primary_tag": "奇幻",
+      "secondary_tags": [
+        "现代魔法"
+      ],
+      "all_tags": [
+        "奇幻",
+        "现代魔法"
+      ],
+      "abstract": "新书《我这重生的打开方式不对》，有兴趣的可以过来看看~……《哈利波特》是一本童话故事？摆在安东面前的，是随意释放恶咒的黑巫师，是尔虞我诈、是恶臭生虫、是犹如泥潭一般的巫师世界边缘。在这魔法部管辖不到的地方，就连斯内普杀人如麻的赫赫威名都响彻四方。怎么活下去？这是他唯一需要思考的。也许霍格沃茨的录取通知书的到来将会是刺透阴霾云层的阳光。但在此之前，他必须靠自己。唯有自己！“钻心剜骨！”魔咒的光芒照亮了安东的脸，他笑得是那么畅快，“好耶，我又活下来了。”",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1033521212/150.webp",
+      "book_url": "https://www.qidian.com/book/1033521212/"
+    },
+    {
+      "rank": 727,
       "book_id": "2351015",
       "book_name": "召唤圣剑",
       "author": "西贝猫",
@@ -15385,7 +15406,7 @@
       "book_url": "https://www.qidian.com/book/2351015/"
     },
     {
-      "rank": 727,
+      "rank": 728,
       "book_id": "1041712048",
       "book_name": "守序暴君",
       "author": "不在意中人",
@@ -15406,7 +15427,7 @@
       "book_url": "https://www.qidian.com/book/1041712048/"
     },
     {
-      "rank": 728,
+      "rank": 729,
       "book_id": "1015504449",
       "book_name": "人生交换游戏",
       "author": "尺间萤火",
@@ -15427,7 +15448,7 @@
       "book_url": "https://www.qidian.com/book/1015504449/"
     },
     {
-      "rank": 729,
+      "rank": 730,
       "book_id": "1005235019",
       "book_name": "神级剑魂系统",
       "author": "夜南听风",
@@ -15448,7 +15469,7 @@
       "book_url": "https://www.qidian.com/book/1005235019/"
     },
     {
-      "rank": 730,
+      "rank": 731,
       "book_id": "1024535258",
       "book_name": "名侦探修炼手册",
       "author": "肥瓜",
@@ -15469,7 +15490,7 @@
       "book_url": "https://www.qidian.com/book/1024535258/"
     },
     {
-      "rank": 731,
+      "rank": 732,
       "book_id": "1122310",
       "book_name": "异界九死神功",
       "author": "乌山云雨",
@@ -15490,7 +15511,7 @@
       "book_url": "https://www.qidian.com/book/1122310/"
     },
     {
-      "rank": 732,
+      "rank": 733,
       "book_id": "1043010764",
       "book_name": "超维度玩家",
       "author": "诸生浮屠",
@@ -15511,7 +15532,7 @@
       "book_url": "https://www.qidian.com/book/1043010764/"
     },
     {
-      "rank": 733,
+      "rank": 734,
       "book_id": "1011831862",
       "book_name": "王者时刻",
       "author": "蝴蝶蓝",
@@ -15532,7 +15553,7 @@
       "book_url": "https://www.qidian.com/book/1011831862/"
     },
     {
-      "rank": 734,
+      "rank": 735,
       "book_id": "1023233212",
       "book_name": "姑娘你不对劲啊",
       "author": "幽祝",
@@ -15553,7 +15574,7 @@
       "book_url": "https://www.qidian.com/book/1023233212/"
     },
     {
-      "rank": 735,
+      "rank": 736,
       "book_id": "190562",
       "book_name": "时空走私从2000年开始",
       "author": "志鸟村",
@@ -15574,7 +15595,7 @@
       "book_url": "https://www.qidian.com/book/190562/"
     },
     {
-      "rank": 736,
+      "rank": 737,
       "book_id": "1472329",
       "book_name": "十方天士",
       "author": "逆苍天",
@@ -15595,7 +15616,7 @@
       "book_url": "https://www.qidian.com/book/1472329/"
     },
     {
-      "rank": 737,
+      "rank": 738,
       "book_id": "1143277",
       "book_name": "大争之世",
       "author": "月关",
@@ -15616,7 +15637,7 @@
       "book_url": "https://www.qidian.com/book/1143277/"
     },
     {
-      "rank": 738,
+      "rank": 739,
       "book_id": "1004151636",
       "book_name": "大国重工",
       "author": "齐橙",
@@ -15637,7 +15658,7 @@
       "book_url": "https://www.qidian.com/book/1004151636/"
     },
     {
-      "rank": 739,
+      "rank": 740,
       "book_id": "1015283860",
       "book_name": "咫尺之间人尽敌国",
       "author": "乘风御剑",
@@ -15658,7 +15679,7 @@
       "book_url": "https://www.qidian.com/book/1015283860/"
     },
     {
-      "rank": 740,
+      "rank": 741,
       "book_id": "1011408726",
       "book_name": "大龙挂了",
       "author": "白雨涵",
@@ -15681,7 +15702,7 @@
       "book_url": "https://www.qidian.com/book/1011408726/"
     },
     {
-      "rank": 741,
+      "rank": 742,
       "book_id": "2712617",
       "book_name": "无尽丹田",
       "author": "横扫天涯",
@@ -15702,7 +15723,7 @@
       "book_url": "https://www.qidian.com/book/2712617/"
     },
     {
-      "rank": 742,
+      "rank": 743,
       "book_id": "1037075059",
       "book_name": "赛博大明",
       "author": "国产达闻西",
@@ -15723,7 +15744,7 @@
       "book_url": "https://www.qidian.com/book/1037075059/"
     },
     {
-      "rank": 743,
+      "rank": 744,
       "book_id": "1425662",
       "book_name": "天谴之心",
       "author": "荆柯守",
@@ -15744,7 +15765,7 @@
       "book_url": "https://www.qidian.com/book/1425662/"
     },
     {
-      "rank": 744,
+      "rank": 745,
       "book_id": "1034971152",
       "book_name": "百世求仙",
       "author": "黑茄酿啤酒",
@@ -15765,7 +15786,7 @@
       "book_url": "https://www.qidian.com/book/1034971152/"
     },
     {
-      "rank": 745,
+      "rank": 746,
       "book_id": "54111",
       "book_name": "师士传说",
       "author": "方想",
@@ -15786,7 +15807,7 @@
       "book_url": "https://www.qidian.com/book/54111/"
     },
     {
-      "rank": 746,
+      "rank": 747,
       "book_id": "1034049879",
       "book_name": "百世飞升",
       "author": "白眉罗汉",
@@ -15807,7 +15828,7 @@
       "book_url": "https://www.qidian.com/book/1034049879/"
     },
     {
-      "rank": 747,
+      "rank": 748,
       "book_id": "1024617405",
       "book_name": "有请小师叔",
       "author": "横扫天涯",
@@ -15828,7 +15849,7 @@
       "book_url": "https://www.qidian.com/book/1024617405/"
     },
     {
-      "rank": 748,
+      "rank": 749,
       "book_id": "1023639215",
       "book_name": "大秦之系统骗我在仙侠世界",
       "author": "爆更小熊猫",
@@ -15849,7 +15870,7 @@
       "book_url": "https://www.qidian.com/book/1023639215/"
     },
     {
-      "rank": 749,
+      "rank": 750,
       "book_id": "1015462169",
       "book_name": "打造超玄幻",
       "author": "李鸿天",
@@ -15870,7 +15891,7 @@
       "book_url": "https://www.qidian.com/book/1015462169/"
     },
     {
-      "rank": 750,
+      "rank": 751,
       "book_id": "4175",
       "book_name": "横刀立马",
       "author": "任怨",
@@ -15891,7 +15912,7 @@
       "book_url": "https://www.qidian.com/book/4175/"
     },
     {
-      "rank": 751,
+      "rank": 752,
       "book_id": "1039462784",
       "book_name": "男神，你人设崩了！",
       "author": "周一口鸟",
@@ -15912,7 +15933,7 @@
       "book_url": "https://www.qidian.com/book/1039462784/"
     },
     {
-      "rank": 752,
+      "rank": 753,
       "book_id": "1010741811",
       "book_name": "大劫主",
       "author": "黑山老鬼",
@@ -15931,27 +15952,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1010741811/150.webp",
       "book_url": "https://www.qidian.com/book/1010741811/"
-    },
-    {
-      "rank": 753,
-      "book_id": "1085393",
-      "book_name": "灵山",
-      "author": "徐公子胜治",
-      "gender": "男频",
-      "primary_tag": "仙侠",
-      "secondary_tags": [
-        "修真文明"
-      ],
-      "all_tags": [
-        "仙侠",
-        "修真文明"
-      ],
-      "abstract": "北京中医药大学本科生梅溪，自幼漂泊江湖，艰难的上了大学读到二年级，却在一场意外的奇遇中穿越了，来到盛唐年间。他却惊讶的发现，自己来到的是与历史书上所描述的不太一样的世界，只存在于神话传说中事物，竟在身边真实的呈现。他该如何自处？是历史记载错了吗，还是因为他的到来，创造了后世所见的历史？人们总是忍不住去幻想穿越与重生，能将心中一切遗憾从头补偿，每个人都希望把自己的世界构建成一座完美的灵山，究竟之处，还是那一句古语——灵山只在汝心头。——本人已在起点中文网连载完成《神游》、《鬼股》、《人欲》三部长篇，徐公子出品信誉保证，稳定更新、完美全本，敬请广大书友放心阅读。",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1085393/150.webp",
-      "book_url": "https://www.qidian.com/book/1085393/"
     },
     {
       "rank": 754,
@@ -15976,6 +15976,27 @@
     },
     {
       "rank": 755,
+      "book_id": "1085393",
+      "book_name": "灵山",
+      "author": "徐公子胜治",
+      "gender": "男频",
+      "primary_tag": "仙侠",
+      "secondary_tags": [
+        "修真文明"
+      ],
+      "all_tags": [
+        "仙侠",
+        "修真文明"
+      ],
+      "abstract": "北京中医药大学本科生梅溪，自幼漂泊江湖，艰难的上了大学读到二年级，却在一场意外的奇遇中穿越了，来到盛唐年间。他却惊讶的发现，自己来到的是与历史书上所描述的不太一样的世界，只存在于神话传说中事物，竟在身边真实的呈现。他该如何自处？是历史记载错了吗，还是因为他的到来，创造了后世所见的历史？人们总是忍不住去幻想穿越与重生，能将心中一切遗憾从头补偿，每个人都希望把自己的世界构建成一座完美的灵山，究竟之处，还是那一句古语——灵山只在汝心头。——本人已在起点中文网连载完成《神游》、《鬼股》、《人欲》三部长篇，徐公子出品信誉保证，稳定更新、完美全本，敬请广大书友放心阅读。",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1085393/150.webp",
+      "book_url": "https://www.qidian.com/book/1085393/"
+    },
+    {
+      "rank": 756,
       "book_id": "1022305499",
       "book_name": "万界点名册",
       "author": "圣骑士的传说",
@@ -15996,7 +16017,7 @@
       "book_url": "https://www.qidian.com/book/1022305499/"
     },
     {
-      "rank": 756,
+      "rank": 757,
       "book_id": "1003242530",
       "book_name": "孺子帝",
       "author": "冰临神下",
@@ -16017,7 +16038,7 @@
       "book_url": "https://www.qidian.com/book/1003242530/"
     },
     {
-      "rank": 757,
+      "rank": 758,
       "book_id": "1449664",
       "book_name": "千夫斩",
       "author": "晴了",
@@ -16038,7 +16059,7 @@
       "book_url": "https://www.qidian.com/book/1449664/"
     },
     {
-      "rank": 758,
+      "rank": 759,
       "book_id": "1035240496",
       "book_name": "黑神话：大唐",
       "author": "独孤欢",
@@ -16059,7 +16080,7 @@
       "book_url": "https://www.qidian.com/book/1035240496/"
     },
     {
-      "rank": 759,
+      "rank": 760,
       "book_id": "1014104227",
       "book_name": "外挂傍身的杂草",
       "author": "低调青年",
@@ -16080,7 +16101,7 @@
       "book_url": "https://www.qidian.com/book/1014104227/"
     },
     {
-      "rank": 760,
+      "rank": 761,
       "book_id": "1034401671",
       "book_name": "道士夜仗剑",
       "author": "亲吻指尖",
@@ -16101,7 +16122,7 @@
       "book_url": "https://www.qidian.com/book/1034401671/"
     },
     {
-      "rank": 761,
+      "rank": 762,
       "book_id": "1024640042",
       "book_name": "黄金召唤师",
       "author": "醉虎",
@@ -16122,7 +16143,7 @@
       "book_url": "https://www.qidian.com/book/1024640042/"
     },
     {
-      "rank": 762,
+      "rank": 763,
       "book_id": "1012426341",
       "book_name": "黄庭道主",
       "author": "妖僧花无缺",
@@ -16143,7 +16164,7 @@
       "book_url": "https://www.qidian.com/book/1012426341/"
     },
     {
-      "rank": 763,
+      "rank": 764,
       "book_id": "3406500",
       "book_name": "走进修仙",
       "author": "吾道长不孤",
@@ -16166,7 +16187,7 @@
       "book_url": "https://www.qidian.com/book/3406500/"
     },
     {
-      "rank": 764,
+      "rank": 765,
       "book_id": "1027461585",
       "book_name": "我这么天才为何还要收徒弟",
       "author": "木易生火",
@@ -16187,7 +16208,7 @@
       "book_url": "https://www.qidian.com/book/1027461585/"
     },
     {
-      "rank": 765,
+      "rank": 766,
       "book_id": "1019399088",
       "book_name": "从精神病院走出的强者",
       "author": "新丰",
@@ -16208,7 +16229,7 @@
       "book_url": "https://www.qidian.com/book/1019399088/"
     },
     {
-      "rank": 766,
+      "rank": 767,
       "book_id": "1026562728",
       "book_name": "皇兄何故造反？",
       "author": "月麒麟",
@@ -16229,7 +16250,7 @@
       "book_url": "https://www.qidian.com/book/1026562728/"
     },
     {
-      "rank": 767,
+      "rank": 768,
       "book_id": "1043620792",
       "book_name": "天灾信使",
       "author": "听日",
@@ -16250,7 +16271,7 @@
       "book_url": "https://www.qidian.com/book/1043620792/"
     },
     {
-      "rank": 768,
+      "rank": 769,
       "book_id": "1010325796",
       "book_name": "进化之眼",
       "author": "亚舍罗",
@@ -16271,7 +16292,7 @@
       "book_url": "https://www.qidian.com/book/1010325796/"
     },
     {
-      "rank": 769,
+      "rank": 770,
       "book_id": "1034101397",
       "book_name": "临死前，我强吻了女帝",
       "author": "萌萌哒钟孟通",
@@ -16292,7 +16313,7 @@
       "book_url": "https://www.qidian.com/book/1034101397/"
     },
     {
-      "rank": 770,
+      "rank": 771,
       "book_id": "1034590569",
       "book_name": "人在诸天，摆烂成帝",
       "author": "长生愁",
@@ -16315,7 +16336,7 @@
       "book_url": "https://www.qidian.com/book/1034590569/"
     },
     {
-      "rank": 771,
+      "rank": 772,
       "book_id": "1034544239",
       "book_name": "大医无疆",
       "author": "石章鱼",
@@ -16336,7 +16357,7 @@
       "book_url": "https://www.qidian.com/book/1034544239/"
     },
     {
-      "rank": 772,
+      "rank": 773,
       "book_id": "1003630241",
       "book_name": "修炼狂潮",
       "author": "傅啸尘",
@@ -16357,7 +16378,7 @@
       "book_url": "https://www.qidian.com/book/1003630241/"
     },
     {
-      "rank": 773,
+      "rank": 774,
       "book_id": "1040330552",
       "book_name": "百岁大爷网恋奔现，我真是00后",
       "author": "狐狸的粉尾巴",
@@ -16378,7 +16399,7 @@
       "book_url": "https://www.qidian.com/book/1040330552/"
     },
     {
-      "rank": 774,
+      "rank": 775,
       "book_id": "1025665935",
       "book_name": "昆仑第一圣",
       "author": "怕辣的红椒",
@@ -16399,7 +16420,7 @@
       "book_url": "https://www.qidian.com/book/1025665935/"
     },
     {
-      "rank": 775,
+      "rank": 776,
       "book_id": "1011924365",
       "book_name": "蓝白社",
       "author": "魔性沧月",
@@ -16420,7 +16441,7 @@
       "book_url": "https://www.qidian.com/book/1011924365/"
     },
     {
-      "rank": 776,
+      "rank": 777,
       "book_id": "1026358819",
       "book_name": "我在秋斩刑场当缝尸人那些年",
       "author": "南腔北调",
@@ -16441,7 +16462,7 @@
       "book_url": "https://www.qidian.com/book/1026358819/"
     },
     {
-      "rank": 777,
+      "rank": 778,
       "book_id": "1011085659",
       "book_name": "纣临",
       "author": "三天两觉",
@@ -16462,7 +16483,7 @@
       "book_url": "https://www.qidian.com/book/1011085659/"
     },
     {
-      "rank": 778,
+      "rank": 779,
       "book_id": "1033389386",
       "book_name": "我在春秋不当王",
       "author": "羲和晨昊",
@@ -16483,7 +16504,7 @@
       "book_url": "https://www.qidian.com/book/1033389386/"
     },
     {
-      "rank": 779,
+      "rank": 780,
       "book_id": "23844",
       "book_name": "我们是冠军",
       "author": "林海听涛",
@@ -16504,7 +16525,7 @@
       "book_url": "https://www.qidian.com/book/23844/"
     },
     {
-      "rank": 780,
+      "rank": 781,
       "book_id": "1037375481",
       "book_name": "这个影帝只想考证",
       "author": "江公子阿宝",
@@ -16525,7 +16546,7 @@
       "book_url": "https://www.qidian.com/book/1037375481/"
     },
     {
-      "rank": 781,
+      "rank": 782,
       "book_id": "1041955936",
       "book_name": "御兽飞升",
       "author": "轻泉流响",
@@ -16546,7 +16567,7 @@
       "book_url": "https://www.qidian.com/book/1041955936/"
     },
     {
-      "rank": 782,
+      "rank": 783,
       "book_id": "1040551720",
       "book_name": "从修改呼吸法开始变强",
       "author": "拿铁七分糖",
@@ -16567,7 +16588,7 @@
       "book_url": "https://www.qidian.com/book/1040551720/"
     },
     {
-      "rank": 783,
+      "rank": 784,
       "book_id": "1012369914",
       "book_name": "万古最强宗",
       "author": "江湖再见",
@@ -16588,7 +16609,7 @@
       "book_url": "https://www.qidian.com/book/1012369914/"
     },
     {
-      "rank": 784,
+      "rank": 785,
       "book_id": "1032636821",
       "book_name": "猎命人",
       "author": "永恒之火",
@@ -16609,7 +16630,7 @@
       "book_url": "https://www.qidian.com/book/1032636821/"
     },
     {
-      "rank": 785,
+      "rank": 786,
       "book_id": "1021875715",
       "book_name": "朕只是一个演员",
       "author": "平层",
@@ -16630,49 +16651,7 @@
       "book_url": "https://www.qidian.com/book/1021875715/"
     },
     {
-      "rank": 786,
-      "book_id": "1050542",
-      "book_name": "修真研究生生活录",
-      "author": "断桥残雪",
-      "gender": "男频",
-      "primary_tag": "仙侠",
-      "secondary_tags": [
-        "现代修真"
-      ],
-      "all_tags": [
-        "仙侠",
-        "现代修真"
-      ],
-      "abstract": "一位优秀的研究生。一位问题女孩的家教老师。一位服装专卖店的幕后老板。一位拥有西湖边豪宅的富公子。一位退隐江湖的武林高手的关门弟子。而他真正向往的生活是不与世争，不与人斗的科研、为人师表两不误的生活。新书《都市超级医圣》已经上传，敬请关注支持。",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1050542/150.webp",
-      "book_url": "https://www.qidian.com/book/1050542/"
-    },
-    {
       "rank": 787,
-      "book_id": "1052418",
-      "book_name": "王牌进化",
-      "author": "卷土",
-      "gender": "未知",
-      "primary_tag": "诸天无限",
-      "secondary_tags": [
-        "无限"
-      ],
-      "all_tags": [
-        "诸天无限",
-        "无限"
-      ],
-      "abstract": "一个具有打工仔、杀人犯、大学生三重身份的少年！恐龙快打、三国志、KOF、圆桌武士、变身忍者、街头霸王……一个个你所熟悉的街机游戏，已经切换成了生存的前提条件！八稚女虐杀不知火舞，天地返击杀李典。只有还没有想到的，没有想不到的！在未知的某天，当你步下楼梯时很可能也会在无意中步入这场——街机梦魇",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1052418/150.webp",
-      "book_url": "https://www.qidian.com/book/1052418/"
-    },
-    {
-      "rank": 788,
       "book_id": "1040711063",
       "book_name": "湿卵胎化",
       "author": "黑环",
@@ -16693,7 +16672,49 @@
       "book_url": "https://www.qidian.com/book/1040711063/"
     },
     {
+      "rank": 788,
+      "book_id": "1052418",
+      "book_name": "王牌进化",
+      "author": "卷土",
+      "gender": "未知",
+      "primary_tag": "诸天无限",
+      "secondary_tags": [
+        "无限"
+      ],
+      "all_tags": [
+        "诸天无限",
+        "无限"
+      ],
+      "abstract": "一个具有打工仔、杀人犯、大学生三重身份的少年！恐龙快打、三国志、KOF、圆桌武士、变身忍者、街头霸王……一个个你所熟悉的街机游戏，已经切换成了生存的前提条件！八稚女虐杀不知火舞，天地返击杀李典。只有还没有想到的，没有想不到的！在未知的某天，当你步下楼梯时很可能也会在无意中步入这场——街机梦魇",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1052418/150.webp",
+      "book_url": "https://www.qidian.com/book/1052418/"
+    },
+    {
       "rank": 789,
+      "book_id": "1050542",
+      "book_name": "修真研究生生活录",
+      "author": "断桥残雪",
+      "gender": "男频",
+      "primary_tag": "仙侠",
+      "secondary_tags": [
+        "现代修真"
+      ],
+      "all_tags": [
+        "仙侠",
+        "现代修真"
+      ],
+      "abstract": "一位优秀的研究生。一位问题女孩的家教老师。一位服装专卖店的幕后老板。一位拥有西湖边豪宅的富公子。一位退隐江湖的武林高手的关门弟子。而他真正向往的生活是不与世争，不与人斗的科研、为人师表两不误的生活。新书《都市超级医圣》已经上传，敬请关注支持。",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1050542/150.webp",
+      "book_url": "https://www.qidian.com/book/1050542/"
+    },
+    {
+      "rank": 790,
       "book_id": "1013599609",
       "book_name": "我是幕后大佬",
       "author": "一刀斩斩斩",
@@ -16716,7 +16737,7 @@
       "book_url": "https://www.qidian.com/book/1013599609/"
     },
     {
-      "rank": 790,
+      "rank": 791,
       "book_id": "1034275870",
       "book_name": "从柯南开始重新做人",
       "author": "李四羊",
@@ -16737,7 +16758,7 @@
       "book_url": "https://www.qidian.com/book/1034275870/"
     },
     {
-      "rank": 791,
+      "rank": 792,
       "book_id": "1031949407",
       "book_name": "终极火力",
       "author": "如水意",
@@ -16758,7 +16779,7 @@
       "book_url": "https://www.qidian.com/book/1031949407/"
     },
     {
-      "rank": 792,
+      "rank": 793,
       "book_id": "1043498806",
       "book_name": "夫人请住手",
       "author": "竹叶糕",
@@ -16779,7 +16800,7 @@
       "book_url": "https://www.qidian.com/book/1043498806/"
     },
     {
-      "rank": 793,
+      "rank": 794,
       "book_id": "3096677",
       "book_name": "宅师",
       "author": "烛",
@@ -16800,7 +16821,7 @@
       "book_url": "https://www.qidian.com/book/3096677/"
     },
     {
-      "rank": 794,
+      "rank": 795,
       "book_id": "1192037",
       "book_name": "异界全职业大师",
       "author": "庄毕凡",
@@ -16821,7 +16842,7 @@
       "book_url": "https://www.qidian.com/book/1192037/"
     },
     {
-      "rank": 795,
+      "rank": 796,
       "book_id": "3600493",
       "book_name": "神门",
       "author": "薪意",
@@ -16842,7 +16863,7 @@
       "book_url": "https://www.qidian.com/book/3600493/"
     },
     {
-      "rank": 796,
+      "rank": 797,
       "book_id": "1025227349",
       "book_name": "守夜人",
       "author": "巫九",
@@ -16863,7 +16884,7 @@
       "book_url": "https://www.qidian.com/book/1025227349/"
     },
     {
-      "rank": 797,
+      "rank": 798,
       "book_id": "1024657583",
       "book_name": "打卡十年灵气复苏终于开启了",
       "author": "无痕灬心尘",
@@ -16884,7 +16905,7 @@
       "book_url": "https://www.qidian.com/book/1024657583/"
     },
     {
-      "rank": 798,
+      "rank": 799,
       "book_id": "1031805005",
       "book_name": "碧落天刀",
       "author": "风凌天下",
@@ -16905,7 +16926,7 @@
       "book_url": "https://www.qidian.com/book/1031805005/"
     },
     {
-      "rank": 799,
+      "rank": 800,
       "book_id": "1011512936",
       "book_name": "神宠进化",
       "author": "酒池醉",
@@ -16926,7 +16947,7 @@
       "book_url": "https://www.qidian.com/book/1011512936/"
     },
     {
-      "rank": 800,
+      "rank": 801,
       "book_id": "183896",
       "book_name": "狼神",
       "author": "月关",
@@ -16947,7 +16968,7 @@
       "book_url": "https://www.qidian.com/book/183896/"
     },
     {
-      "rank": 801,
+      "rank": 802,
       "book_id": "1034504180",
       "book_name": "开局满级爆射，梅西求我入阿根廷",
       "author": "臊子拌面",
@@ -16968,7 +16989,7 @@
       "book_url": "https://www.qidian.com/book/1034504180/"
     },
     {
-      "rank": 802,
+      "rank": 803,
       "book_id": "1023694248",
       "book_name": "吾妻非人哉",
       "author": "奈何笑忘川",
@@ -16991,7 +17012,7 @@
       "book_url": "https://www.qidian.com/book/1023694248/"
     },
     {
-      "rank": 803,
+      "rank": 804,
       "book_id": "2173910",
       "book_name": "贩罪",
       "author": "三天两觉",
@@ -17014,7 +17035,7 @@
       "book_url": "https://www.qidian.com/book/2173910/"
     },
     {
-      "rank": 804,
+      "rank": 805,
       "book_id": "1026845699",
       "book_name": "我真的不想喷人啊",
       "author": "严七官",
@@ -17035,7 +17056,7 @@
       "book_url": "https://www.qidian.com/book/1026845699/"
     },
     {
-      "rank": 805,
+      "rank": 806,
       "book_id": "3347936",
       "book_name": "重生之神级学霸",
       "author": "志鸟村",
@@ -17056,7 +17077,7 @@
       "book_url": "https://www.qidian.com/book/3347936/"
     },
     {
-      "rank": 806,
+      "rank": 807,
       "book_id": "1016138848",
       "book_name": "绝对一番",
       "author": "海底漫步者",
@@ -17079,7 +17100,7 @@
       "book_url": "https://www.qidian.com/book/1016138848/"
     },
     {
-      "rank": 807,
+      "rank": 808,
       "book_id": "1004086548",
       "book_name": "永恒国度",
       "author": "孤独漂流",
@@ -17100,7 +17121,7 @@
       "book_url": "https://www.qidian.com/book/1004086548/"
     },
     {
-      "rank": 808,
+      "rank": 809,
       "book_id": "1016270420",
       "book_name": "这个外挂过于中二",
       "author": "鱼狱圄",
@@ -17121,7 +17142,7 @@
       "book_url": "https://www.qidian.com/book/1016270420/"
     },
     {
-      "rank": 809,
+      "rank": 810,
       "book_id": "144344",
       "book_name": "初唐房二传",
       "author": "晴了",
@@ -17142,7 +17163,7 @@
       "book_url": "https://www.qidian.com/book/144344/"
     },
     {
-      "rank": 810,
+      "rank": 811,
       "book_id": "2407162",
       "book_name": "武神空间",
       "author": "傅啸尘",
@@ -17163,7 +17184,7 @@
       "book_url": "https://www.qidian.com/book/2407162/"
     },
     {
-      "rank": 811,
+      "rank": 812,
       "book_id": "1399233",
       "book_name": "宋医",
       "author": "沐轶",
@@ -17184,7 +17205,7 @@
       "book_url": "https://www.qidian.com/book/1399233/"
     },
     {
-      "rank": 812,
+      "rank": 813,
       "book_id": "1036443227",
       "book_name": "长生从猎户开始",
       "author": "是桃花酥呀",
@@ -17205,7 +17226,7 @@
       "book_url": "https://www.qidian.com/book/1036443227/"
     },
     {
-      "rank": 813,
+      "rank": 814,
       "book_id": "98687",
       "book_name": "法师传奇",
       "author": "麻烦",
@@ -17226,7 +17247,7 @@
       "book_url": "https://www.qidian.com/book/98687/"
     },
     {
-      "rank": 814,
+      "rank": 815,
       "book_id": "1012851022",
       "book_name": "诸天最强大佬",
       "author": "七只跳蚤",
@@ -17247,7 +17268,7 @@
       "book_url": "https://www.qidian.com/book/1012851022/"
     },
     {
-      "rank": 815,
+      "rank": 816,
       "book_id": "1009265821",
       "book_name": "无疆",
       "author": "小刀锋利",
@@ -17268,7 +17289,7 @@
       "book_url": "https://www.qidian.com/book/1009265821/"
     },
     {
-      "rank": 816,
+      "rank": 817,
       "book_id": "1140692",
       "book_name": "百炼成仙",
       "author": "幻雨",
@@ -17289,7 +17310,7 @@
       "book_url": "https://www.qidian.com/book/1140692/"
     },
     {
-      "rank": 817,
+      "rank": 818,
       "book_id": "30017",
       "book_name": "数字生命",
       "author": "格子里的夜晚",
@@ -17310,7 +17331,7 @@
       "book_url": "https://www.qidian.com/book/30017/"
     },
     {
-      "rank": 818,
+      "rank": 819,
       "book_id": "1022455371",
       "book_name": "最强孝心系统",
       "author": "打死不鸽",
@@ -17333,7 +17354,7 @@
       "book_url": "https://www.qidian.com/book/1022455371/"
     },
     {
-      "rank": 819,
+      "rank": 820,
       "book_id": "135389",
       "book_name": "我的修道生涯",
       "author": "小小圣",
@@ -17354,7 +17375,7 @@
       "book_url": "https://www.qidian.com/book/135389/"
     },
     {
-      "rank": 820,
+      "rank": 821,
       "book_id": "1037372972",
       "book_name": "忍校教师，我教书就能变强",
       "author": "桔子不黄",
@@ -17375,7 +17396,7 @@
       "book_url": "https://www.qidian.com/book/1037372972/"
     },
     {
-      "rank": 821,
+      "rank": 822,
       "book_id": "1029422244",
       "book_name": "朕就是亡国之君",
       "author": "吾谁与归",
@@ -17396,7 +17417,7 @@
       "book_url": "https://www.qidian.com/book/1029422244/"
     },
     {
-      "rank": 822,
+      "rank": 823,
       "book_id": "1029939166",
       "book_name": "精灵世界的底层训练家",
       "author": "说唱鸽",
@@ -17417,7 +17438,7 @@
       "book_url": "https://www.qidian.com/book/1029939166/"
     },
     {
-      "rank": 823,
+      "rank": 824,
       "book_id": "1037136959",
       "book_name": "作为太监，我一点也不想长生不死",
       "author": "可达鸭不胖",
@@ -17438,7 +17459,7 @@
       "book_url": "https://www.qidian.com/book/1037136959/"
     },
     {
-      "rank": 824,
+      "rank": 825,
       "book_id": "1035065142",
       "book_name": "西游：我孙悟空才不要大闹天宫",
       "author": "天命蜉蝣",
@@ -17459,7 +17480,7 @@
       "book_url": "https://www.qidian.com/book/1035065142/"
     },
     {
-      "rank": 825,
+      "rank": 826,
       "book_id": "132015",
       "book_name": "恶明",
       "author": "特别白",
@@ -17480,7 +17501,7 @@
       "book_url": "https://www.qidian.com/book/132015/"
     },
     {
-      "rank": 826,
+      "rank": 827,
       "book_id": "1035422683",
       "book_name": "养成系男神：听劝后，我成了顶流",
       "author": "蠢蠢凡愚QD",
@@ -17501,7 +17522,7 @@
       "book_url": "https://www.qidian.com/book/1035422683/"
     },
     {
-      "rank": 827,
+      "rank": 828,
       "book_id": "1027714068",
       "book_name": "复活帝国",
       "author": "火中物",
@@ -17522,7 +17543,7 @@
       "book_url": "https://www.qidian.com/book/1027714068/"
     },
     {
-      "rank": 828,
+      "rank": 829,
       "book_id": "1020988639",
       "book_name": "道长，时代变了",
       "author": "全金属弹壳",
@@ -17545,7 +17566,7 @@
       "book_url": "https://www.qidian.com/book/1020988639/"
     },
     {
-      "rank": 829,
+      "rank": 830,
       "book_id": "1033963621",
       "book_name": "什么叫Carry型上单啊",
       "author": "叫兽爱吃小龙虾",
@@ -17566,7 +17587,7 @@
       "book_url": "https://www.qidian.com/book/1033963621/"
     },
     {
-      "rank": 830,
+      "rank": 831,
       "book_id": "1029911179",
       "book_name": "我有一座气运祭坛",
       "author": "叮叮小石头",
@@ -17587,7 +17608,7 @@
       "book_url": "https://www.qidian.com/book/1029911179/"
     },
     {
-      "rank": 831,
+      "rank": 832,
       "book_id": "1019561325",
       "book_name": "妖魔哪里走",
       "author": "全金属弹壳",
@@ -17608,7 +17629,7 @@
       "book_url": "https://www.qidian.com/book/1019561325/"
     },
     {
-      "rank": 832,
+      "rank": 833,
       "book_id": "1035511339",
       "book_name": "重生八八从木匠开始",
       "author": "奔跑的八零后",
@@ -17629,7 +17650,7 @@
       "book_url": "https://www.qidian.com/book/1035511339/"
     },
     {
-      "rank": 833,
+      "rank": 834,
       "book_id": "1042719946",
       "book_name": "上玉阙",
       "author": "长安九千里",
@@ -17650,7 +17671,7 @@
       "book_url": "https://www.qidian.com/book/1042719946/"
     },
     {
-      "rank": 834,
+      "rank": 835,
       "book_id": "118898",
       "book_name": "再次飞升",
       "author": "残兵",
@@ -17671,7 +17692,7 @@
       "book_url": "https://www.qidian.com/book/118898/"
     },
     {
-      "rank": 835,
+      "rank": 836,
       "book_id": "88823",
       "book_name": "超越轮回",
       "author": "任怨",
@@ -17692,7 +17713,7 @@
       "book_url": "https://www.qidian.com/book/88823/"
     },
     {
-      "rank": 836,
+      "rank": 837,
       "book_id": "1033893076",
       "book_name": "消费系男神",
       "author": "起酥面包",
@@ -17713,7 +17734,7 @@
       "book_url": "https://www.qidian.com/book/1033893076/"
     },
     {
-      "rank": 837,
+      "rank": 838,
       "book_id": "1036580370",
       "book_name": "重燃2003",
       "author": "万古青天一株柳",
@@ -17734,7 +17755,7 @@
       "book_url": "https://www.qidian.com/book/1036580370/"
     },
     {
-      "rank": 838,
+      "rank": 839,
       "book_id": "1032568679",
       "book_name": "光明！",
       "author": "夜影恋姬",
@@ -17757,7 +17778,7 @@
       "book_url": "https://www.qidian.com/book/1032568679/"
     },
     {
-      "rank": 839,
+      "rank": 840,
       "book_id": "1027170508",
       "book_name": "最初的血族",
       "author": "萝卜上秤",
@@ -17778,7 +17799,7 @@
       "book_url": "https://www.qidian.com/book/1027170508/"
     },
     {
-      "rank": 840,
+      "rank": 841,
       "book_id": "1033977102",
       "book_name": "武德充沛",
       "author": "烟火成城",
@@ -17799,7 +17820,7 @@
       "book_url": "https://www.qidian.com/book/1033977102/"
     },
     {
-      "rank": 841,
+      "rank": 842,
       "book_id": "1019189022",
       "book_name": "梦回大明春",
       "author": "王梓钧",
@@ -17820,7 +17841,7 @@
       "book_url": "https://www.qidian.com/book/1019189022/"
     },
     {
-      "rank": 842,
+      "rank": 843,
       "book_id": "1024990280",
       "book_name": "都京地下城",
       "author": "猫菇末那01",
@@ -17841,7 +17862,7 @@
       "book_url": "https://www.qidian.com/book/1024990280/"
     },
     {
-      "rank": 843,
+      "rank": 844,
       "book_id": "1035313493",
       "book_name": "从解析太阳开始",
       "author": "竹围月色",
@@ -17862,7 +17883,7 @@
       "book_url": "https://www.qidian.com/book/1035313493/"
     },
     {
-      "rank": 844,
+      "rank": 845,
       "book_id": "1016640508",
       "book_name": "斗罗之我的武魂是魂环",
       "author": "黑血粉",
@@ -17883,7 +17904,7 @@
       "book_url": "https://www.qidian.com/book/1016640508/"
     },
     {
-      "rank": 845,
+      "rank": 846,
       "book_id": "1040333250",
       "book_name": "谁把我的尸体藏起来了！",
       "author": "有妖眼",
@@ -17904,7 +17925,7 @@
       "book_url": "https://www.qidian.com/book/1040333250/"
     },
     {
-      "rank": 846,
+      "rank": 847,
       "book_id": "1040153111",
       "book_name": "我是仙",
       "author": "历史里吹吹风",
@@ -17925,7 +17946,7 @@
       "book_url": "https://www.qidian.com/book/1040153111/"
     },
     {
-      "rank": 847,
+      "rank": 848,
       "book_id": "1025325277",
       "book_name": "我们生活在南京",
       "author": "天瑞说符",
@@ -17946,7 +17967,7 @@
       "book_url": "https://www.qidian.com/book/1025325277/"
     },
     {
-      "rank": 848,
+      "rank": 849,
       "book_id": "1040263686",
       "book_name": "为父只想静静看着你长生",
       "author": "李鸿天",
@@ -17967,7 +17988,7 @@
       "book_url": "https://www.qidian.com/book/1040263686/"
     },
     {
-      "rank": 849,
+      "rank": 850,
       "book_id": "3200489",
       "book_name": "造化之王",
       "author": "猪三不",
@@ -17988,7 +18009,7 @@
       "book_url": "https://www.qidian.com/book/3200489/"
     },
     {
-      "rank": 850,
+      "rank": 851,
       "book_id": "1037976737",
       "book_name": "净土边缘",
       "author": "海棠灯",
@@ -18009,7 +18030,7 @@
       "book_url": "https://www.qidian.com/book/1037976737/"
     },
     {
-      "rank": 851,
+      "rank": 852,
       "book_id": "1043294775",
       "book_name": "长生百万年，我被认证为大帝",
       "author": "墨水白的",
@@ -18030,7 +18051,7 @@
       "book_url": "https://www.qidian.com/book/1043294775/"
     },
     {
-      "rank": 852,
+      "rank": 853,
       "book_id": "1033893051",
       "book_name": "我成了游戏里的反派之王",
       "author": "萝卜丸",
@@ -18051,7 +18072,7 @@
       "book_url": "https://www.qidian.com/book/1033893051/"
     },
     {
-      "rank": 853,
+      "rank": 854,
       "book_id": "1031527636",
       "book_name": "我的夫人竟是魔教教主",
       "author": "在水中的纸老虎",
@@ -18072,7 +18093,7 @@
       "book_url": "https://www.qidian.com/book/1031527636/"
     },
     {
-      "rank": 854,
+      "rank": 855,
       "book_id": "1017621987",
       "book_name": "从火影开始掌控时间",
       "author": "夜南听风",
@@ -18093,7 +18114,7 @@
       "book_url": "https://www.qidian.com/book/1017621987/"
     },
     {
-      "rank": 855,
+      "rank": 856,
       "book_id": "1039995415",
       "book_name": "旧神之巅",
       "author": "育",
@@ -18114,7 +18135,7 @@
       "book_url": "https://www.qidian.com/book/1039995415/"
     },
     {
-      "rank": 856,
+      "rank": 857,
       "book_id": "1036506737",
       "book_name": "半岛检察官",
       "author": "竹叶糕",
@@ -18135,7 +18156,7 @@
       "book_url": "https://www.qidian.com/book/1036506737/"
     },
     {
-      "rank": 857,
+      "rank": 858,
       "book_id": "1022431323",
       "book_name": "从火影开始做幕后黑手",
       "author": "浓墨浇书",
@@ -18156,7 +18177,7 @@
       "book_url": "https://www.qidian.com/book/1022431323/"
     },
     {
-      "rank": 858,
+      "rank": 859,
       "book_id": "1009443828",
       "book_name": "继承两万亿",
       "author": "侠想",
@@ -18177,7 +18198,7 @@
       "book_url": "https://www.qidian.com/book/1009443828/"
     },
     {
-      "rank": 859,
+      "rank": 860,
       "book_id": "1003504656",
       "book_name": "史上最强店主",
       "author": "南极烈日",
@@ -18200,7 +18221,7 @@
       "book_url": "https://www.qidian.com/book/1003504656/"
     },
     {
-      "rank": 860,
+      "rank": 861,
       "book_id": "1021580892",
       "book_name": "什么叫游走型中单啊",
       "author": "这很科学啊",
@@ -18221,7 +18242,7 @@
       "book_url": "https://www.qidian.com/book/1021580892/"
     },
     {
-      "rank": 861,
+      "rank": 862,
       "book_id": "2465506",
       "book_name": "醉枕江山",
       "author": "月关",
@@ -18242,7 +18263,7 @@
       "book_url": "https://www.qidian.com/book/2465506/"
     },
     {
-      "rank": 862,
+      "rank": 863,
       "book_id": "1784765",
       "book_name": "琥珀之剑",
       "author": "绯炎",
@@ -18265,7 +18286,7 @@
       "book_url": "https://www.qidian.com/book/1784765/"
     },
     {
-      "rank": 863,
+      "rank": 864,
       "book_id": "1016630896",
       "book_name": "史上第一密探",
       "author": "沉默的糕点",
@@ -18286,7 +18307,7 @@
       "book_url": "https://www.qidian.com/book/1016630896/"
     },
     {
-      "rank": 864,
+      "rank": 865,
       "book_id": "1024201760",
       "book_name": "重生之实业大亨",
       "author": "过关斩将",
@@ -18307,7 +18328,7 @@
       "book_url": "https://www.qidian.com/book/1024201760/"
     },
     {
-      "rank": 865,
+      "rank": 866,
       "book_id": "1013013985",
       "book_name": "漫威里的德鲁伊",
       "author": "骑行拐杖",
@@ -18330,7 +18351,7 @@
       "book_url": "https://www.qidian.com/book/1013013985/"
     },
     {
-      "rank": 866,
+      "rank": 867,
       "book_id": "1010815544",
       "book_name": "奶爸的异界餐厅",
       "author": "轻语江湖",
@@ -18351,7 +18372,7 @@
       "book_url": "https://www.qidian.com/book/1010815544/"
     },
     {
-      "rank": 867,
+      "rank": 868,
       "book_id": "1021271042",
       "book_name": "我不是真的想惹事啊",
       "author": "左断手",
@@ -18372,7 +18393,7 @@
       "book_url": "https://www.qidian.com/book/1021271042/"
     },
     {
-      "rank": 868,
+      "rank": 869,
       "book_id": "1031342194",
       "book_name": "指点考古队，竟被当成盗墓贼",
       "author": "小猴子yyds",
@@ -18393,7 +18414,7 @@
       "book_url": "https://www.qidian.com/book/1031342194/"
     },
     {
-      "rank": 869,
+      "rank": 870,
       "book_id": "11351",
       "book_name": "商业三国",
       "author": "赤虎",
@@ -18414,7 +18435,7 @@
       "book_url": "https://www.qidian.com/book/11351/"
     },
     {
-      "rank": 870,
+      "rank": 871,
       "book_id": "3582993",
       "book_name": "弑天刃",
       "author": "小刀锋利",
@@ -18435,7 +18456,7 @@
       "book_url": "https://www.qidian.com/book/3582993/"
     },
     {
-      "rank": 871,
+      "rank": 872,
       "book_id": "1031264709",
       "book_name": "修仙三百年突然发现是武侠",
       "author": "孤云飞岫",
@@ -18456,7 +18477,7 @@
       "book_url": "https://www.qidian.com/book/1031264709/"
     },
     {
-      "rank": 872,
+      "rank": 873,
       "book_id": "1909465",
       "book_name": "偷天",
       "author": "血红",
@@ -18477,7 +18498,7 @@
       "book_url": "https://www.qidian.com/book/1909465/"
     },
     {
-      "rank": 873,
+      "rank": 874,
       "book_id": "1022672531",
       "book_name": "我在决斗都市玩卡牌",
       "author": "名称被占用",
@@ -18498,7 +18519,7 @@
       "book_url": "https://www.qidian.com/book/1022672531/"
     },
     {
-      "rank": 874,
+      "rank": 875,
       "book_id": "1001227",
       "book_name": "重金属外壳",
       "author": "屠狗者",
@@ -18519,7 +18540,7 @@
       "book_url": "https://www.qidian.com/book/1001227/"
     },
     {
-      "rank": 875,
+      "rank": 876,
       "book_id": "1020131488",
       "book_name": "道长去哪了",
       "author": "八宝饭",
@@ -18540,7 +18561,7 @@
       "book_url": "https://www.qidian.com/book/1020131488/"
     },
     {
-      "rank": 876,
+      "rank": 877,
       "book_id": "1011223144",
       "book_name": "太阳王之证",
       "author": "汉朝天子",
@@ -18561,7 +18582,7 @@
       "book_url": "https://www.qidian.com/book/1011223144/"
     },
     {
-      "rank": 877,
+      "rank": 878,
       "book_id": "1020766",
       "book_name": "百世重修",
       "author": "二蛇",
@@ -18582,7 +18603,7 @@
       "book_url": "https://www.qidian.com/book/1020766/"
     },
     {
-      "rank": 878,
+      "rank": 879,
       "book_id": "1033273073",
       "book_name": "重生2008：我阅读能赚钱",
       "author": "520农民",
@@ -18603,7 +18624,7 @@
       "book_url": "https://www.qidian.com/book/1033273073/"
     },
     {
-      "rank": 879,
+      "rank": 880,
       "book_id": "1021517869",
       "book_name": "我只想自力更生",
       "author": "中秋月明",
@@ -18624,7 +18645,7 @@
       "book_url": "https://www.qidian.com/book/1021517869/"
     },
     {
-      "rank": 880,
+      "rank": 881,
       "book_id": "1031417905",
       "book_name": "大明第一臣",
       "author": "青史尽成灰",
@@ -18645,7 +18666,7 @@
       "book_url": "https://www.qidian.com/book/1031417905/"
     },
     {
-      "rank": 881,
+      "rank": 882,
       "book_id": "24857",
       "book_name": "独闯天涯",
       "author": "蝴蝶蓝",
@@ -18666,7 +18687,7 @@
       "book_url": "https://www.qidian.com/book/24857/"
     },
     {
-      "rank": 882,
+      "rank": 883,
       "book_id": "1602032",
       "book_name": "地狱公寓",
       "author": "黑色火种",
@@ -18687,7 +18708,7 @@
       "book_url": "https://www.qidian.com/book/1602032/"
     },
     {
-      "rank": 883,
+      "rank": 884,
       "book_id": "1456265",
       "book_name": "许仙志",
       "author": "说梦者",
@@ -18708,7 +18729,7 @@
       "book_url": "https://www.qidian.com/book/1456265/"
     },
     {
-      "rank": 884,
+      "rank": 885,
       "book_id": "1016477783",
       "book_name": "我只会拍烂片啊",
       "author": "巫马行",
@@ -18729,7 +18750,7 @@
       "book_url": "https://www.qidian.com/book/1016477783/"
     },
     {
-      "rank": 885,
+      "rank": 886,
       "book_id": "1034462313",
       "book_name": "执法者手册",
       "author": "桃咕",
@@ -18750,7 +18771,7 @@
       "book_url": "https://www.qidian.com/book/1034462313/"
     },
     {
-      "rank": 886,
+      "rank": 887,
       "book_id": "1023505347",
       "book_name": "我能升级避难所",
       "author": "十七筝",
@@ -18771,7 +18792,7 @@
       "book_url": "https://www.qidian.com/book/1023505347/"
     },
     {
-      "rank": 887,
+      "rank": 888,
       "book_id": "1025320178",
       "book_name": "开局就杀了曹操",
       "author": "墨守白",
@@ -18792,7 +18813,7 @@
       "book_url": "https://www.qidian.com/book/1025320178/"
     },
     {
-      "rank": 888,
+      "rank": 889,
       "book_id": "1038417977",
       "book_name": "肝出个万法道君",
       "author": "白特慢啊",
@@ -18813,7 +18834,7 @@
       "book_url": "https://www.qidian.com/book/1038417977/"
     },
     {
-      "rank": 889,
+      "rank": 890,
       "book_id": "1034555747",
       "book_name": "军旅：让你报道，你顺手抓通缉犯",
       "author": "南海过客",
@@ -18834,7 +18855,7 @@
       "book_url": "https://www.qidian.com/book/1034555747/"
     },
     {
-      "rank": 890,
+      "rank": 891,
       "book_id": "1004595865",
       "book_name": "主神崛起",
       "author": "文抄公",
@@ -18855,7 +18876,7 @@
       "book_url": "https://www.qidian.com/book/1004595865/"
     },
     {
-      "rank": 891,
+      "rank": 892,
       "book_id": "1004990308",
       "book_name": "末世召唤狂潮",
       "author": "黑心的大白",
@@ -18876,7 +18897,7 @@
       "book_url": "https://www.qidian.com/book/1004990308/"
     },
     {
-      "rank": 892,
+      "rank": 893,
       "book_id": "1033368721",
       "book_name": "满级悟性：思过崖面壁八十年",
       "author": "女孩穿短裙",
@@ -18897,7 +18918,7 @@
       "book_url": "https://www.qidian.com/book/1033368721/"
     },
     {
-      "rank": 893,
+      "rank": 894,
       "book_id": "1015106587",
       "book_name": "光怪陆离侦探社",
       "author": "吾即正道",
@@ -18918,7 +18939,7 @@
       "book_url": "https://www.qidian.com/book/1015106587/"
     },
     {
-      "rank": 894,
+      "rank": 895,
       "book_id": "1031199549",
       "book_name": "天朝仙吏",
       "author": "六戏",
@@ -18939,7 +18960,7 @@
       "book_url": "https://www.qidian.com/book/1031199549/"
     },
     {
-      "rank": 895,
+      "rank": 896,
       "book_id": "1023629610",
       "book_name": "重生九六大负翁",
       "author": "蓝星幸存者",
@@ -18960,7 +18981,7 @@
       "book_url": "https://www.qidian.com/book/1023629610/"
     },
     {
-      "rank": 896,
+      "rank": 897,
       "book_id": "1016098768",
       "book_name": "峡谷正能量",
       "author": "Iced子夜",
@@ -18981,7 +19002,7 @@
       "book_url": "https://www.qidian.com/book/1016098768/"
     },
     {
-      "rank": 897,
+      "rank": 898,
       "book_id": "26423",
       "book_name": "善良的死神",
       "author": "唐家三少",
@@ -19002,7 +19023,7 @@
       "book_url": "https://www.qidian.com/book/26423/"
     },
     {
-      "rank": 898,
+      "rank": 899,
       "book_id": "78574",
       "book_name": "茅山后裔",
       "author": "大力金刚掌",
@@ -19023,7 +19044,7 @@
       "book_url": "https://www.qidian.com/book/78574/"
     },
     {
-      "rank": 899,
+      "rank": 900,
       "book_id": "173148",
       "book_name": "炼宝专家",
       "author": "风起闲云",
@@ -19044,7 +19065,7 @@
       "book_url": "https://www.qidian.com/book/173148/"
     },
     {
-      "rank": 900,
+      "rank": 901,
       "book_id": "1038320584",
       "book_name": "悟性逆天：我在诸天创法传道",
       "author": "不是星期天",
@@ -19065,49 +19086,7 @@
       "book_url": "https://www.qidian.com/book/1038320584/"
     },
     {
-      "rank": 901,
-      "book_id": "1023691887",
-      "book_name": "在港综成为传说",
-      "author": "凤嘲凰",
-      "gender": "未知",
-      "primary_tag": "诸天无限",
-      "secondary_tags": [
-        "诸天"
-      ],
-      "all_tags": [
-        "诸天无限",
-        "诸天"
-      ],
-      "abstract": "梦醒港岛，廖文杰发现自己成了重案组之虎曹达华的远房侄子。习武、修道、抓鬼、降妖，踏不平之事；武道、仙道、法宝、神通，尽归于手。食神之夜，他踏空而行，迎面白衣，道：“我有一技，还请菩萨不吝赐教！”",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1023691887/150.webp",
-      "book_url": "https://www.qidian.com/book/1023691887/"
-    },
-    {
       "rank": 902,
-      "book_id": "1037701976",
-      "book_name": "我就是你们的天敌",
-      "author": "不放心油条",
-      "gender": "男频",
-      "primary_tag": "都市",
-      "secondary_tags": [
-        "异术超能"
-      ],
-      "all_tags": [
-        "都市",
-        "异术超能"
-      ],
-      "abstract": "当温言选择了他认为最稳妥的职业“天敌”，他觉得自己的结局，肯定不会跟那些人均横死的职业一样。直到他见到了身长十几公里长，词条是“无敌”的噬魂兽，他发现事情好像跟他想的，似乎、也许有那么一丁点不一样。“拿出你最强的气势，对着噬魂兽高喊‘我是你爹’，激活你的第一个固定职业能力。”ps：嫌瘦的可以先看完本老书《一品修仙》《诡道之主》，一个万订，一个大精品。",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1037701976/150.webp",
-      "book_url": "https://www.qidian.com/book/1037701976/"
-    },
-    {
-      "rank": 903,
       "book_id": "1475169",
       "book_name": "仙葫",
       "author": "流浪的蛤蟆",
@@ -19128,7 +19107,49 @@
       "book_url": "https://www.qidian.com/book/1475169/"
     },
     {
+      "rank": 903,
+      "book_id": "1023691887",
+      "book_name": "在港综成为传说",
+      "author": "凤嘲凰",
+      "gender": "未知",
+      "primary_tag": "诸天无限",
+      "secondary_tags": [
+        "诸天"
+      ],
+      "all_tags": [
+        "诸天无限",
+        "诸天"
+      ],
+      "abstract": "梦醒港岛，廖文杰发现自己成了重案组之虎曹达华的远房侄子。习武、修道、抓鬼、降妖，踏不平之事；武道、仙道、法宝、神通，尽归于手。食神之夜，他踏空而行，迎面白衣，道：“我有一技，还请菩萨不吝赐教！”",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1023691887/150.webp",
+      "book_url": "https://www.qidian.com/book/1023691887/"
+    },
+    {
       "rank": 904,
+      "book_id": "1037701976",
+      "book_name": "我就是你们的天敌",
+      "author": "不放心油条",
+      "gender": "男频",
+      "primary_tag": "都市",
+      "secondary_tags": [
+        "异术超能"
+      ],
+      "all_tags": [
+        "都市",
+        "异术超能"
+      ],
+      "abstract": "当温言选择了他认为最稳妥的职业“天敌”，他觉得自己的结局，肯定不会跟那些人均横死的职业一样。直到他见到了身长十几公里长，词条是“无敌”的噬魂兽，他发现事情好像跟他想的，似乎、也许有那么一丁点不一样。“拿出你最强的气势，对着噬魂兽高喊‘我是你爹’，激活你的第一个固定职业能力。”ps：嫌瘦的可以先看完本老书《一品修仙》《诡道之主》，一个万订，一个大精品。",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1037701976/150.webp",
+      "book_url": "https://www.qidian.com/book/1037701976/"
+    },
+    {
+      "rank": 905,
       "book_id": "1031136489",
       "book_name": "我娘子一个比一个诡异",
       "author": "海岸边的船只",
@@ -19149,7 +19170,7 @@
       "book_url": "https://www.qidian.com/book/1031136489/"
     },
     {
-      "rank": 905,
+      "rank": 906,
       "book_id": "172272",
       "book_name": "天劫医生",
       "author": "胜己",
@@ -19170,7 +19191,7 @@
       "book_url": "https://www.qidian.com/book/172272/"
     },
     {
-      "rank": 906,
+      "rank": 907,
       "book_id": "3144004",
       "book_name": "史上第一祖师爷",
       "author": "八月飞鹰",
@@ -19191,7 +19212,7 @@
       "book_url": "https://www.qidian.com/book/3144004/"
     },
     {
-      "rank": 907,
+      "rank": 908,
       "book_id": "1015207338",
       "book_name": "赝太子",
       "author": "荆柯守",
@@ -19212,7 +19233,7 @@
       "book_url": "https://www.qidian.com/book/1015207338/"
     },
     {
-      "rank": 908,
+      "rank": 909,
       "book_id": "1012919215",
       "book_name": "我真的不是富二代",
       "author": "幻羽",
@@ -19233,7 +19254,7 @@
       "book_url": "https://www.qidian.com/book/1012919215/"
     },
     {
-      "rank": 909,
+      "rank": 910,
       "book_id": "97456",
       "book_name": "浴火焚神",
       "author": "傲无常",
@@ -19254,7 +19275,7 @@
       "book_url": "https://www.qidian.com/book/97456/"
     },
     {
-      "rank": 910,
+      "rank": 911,
       "book_id": "1029857127",
       "book_name": "诸天从茅山开始",
       "author": "龙升云霄",
@@ -19273,27 +19294,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1029857127/150.webp",
       "book_url": "https://www.qidian.com/book/1029857127/"
-    },
-    {
-      "rank": 911,
-      "book_id": "1036669006",
-      "book_name": "太一道主",
-      "author": "东海鱼头",
-      "gender": "男频",
-      "primary_tag": "仙侠",
-      "secondary_tags": [
-        "修真文明"
-      ],
-      "all_tags": [
-        "仙侠",
-        "修真文明"
-      ],
-      "abstract": "人生于世，应有龙蛇之变。当为蛇时，与蝼蚁为伍，入泥泞之穴，食肮脏之物，以图安身。历万劫，待天时。一日化龙，飞腾万里，呼风唤雨、吞云吐雾、普降甘露！这是一个从宗门饲养灵鸡的杂役开始，一步一步走向最高的故事！",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1036669006/150.webp",
-      "book_url": "https://www.qidian.com/book/1036669006/"
     },
     {
       "rank": 912,
@@ -19318,6 +19318,27 @@
     },
     {
       "rank": 913,
+      "book_id": "1036669006",
+      "book_name": "太一道主",
+      "author": "东海鱼头",
+      "gender": "男频",
+      "primary_tag": "仙侠",
+      "secondary_tags": [
+        "修真文明"
+      ],
+      "all_tags": [
+        "仙侠",
+        "修真文明"
+      ],
+      "abstract": "人生于世，应有龙蛇之变。当为蛇时，与蝼蚁为伍，入泥泞之穴，食肮脏之物，以图安身。历万劫，待天时。一日化龙，飞腾万里，呼风唤雨、吞云吐雾、普降甘露！这是一个从宗门饲养灵鸡的杂役开始，一步一步走向最高的故事！",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1036669006/150.webp",
+      "book_url": "https://www.qidian.com/book/1036669006/"
+    },
+    {
+      "rank": 914,
       "book_id": "1037775003",
       "book_name": "全球兽变：只有我知道兽变法则",
       "author": "白金鱼",
@@ -19338,7 +19359,7 @@
       "book_url": "https://www.qidian.com/book/1037775003/"
     },
     {
-      "rank": 914,
+      "rank": 915,
       "book_id": "1023501483",
       "book_name": "仙箓",
       "author": "布谷聊",
@@ -19359,7 +19380,7 @@
       "book_url": "https://www.qidian.com/book/1023501483/"
     },
     {
-      "rank": 915,
+      "rank": 916,
       "book_id": "1031215900",
       "book_name": "大荒扶妻人",
       "author": "不如放牛去",
@@ -19380,7 +19401,7 @@
       "book_url": "https://www.qidian.com/book/1031215900/"
     },
     {
-      "rank": 916,
+      "rank": 917,
       "book_id": "1022057056",
       "book_name": "教主的退休日常",
       "author": "云山青",
@@ -19401,7 +19422,7 @@
       "book_url": "https://www.qidian.com/book/1022057056/"
     },
     {
-      "rank": 917,
+      "rank": 918,
       "book_id": "1654402",
       "book_name": "大学士",
       "author": "衣山尽",
@@ -19422,7 +19443,7 @@
       "book_url": "https://www.qidian.com/book/1654402/"
     },
     {
-      "rank": 918,
+      "rank": 919,
       "book_id": "1037117469",
       "book_name": "重生在火红年代的悠闲生活",
       "author": "屋外风吹凉",
@@ -19443,7 +19464,7 @@
       "book_url": "https://www.qidian.com/book/1037117469/"
     },
     {
-      "rank": 919,
+      "rank": 920,
       "book_id": "1020244873",
       "book_name": "带着系统来大唐",
       "author": "农家一锅出",
@@ -19464,7 +19485,7 @@
       "book_url": "https://www.qidian.com/book/1020244873/"
     },
     {
-      "rank": 920,
+      "rank": 921,
       "book_id": "3683163",
       "book_name": "寒门状元",
       "author": "天子",
@@ -19485,7 +19506,7 @@
       "book_url": "https://www.qidian.com/book/3683163/"
     },
     {
-      "rank": 921,
+      "rank": 922,
       "book_id": "1042350367",
       "book_name": "我太想重生了",
       "author": "沉默的糕点",
@@ -19506,7 +19527,7 @@
       "book_url": "https://www.qidian.com/book/1042350367/"
     },
     {
-      "rank": 922,
+      "rank": 923,
       "book_id": "1033221194",
       "book_name": "最后的黑暗之王",
       "author": "山川不念",
@@ -19527,7 +19548,7 @@
       "book_url": "https://www.qidian.com/book/1033221194/"
     },
     {
-      "rank": 923,
+      "rank": 924,
       "book_id": "1035852105",
       "book_name": "玄德",
       "author": "御炎",
@@ -19546,27 +19567,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1035852105/150.webp",
       "book_url": "https://www.qidian.com/book/1035852105/"
-    },
-    {
-      "rank": 924,
-      "book_id": "1031305252",
-      "book_name": "大周不良人",
-      "author": "一袖乾坤",
-      "gender": "男频",
-      "primary_tag": "仙侠",
-      "secondary_tags": [
-        "幻想修仙"
-      ],
-      "all_tags": [
-        "仙侠",
-        "幻想修仙"
-      ],
-      "abstract": "大周帝国，儒、释、道、武、魔五大修行体系并立。武者戎马，书生格物，道家清修，佛陀涅槃，魔教妖物觊觎南下。显隆二十七年，朝堂江湖暗流涌动，风雨欲来。赵洵穿越而至，自一口棺材中爬了出来，成为大周成国公赵渊的嫡长子。本以为可以逍遥一世，过上纨绔子弟纸醉金迷的生活，谁料一道圣旨彻底改变了他的人生。成为不良人，抽丝剥茧，披沙拣金。以文修身，以武炼境，以道家养气术中和调理，融汇贯通，步步生莲成为绝世三修强者。行路难，行路难！多歧路，今安在。长风破浪会有时，直挂云帆济沧海!",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1031305252/150.webp",
-      "book_url": "https://www.qidian.com/book/1031305252/"
     },
     {
       "rank": 925,
@@ -19591,6 +19591,27 @@
     },
     {
       "rank": 926,
+      "book_id": "1031305252",
+      "book_name": "大周不良人",
+      "author": "一袖乾坤",
+      "gender": "男频",
+      "primary_tag": "仙侠",
+      "secondary_tags": [
+        "幻想修仙"
+      ],
+      "all_tags": [
+        "仙侠",
+        "幻想修仙"
+      ],
+      "abstract": "大周帝国，儒、释、道、武、魔五大修行体系并立。武者戎马，书生格物，道家清修，佛陀涅槃，魔教妖物觊觎南下。显隆二十七年，朝堂江湖暗流涌动，风雨欲来。赵洵穿越而至，自一口棺材中爬了出来，成为大周成国公赵渊的嫡长子。本以为可以逍遥一世，过上纨绔子弟纸醉金迷的生活，谁料一道圣旨彻底改变了他的人生。成为不良人，抽丝剥茧，披沙拣金。以文修身，以武炼境，以道家养气术中和调理，融汇贯通，步步生莲成为绝世三修强者。行路难，行路难！多歧路，今安在。长风破浪会有时，直挂云帆济沧海!",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1031305252/150.webp",
+      "book_url": "https://www.qidian.com/book/1031305252/"
+    },
+    {
+      "rank": 927,
       "book_id": "1027459312",
       "book_name": "大明小学生",
       "author": "随轻风去",
@@ -19611,7 +19632,7 @@
       "book_url": "https://www.qidian.com/book/1027459312/"
     },
     {
-      "rank": 927,
+      "rank": 928,
       "book_id": "1010463703",
       "book_name": "系统的黑科技网吧",
       "author": "逆水之叶",
@@ -19634,7 +19655,7 @@
       "book_url": "https://www.qidian.com/book/1010463703/"
     },
     {
-      "rank": 928,
+      "rank": 929,
       "book_id": "8361",
       "book_name": "光之子",
       "author": "唐家三少",
@@ -19655,7 +19676,7 @@
       "book_url": "https://www.qidian.com/book/8361/"
     },
     {
-      "rank": 929,
+      "rank": 930,
       "book_id": "1017653178",
       "book_name": "禁区之狐",
       "author": "林海听涛",
@@ -19676,7 +19697,7 @@
       "book_url": "https://www.qidian.com/book/1017653178/"
     },
     {
-      "rank": 930,
+      "rank": 931,
       "book_id": "1011096075",
       "book_name": "我只想当一个安静的学霸",
       "author": "术小城",
@@ -19699,7 +19720,7 @@
       "book_url": "https://www.qidian.com/book/1011096075/"
     },
     {
-      "rank": 931,
+      "rank": 932,
       "book_id": "1023903983",
       "book_name": "神秀之主",
       "author": "文抄公",
@@ -19720,7 +19741,7 @@
       "book_url": "https://www.qidian.com/book/1023903983/"
     },
     {
-      "rank": 932,
+      "rank": 933,
       "book_id": "1024232614",
       "book_name": "新书",
       "author": "七月新番",
@@ -19741,7 +19762,7 @@
       "book_url": "https://www.qidian.com/book/1024232614/"
     },
     {
-      "rank": 933,
+      "rank": 934,
       "book_id": "1013735867",
       "book_name": "灾厄收容所",
       "author": "幻梦猎人",
@@ -19762,7 +19783,7 @@
       "book_url": "https://www.qidian.com/book/1013735867/"
     },
     {
-      "rank": 934,
+      "rank": 935,
       "book_id": "1116784",
       "book_name": "虚拟战士",
       "author": "漂浮物",
@@ -19783,7 +19804,7 @@
       "book_url": "https://www.qidian.com/book/1116784/"
     },
     {
-      "rank": 935,
+      "rank": 936,
       "book_id": "1028336466",
       "book_name": "西游后传，大圣齐天",
       "author": "辰珺",
@@ -19804,7 +19825,7 @@
       "book_url": "https://www.qidian.com/book/1028336466/"
     },
     {
-      "rank": 936,
+      "rank": 937,
       "book_id": "1036322787",
       "book_name": "星河之上",
       "author": "柳下挥",
@@ -19823,27 +19844,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1036322787/150.webp",
       "book_url": "https://www.qidian.com/book/1036322787/"
-    },
-    {
-      "rank": 937,
-      "book_id": "1037898200",
-      "book_name": "择日走红",
-      "author": "宋不留春",
-      "gender": "男频",
-      "primary_tag": "都市",
-      "secondary_tags": [
-        "娱乐明星"
-      ],
-      "all_tags": [
-        "都市",
-        "娱乐明星"
-      ],
-      "abstract": "从首订375写到均订破万！-穿越到一个十五岁就出道的过气偶像身上，还是个高三生。无良经纪人逼他退圈，没有工作就没有收入。穿越之后的当务之急竟然是先养活自己。可没有系统也没有金手指的他，仅靠着自己那点记忆，怎么去复制奇迹？没事，好歹也是靠自己本事考上过985的人。新时代，新世界，奋斗，从过气偶像开始。-本文慢热偏日常，人在异界，刚刚穿越，记性不好，歌没唱几首，戏没演几部，为了未来不失业，目前我决定先当个学霸苟一苟。——陆严河。",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1037898200/150.webp",
-      "book_url": "https://www.qidian.com/book/1037898200/"
     },
     {
       "rank": 938,
@@ -19868,6 +19868,27 @@
     },
     {
       "rank": 939,
+      "book_id": "1037898200",
+      "book_name": "择日走红",
+      "author": "宋不留春",
+      "gender": "男频",
+      "primary_tag": "都市",
+      "secondary_tags": [
+        "娱乐明星"
+      ],
+      "all_tags": [
+        "都市",
+        "娱乐明星"
+      ],
+      "abstract": "从首订375写到均订破万！-穿越到一个十五岁就出道的过气偶像身上，还是个高三生。无良经纪人逼他退圈，没有工作就没有收入。穿越之后的当务之急竟然是先养活自己。可没有系统也没有金手指的他，仅靠着自己那点记忆，怎么去复制奇迹？没事，好歹也是靠自己本事考上过985的人。新时代，新世界，奋斗，从过气偶像开始。-本文慢热偏日常，人在异界，刚刚穿越，记性不好，歌没唱几首，戏没演几部，为了未来不失业，目前我决定先当个学霸苟一苟。——陆严河。",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1037898200/150.webp",
+      "book_url": "https://www.qidian.com/book/1037898200/"
+    },
+    {
+      "rank": 940,
       "book_id": "1026044539",
       "book_name": "木叶之体内一只哥斯拉",
       "author": "大魔灵",
@@ -19888,7 +19909,7 @@
       "book_url": "https://www.qidian.com/book/1026044539/"
     },
     {
-      "rank": 940,
+      "rank": 941,
       "book_id": "1040496866",
       "book_name": "错练邪功，法天象地",
       "author": "剑飞暴雨中",
@@ -19909,7 +19930,7 @@
       "book_url": "https://www.qidian.com/book/1040496866/"
     },
     {
-      "rank": 941,
+      "rank": 942,
       "book_id": "1033344789",
       "book_name": "我怎么还活着？",
       "author": "愤怒的松鼠",
@@ -19930,7 +19951,7 @@
       "book_url": "https://www.qidian.com/book/1033344789/"
     },
     {
-      "rank": 942,
+      "rank": 943,
       "book_id": "1012352630",
       "book_name": "我的女友是恶女",
       "author": "海底漫步者",
@@ -19953,7 +19974,7 @@
       "book_url": "https://www.qidian.com/book/1012352630/"
     },
     {
-      "rank": 943,
+      "rank": 944,
       "book_id": "183614",
       "book_name": "逆隋",
       "author": "老茅",
@@ -19974,7 +19995,7 @@
       "book_url": "https://www.qidian.com/book/183614/"
     },
     {
-      "rank": 944,
+      "rank": 945,
       "book_id": "1033950040",
       "book_name": "天道今天不上班",
       "author": "魔性沧月",
@@ -19995,7 +20016,7 @@
       "book_url": "https://www.qidian.com/book/1033950040/"
     },
     {
-      "rank": 945,
+      "rank": 946,
       "book_id": "1036821558",
       "book_name": "我以道种铸长生",
       "author": "鱼龙飞度",
@@ -20016,7 +20037,7 @@
       "book_url": "https://www.qidian.com/book/1036821558/"
     },
     {
-      "rank": 946,
+      "rank": 947,
       "book_id": "1025480759",
       "book_name": "惊惧盛宴",
       "author": "薄情书生",
@@ -20035,27 +20056,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1025480759/150.webp",
       "book_url": "https://www.qidian.com/book/1025480759/"
-    },
-    {
-      "rank": 947,
-      "book_id": "1038970830",
-      "book_name": "希腊带恶人",
-      "author": "紫夜弦歌",
-      "gender": "未知",
-      "primary_tag": "奇幻",
-      "secondary_tags": [
-        "史诗奇幻"
-      ],
-      "all_tags": [
-        "奇幻",
-        "史诗奇幻"
-      ],
-      "abstract": "假如你有一个金苹果，你会分给谁？宴会上受邀而来的洛恩看到盘中那枚刻着“献给最美丽的女神”字样的金苹果，以及身前陷入纷争的三女神，笑眯眯着拿起了刀。第一步削皮，果皮分给阿芙洛狄忒。“有一说一你确实挺漂亮的，作为一层皮还是能看的。”第二步切果肉，果肉分给赫拉。“贵为天后，但是整个奥林匹斯上到八百岁下到畜生都能笑话你，甚至有男有女还有羊，既然面子已经保不住了，就给你这些里子吧。”第三步把剩下的果核分给雅典娜。“本来应该作为男神诞生继承宙斯之位，却因为宙斯的缘故没了种，所以这果种就给你吧。”阿芙洛狄忒握紧了拳头，赫拉举起了权杖，雅典娜唤出了枪盾……洛恩见状，连忙退后一步，将人群中的不和女神厄里斯牢牢护在身前。“就这还想当不和之女神？看我，一下子就让她们团结一致，甚至你拱火都不如我。”“……”望着周围磨刀霍霍的希腊众神，厄里斯陷入了沉默。",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1038970830/150.webp",
-      "book_url": "https://www.qidian.com/book/1038970830/"
     },
     {
       "rank": 948,
@@ -20080,6 +20080,27 @@
     },
     {
       "rank": 949,
+      "book_id": "1038970830",
+      "book_name": "希腊带恶人",
+      "author": "紫夜弦歌",
+      "gender": "未知",
+      "primary_tag": "奇幻",
+      "secondary_tags": [
+        "史诗奇幻"
+      ],
+      "all_tags": [
+        "奇幻",
+        "史诗奇幻"
+      ],
+      "abstract": "假如你有一个金苹果，你会分给谁？宴会上受邀而来的洛恩看到盘中那枚刻着“献给最美丽的女神”字样的金苹果，以及身前陷入纷争的三女神，笑眯眯着拿起了刀。第一步削皮，果皮分给阿芙洛狄忒。“有一说一你确实挺漂亮的，作为一层皮还是能看的。”第二步切果肉，果肉分给赫拉。“贵为天后，但是整个奥林匹斯上到八百岁下到畜生都能笑话你，甚至有男有女还有羊，既然面子已经保不住了，就给你这些里子吧。”第三步把剩下的果核分给雅典娜。“本来应该作为男神诞生继承宙斯之位，却因为宙斯的缘故没了种，所以这果种就给你吧。”阿芙洛狄忒握紧了拳头，赫拉举起了权杖，雅典娜唤出了枪盾……洛恩见状，连忙退后一步，将人群中的不和女神厄里斯牢牢护在身前。“就这还想当不和之女神？看我，一下子就让她们团结一致，甚至你拱火都不如我。”“……”望着周围磨刀霍霍的希腊众神，厄里斯陷入了沉默。",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1038970830/150.webp",
+      "book_url": "https://www.qidian.com/book/1038970830/"
+    },
+    {
+      "rank": 950,
       "book_id": "1032744419",
       "book_name": "网王：开局大招雷鸣八卦",
       "author": "三绝小小生",
@@ -20100,7 +20121,7 @@
       "book_url": "https://www.qidian.com/book/1032744419/"
     },
     {
-      "rank": 950,
+      "rank": 951,
       "book_id": "1029571892",
       "book_name": "异常收藏家",
       "author": "捕梦者",
@@ -20121,7 +20142,7 @@
       "book_url": "https://www.qidian.com/book/1029571892/"
     },
     {
-      "rank": 951,
+      "rank": 952,
       "book_id": "1025331197",
       "book_name": "九锡",
       "author": "上汤豆苗",
@@ -20142,7 +20163,7 @@
       "book_url": "https://www.qidian.com/book/1025331197/"
     },
     {
-      "rank": 952,
+      "rank": 953,
       "book_id": "1023347970",
       "book_name": "斗罗之失恋就能变强",
       "author": "啸沧溟",
@@ -20165,7 +20186,7 @@
       "book_url": "https://www.qidian.com/book/1023347970/"
     },
     {
-      "rank": 953,
+      "rank": 954,
       "book_id": "1031793925",
       "book_name": "重生飞扬年代",
       "author": "金蟾老祖",
@@ -20186,7 +20207,7 @@
       "book_url": "https://www.qidian.com/book/1031793925/"
     },
     {
-      "rank": 954,
+      "rank": 955,
       "book_id": "1011573648",
       "book_name": "我的时空旅舍",
       "author": "金色茉莉花",
@@ -20207,7 +20228,7 @@
       "book_url": "https://www.qidian.com/book/1011573648/"
     },
     {
-      "rank": 955,
+      "rank": 956,
       "book_id": "1011448624",
       "book_name": "次元法典",
       "author": "西贝猫",
@@ -20230,7 +20251,7 @@
       "book_url": "https://www.qidian.com/book/1011448624/"
     },
     {
-      "rank": 956,
+      "rank": 957,
       "book_id": "3247496",
       "book_name": "我要做皇帝",
       "author": "要离刺荆轲",
@@ -20251,7 +20272,7 @@
       "book_url": "https://www.qidian.com/book/3247496/"
     },
     {
-      "rank": 957,
+      "rank": 958,
       "book_id": "1028489518",
       "book_name": "道祖是克苏鲁",
       "author": "板斧战士",
@@ -20272,7 +20293,7 @@
       "book_url": "https://www.qidian.com/book/1028489518/"
     },
     {
-      "rank": 958,
+      "rank": 959,
       "book_id": "1038438644",
       "book_name": "我向大帝借了个脑子",
       "author": "渣土车",
@@ -20293,7 +20314,7 @@
       "book_url": "https://www.qidian.com/book/1038438644/"
     },
     {
-      "rank": 959,
+      "rank": 960,
       "book_id": "1001836",
       "book_name": "大唐御医",
       "author": "半堕落的恶魔",
@@ -20314,7 +20335,7 @@
       "book_url": "https://www.qidian.com/book/1001836/"
     },
     {
-      "rank": 960,
+      "rank": 961,
       "book_id": "1036669693",
       "book_name": "天生仙种",
       "author": "太湖霸王",
@@ -20335,7 +20356,7 @@
       "book_url": "https://www.qidian.com/book/1036669693/"
     },
     {
-      "rank": 961,
+      "rank": 962,
       "book_id": "2572738",
       "book_name": "升邪",
       "author": "豆子惹的祸",
@@ -20356,7 +20377,7 @@
       "book_url": "https://www.qidian.com/book/2572738/"
     },
     {
-      "rank": 962,
+      "rank": 963,
       "book_id": "1030195954",
       "book_name": "太监能有什么坏心思",
       "author": "小小部长",
@@ -20375,27 +20396,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1030195954/150.webp",
       "book_url": "https://www.qidian.com/book/1030195954/"
-    },
-    {
-      "rank": 963,
-      "book_id": "1039422794",
-      "book_name": "我在诡夜斩神魔",
-      "author": "柴火灶的火",
-      "gender": "男频",
-      "primary_tag": "玄幻",
-      "secondary_tags": [
-        "东方玄幻"
-      ],
-      "all_tags": [
-        "玄幻",
-        "东方玄幻"
-      ],
-      "abstract": "白昼为人世，黑夜归冥间。诡夜降临以来，妖魔邪祟，祸乱人间，历代人族先辈，挣扎求存。我这一刀，可除恶、斩妖、破邪、诛魔、灭祟！从此，夜如白昼！",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1039422794/150.webp",
-      "book_url": "https://www.qidian.com/book/1039422794/"
     },
     {
       "rank": 964,
@@ -20420,6 +20420,27 @@
     },
     {
       "rank": 965,
+      "book_id": "1039422794",
+      "book_name": "我在诡夜斩神魔",
+      "author": "柴火灶的火",
+      "gender": "男频",
+      "primary_tag": "玄幻",
+      "secondary_tags": [
+        "东方玄幻"
+      ],
+      "all_tags": [
+        "玄幻",
+        "东方玄幻"
+      ],
+      "abstract": "白昼为人世，黑夜归冥间。诡夜降临以来，妖魔邪祟，祸乱人间，历代人族先辈，挣扎求存。我这一刀，可除恶、斩妖、破邪、诛魔、灭祟！从此，夜如白昼！",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1039422794/150.webp",
+      "book_url": "https://www.qidian.com/book/1039422794/"
+    },
+    {
+      "rank": 966,
       "book_id": "1036613110",
       "book_name": "从肉体凡胎到粉碎星球",
       "author": "乘风御剑",
@@ -20440,7 +20461,7 @@
       "book_url": "https://www.qidian.com/book/1036613110/"
     },
     {
-      "rank": 966,
+      "rank": 967,
       "book_id": "1017380601",
       "book_name": "我有好多复活币",
       "author": "辣酱配咸鱼",
@@ -20459,27 +20480,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1017380601/150.webp",
       "book_url": "https://www.qidian.com/book/1017380601/"
-    },
-    {
-      "rank": 967,
-      "book_id": "1036314541",
-      "book_name": "妖女住手",
-      "author": "荣小荣",
-      "gender": "男频",
-      "primary_tag": "仙侠",
-      "secondary_tags": [
-        "幻想修仙"
-      ],
-      "all_tags": [
-        "仙侠",
-        "幻想修仙"
-      ],
-      "abstract": "穿越仙侠世界，成为白云观一名炼气期弟子。李玉本想安心修仙，问道长生，顺便斩斩妖，除除魔。可半夜三更，神秘的魔教妖女忽然闯入他的房中，告诉他其实他是魔教卧底。千年之后。当人们说起正道之光，魔道巨擘，佛门有缘人，妖族永远的朋友，中央皇朝的支柱。李玉：“没错，那都是我。”“正道无数天之骄女的蓝颜，魔教妖女的道侣，一代女皇背后的男人……”“那也是我。”……“修仙，不是打打杀杀，而是人情世故。”——《李玉语录》",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1036314541/150.webp",
-      "book_url": "https://www.qidian.com/book/1036314541/"
     },
     {
       "rank": 968,
@@ -20504,6 +20504,27 @@
     },
     {
       "rank": 969,
+      "book_id": "1036314541",
+      "book_name": "妖女住手",
+      "author": "荣小荣",
+      "gender": "男频",
+      "primary_tag": "仙侠",
+      "secondary_tags": [
+        "幻想修仙"
+      ],
+      "all_tags": [
+        "仙侠",
+        "幻想修仙"
+      ],
+      "abstract": "穿越仙侠世界，成为白云观一名炼气期弟子。李玉本想安心修仙，问道长生，顺便斩斩妖，除除魔。可半夜三更，神秘的魔教妖女忽然闯入他的房中，告诉他其实他是魔教卧底。千年之后。当人们说起正道之光，魔道巨擘，佛门有缘人，妖族永远的朋友，中央皇朝的支柱。李玉：“没错，那都是我。”“正道无数天之骄女的蓝颜，魔教妖女的道侣，一代女皇背后的男人……”“那也是我。”……“修仙，不是打打杀杀，而是人情世故。”——《李玉语录》",
+      "status": "完结",
+      "word_count": "",
+      "collections": "",
+      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1036314541/150.webp",
+      "book_url": "https://www.qidian.com/book/1036314541/"
+    },
+    {
+      "rank": 970,
       "book_id": "1016350069",
       "book_name": "从我是特种兵开始打卡",
       "author": "纳兰凌云",
@@ -20524,7 +20545,7 @@
       "book_url": "https://www.qidian.com/book/1016350069/"
     },
     {
-      "rank": 970,
+      "rank": 971,
       "book_id": "1042506551",
       "book_name": "大宋为王十三年，方知是天龙",
       "author": "幽燕倦客",
@@ -20545,7 +20566,7 @@
       "book_url": "https://www.qidian.com/book/1042506551/"
     },
     {
-      "rank": 971,
+      "rank": 972,
       "book_id": "1036971183",
       "book_name": "离婚后前妻成债主第二季",
       "author": "啊欢",
@@ -20566,7 +20587,7 @@
       "book_url": "https://www.qidian.com/book/1036971183/"
     },
     {
-      "rank": 972,
+      "rank": 973,
       "book_id": "1037458244",
       "book_name": "瞎编功法，徒儿你真练成了？",
       "author": "半道清风",
@@ -20587,7 +20608,7 @@
       "book_url": "https://www.qidian.com/book/1037458244/"
     },
     {
-      "rank": 973,
+      "rank": 974,
       "book_id": "1006629321",
       "book_name": "彪悍的人生",
       "author": "新丰",
@@ -20608,7 +20629,7 @@
       "book_url": "https://www.qidian.com/book/1006629321/"
     },
     {
-      "rank": 974,
+      "rank": 975,
       "book_id": "1036095856",
       "book_name": "长生从娶妻开始",
       "author": "喜爱吃黄瓜",
@@ -20629,7 +20650,7 @@
       "book_url": "https://www.qidian.com/book/1036095856/"
     },
     {
-      "rank": 975,
+      "rank": 976,
       "book_id": "1037112096",
       "book_name": "重生09：合成系男神",
       "author": "辛老板",
@@ -20650,7 +20671,7 @@
       "book_url": "https://www.qidian.com/book/1037112096/"
     },
     {
-      "rank": 976,
+      "rank": 977,
       "book_id": "1038375242",
       "book_name": "飞扬跋扈，从唐人街开始",
       "author": "不吃葱花",
@@ -20671,7 +20692,7 @@
       "book_url": "https://www.qidian.com/book/1038375242/"
     },
     {
-      "rank": 977,
+      "rank": 978,
       "book_id": "1044739287",
       "book_name": "大明：马皇后亲弟，开局救朱雄英",
       "author": "大明最强皇叔",
@@ -20692,7 +20713,7 @@
       "book_url": "https://www.qidian.com/book/1044739287/"
     },
     {
-      "rank": 978,
+      "rank": 979,
       "book_id": "1039711791",
       "book_name": "总有仙子对我图谋不轨",
       "author": "望山听泉",
@@ -20713,7 +20734,7 @@
       "book_url": "https://www.qidian.com/book/1039711791/"
     },
     {
-      "rank": 979,
+      "rank": 980,
       "book_id": "1010377389",
       "book_name": "全能游戏设计师",
       "author": "青衫取醉",
@@ -20734,7 +20755,7 @@
       "book_url": "https://www.qidian.com/book/1010377389/"
     },
     {
-      "rank": 980,
+      "rank": 981,
       "book_id": "31709",
       "book_name": "网游之天地",
       "author": "隐为者",
@@ -20755,7 +20776,7 @@
       "book_url": "https://www.qidian.com/book/31709/"
     },
     {
-      "rank": 981,
+      "rank": 982,
       "book_id": "1027700830",
       "book_name": "华娱1997",
       "author": "胖一点",
@@ -20776,7 +20797,7 @@
       "book_url": "https://www.qidian.com/book/1027700830/"
     },
     {
-      "rank": 982,
+      "rank": 983,
       "book_id": "1041961702",
       "book_name": "制皮百年，我成了魔门巨头",
       "author": "是桃花酥呀",
@@ -20797,7 +20818,7 @@
       "book_url": "https://www.qidian.com/book/1041961702/"
     },
     {
-      "rank": 983,
+      "rank": 984,
       "book_id": "1036368878",
       "book_name": "三国：关家逆子，龙佑荆襄",
       "author": "牛奶糖糖糖",
@@ -20818,7 +20839,7 @@
       "book_url": "https://www.qidian.com/book/1036368878/"
     },
     {
-      "rank": 984,
+      "rank": 985,
       "book_id": "1040133596",
       "book_name": "冰封末世：我打造完美领地",
       "author": "一条小白蛇",
@@ -20839,7 +20860,7 @@
       "book_url": "https://www.qidian.com/book/1040133596/"
     },
     {
-      "rank": 985,
+      "rank": 986,
       "book_id": "1004869448",
       "book_name": "诡三国",
       "author": "马月猴年",
@@ -20860,7 +20881,7 @@
       "book_url": "https://www.qidian.com/book/1004869448/"
     },
     {
-      "rank": 986,
+      "rank": 987,
       "book_id": "1551536",
       "book_name": "极牛鬼才在异界",
       "author": "耗子欺负猫",
@@ -20881,7 +20902,7 @@
       "book_url": "https://www.qidian.com/book/1551536/"
     },
     {
-      "rank": 987,
+      "rank": 988,
       "book_id": "1031835147",
       "book_name": "我写的自传不可能是悲剧",
       "author": "空长青",
@@ -20902,7 +20923,7 @@
       "book_url": "https://www.qidian.com/book/1031835147/"
     },
     {
-      "rank": 988,
+      "rank": 989,
       "book_id": "1025321315",
       "book_name": "灵笼：休闲玩家有什么坏心眼",
       "author": "果味喵",
@@ -20923,7 +20944,7 @@
       "book_url": "https://www.qidian.com/book/1025321315/"
     },
     {
-      "rank": 989,
+      "rank": 990,
       "book_id": "1041494214",
       "book_name": "我没落网，凭什么说我有罪！",
       "author": "青衫仗剑行天涯",
@@ -20944,7 +20965,7 @@
       "book_url": "https://www.qidian.com/book/1041494214/"
     },
     {
-      "rank": 990,
+      "rank": 991,
       "book_id": "1036506211",
       "book_name": "细说红尘",
       "author": "真费事",
@@ -20965,7 +20986,7 @@
       "book_url": "https://www.qidian.com/book/1036506211/"
     },
     {
-      "rank": 991,
+      "rank": 992,
       "book_id": "1036832975",
       "book_name": "大家都是邪魔，怎么你浑身圣光？",
       "author": "馒头荔枝",
@@ -20986,7 +21007,7 @@
       "book_url": "https://www.qidian.com/book/1036832975/"
     },
     {
-      "rank": 992,
+      "rank": 993,
       "book_id": "1030568772",
       "book_name": "修复师",
       "author": "打眼",
@@ -21007,7 +21028,7 @@
       "book_url": "https://www.qidian.com/book/1030568772/"
     },
     {
-      "rank": 993,
+      "rank": 994,
       "book_id": "1036783462",
       "book_name": "反派就是这样子的",
       "author": "梦寄千秋",
@@ -21028,7 +21049,7 @@
       "book_url": "https://www.qidian.com/book/1036783462/"
     },
     {
-      "rank": 994,
+      "rank": 995,
       "book_id": "1024525575",
       "book_name": "全球神祇时代",
       "author": "一夕成道",
@@ -21049,7 +21070,7 @@
       "book_url": "https://www.qidian.com/book/1024525575/"
     },
     {
-      "rank": 995,
+      "rank": 996,
       "book_id": "124886",
       "book_name": "异世龙逍遥",
       "author": "撒加",
@@ -21070,7 +21091,7 @@
       "book_url": "https://www.qidian.com/book/124886/"
     },
     {
-      "rank": 996,
+      "rank": 997,
       "book_id": "1020563331",
       "book_name": "斗罗之皇龙惊世",
       "author": "风行云亦行",
@@ -21091,7 +21112,7 @@
       "book_url": "https://www.qidian.com/book/1020563331/"
     },
     {
-      "rank": 997,
+      "rank": 998,
       "book_id": "3323156",
       "book_name": "重生潜入梦",
       "author": "第十个名字",
@@ -21112,7 +21133,7 @@
       "book_url": "https://www.qidian.com/book/3323156/"
     },
     {
-      "rank": 998,
+      "rank": 999,
       "book_id": "1021935657",
       "book_name": "大唐扫把星",
       "author": "迪巴拉爵士",
@@ -21131,27 +21152,6 @@
       "collections": "",
       "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1021935657/150.webp",
       "book_url": "https://www.qidian.com/book/1021935657/"
-    },
-    {
-      "rank": 999,
-      "book_id": "1019818627",
-      "book_name": "我的绝世谪仙",
-      "author": "一粒糟糠",
-      "gender": "未知",
-      "primary_tag": "短篇",
-      "secondary_tags": [
-        "短篇小说"
-      ],
-      "all_tags": [
-        "短篇",
-        "短篇小说"
-      ],
-      "abstract": "【仙侠文】师尊对墨珩说过：“人心复杂且脆弱。”可究竟何为人心？在浮沉乱世中，他不求名利得失，只求一片清明。人生有八苦，生苦、老苦、病苦、死苦、爱别离、怨憎会、求不得、五阴炽盛。人人都说成仙好，当仙好，但他什么都不要，只想与最爱的人常留人世……他想要的不过是一个温暖的家。初见墨珩之时，只觉得他是个冷漠的神仙，后来下凡亲眼所见他救治受伤的乞丐，才知他是个外冷内热的神仙。人总是容易陷于第一眼的惊艳，白书书被墨珩吹笛的样子迷倒了，他不经意间露出的笑明明那么温柔，为什么要装的那么冰冷？直到白书书知晓了墨珩在凡间所历一切，她才懂为何墨珩会变成如今的模样。他被冠以天界第一仙尊的名号，却成了他的桎梏，不准有任何行差踏错。三界太大，他背负的东西太多，所热爱的东西却无法宣之于口。与三界苍生相比，他觉得爱似乎也没有那么重要了……可这真的是他的本心吗？这个世界人心易乱，他想凭一己之力拯救，却发现自己错了，原来这个世界最难的就是拯救人心。明明经历了一遍又一遍的绝望，他却还是没有放弃。他说：“星可转，斗可移，海可填，山可平，为何人心不可变！”",
-      "status": "完结",
-      "word_count": "",
-      "collections": "",
-      "thumb_url": "https://bookcover.yuewen.com/qdbimg/349573/1019818627/150.webp",
-      "book_url": "https://www.qidian.com/book/1019818627/"
     },
     {
       "rank": 1000,
