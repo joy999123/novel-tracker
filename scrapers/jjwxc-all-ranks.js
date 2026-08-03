@@ -4,11 +4,13 @@
  * 覆盖全部 topten.php 榜单，纯 HTTP 抓取（GBK 编码，自动解压 gzip/deflate）。
  *
  * 榜单体系（orderstr → 名称 → 页面结构）：
- *   table 结构（全站 200 本）：3 新晋作者榜 / 5 月榜 / 7 总分榜 / 15 勤奋指数 / 21 千字金榜
- *   ul    结构（按频道分组）：12 收入金榜 / 16 完结金榜 / 17 新手金榜
+ *   table 结构（全站 200 本/性向）：3 新晋作者榜 / 5 月榜 / 7 总分榜 / 15 勤奋指数 / 21 千字金榜
+ *     - topten.php 的 t 参数为性向选择：t=0 言情 / t=1 纯爱 / t=6 百合 / t=4 无CP+多元
+ *     - 循环抓取全部性向并合并，每本书打 sex 标记（言情/纯爱/百合/无CP/多元）
+ *   ul    结构（按频道分组，每频道约 24 本，已含全频道）：12 收入金榜 / 16 完结金榜 / 17 新手金榜
  *
  * 输出：
- *   data/jjwxc/ranks/latest.json            —— 全部榜单最新数据
+ *   data/jjwxc/ranks/latest.json            —— 全部榜单最新数据（前端/分析读取）
  *   data/jjwxc/ranks/history/YYYY-MM-DD.json —— 每日快照（历史趋势）
  *   data/jjwxc/ranks/index.json             —— 日期索引（最近 90 天）
  *
@@ -45,6 +47,14 @@ const RANKS = [
   { order: '16', name: '完结金榜',   type: 'ul' },
   { order: '17', name: '新手金榜',   type: 'ul' },
   { order: '21', name: '千字金榜',   type: 'table' },
+];
+
+// table 型榜单的性向频道参数（t 值）
+const SEX_PARAMS = [
+  { t: '0', sex: '言情' },
+  { t: '1', sex: '纯爱' },
+  { t: '6', sex: '百合' },
+  { t: '4', sex: '无CP+多元' },
 ];
 
 const NEWBIE_RANKS = ['3', '17', '15']; // 新人向：新晋作者榜/新手金榜/勤奋指数
@@ -116,7 +126,7 @@ function parseAttrs(attrText) {
 }
 
 // ========== table 结构解析（新晋/月榜/总分/勤奋/千字）==========
-function parseTable(html) {
+function parseTable(html, sex) {
   const books = [];
   const rows = html.matchAll(/<tr[^>]*>([\s\S]*?)<\/tr>/gi);
   let rank = 0;
@@ -159,7 +169,7 @@ function parseTable(html) {
 
     books.push({
       rank, book_id: bookId, book_name: bookName, author,
-      channel: genre || '未知', nature, genre, era, theme, primary_tag: primaryTag,
+      channel: genre || '未知', sex, nature, genre, era, theme, primary_tag: primaryTag,
       secondary_tags: [era, theme].filter(Boolean),
       all_tags: [nature, genre, era, theme].filter(Boolean),
       score, word_count: wordCount,
@@ -237,15 +247,30 @@ async function main() {
   const results = {};
 
   for (const r of selected) {
-    const url = `${BASE_URL}?orderstr=${r.order}&t=0`;
     process.stdout.write(`\n→ ${r.name} (orderstr=${r.order}) ... `);
     try {
-      const res = await withRetry(() => httpGet(url, 'gbk'), { name: r.name, maxAttempts: 3, baseDelay: 5000 });
       if (r.type === 'table') {
-        const books = parseTable(res.data);
-        results[r.order] = { name: r.name, order: r.order, type: 'table', total: books.length, books };
-        console.log(`${books.length} 本`);
+        // table 型：循环抓取全部性向频道并合并（t=0言情/t=1纯爱/t=6百合/t=4无CP+多元）
+        let allBooks = [];
+        const sexSummary = [];
+        for (const sp of SEX_PARAMS) {
+          const url = `${BASE_URL}?orderstr=${r.order}&t=${sp.t}`;
+          try {
+            const res = await withRetry(() => httpGet(url, 'gbk'), { name: `${r.name}(${sp.sex})`, maxAttempts: 3, baseDelay: 5000 });
+            const books = parseTable(res.data, sp.sex);
+            allBooks = allBooks.concat(books);
+            sexSummary.push(`${sp.sex}${books.length}`);
+          } catch (e) {
+            console.log(`  [${sp.sex}] FAIL: ${e.message.slice(0, 50)}`);
+          }
+          await sleep(REQUEST_DELAY);
+        }
+        allBooks.sort((a, b) => a.rank - b.rank);
+        results[r.order] = { name: r.name, order: r.order, type: 'table', total: allBooks.length, sex_summary: sexSummary, books: allBooks };
+        console.log(`合计 ${allBooks.length} 本 (${sexSummary.join(' / ')})`);
       } else {
+        const url = `${BASE_URL}?orderstr=${r.order}&t=0`;
+        const res = await withRetry(() => httpGet(url, 'gbk'), { name: r.name, maxAttempts: 3, baseDelay: 5000 });
         const groups = parseUl(res.data);
         const total = groups.reduce((s, g) => s + g.books.length, 0);
         results[r.order] = { name: r.name, order: r.order, type: 'ul', total, channels: groups.length, books: groups };
@@ -264,7 +289,7 @@ async function main() {
     update_date: today,
     source: 'https://www.jjwxc.net/topten.php',
     platform: 'jjwxc',
-    ranks: Object.fromEntries(Object.entries(results).map(([k, r]) => [k, { name: r.name, total: r.total || (r.books.reduce((s, g) => s + g.books.length, 0)), channels: r.channels || null, empty: r.books.length === 0 }])),
+    ranks: Object.fromEntries(Object.entries(results).map(([k, r]) => [k, { name: r.name, total: r.total || (r.books.reduce((s, g) => s + g.books.length, 0)), channels: r.channels || null, sex_summary: r.sex_summary || null, empty: r.books.length === 0 }])),
   };
 
   const latestPath = path.join(DATA_DIR, 'latest.json');
