@@ -6,7 +6,7 @@
  *   1. 赛道门槛友好度 —— 各性向/频道的新晋门槛（积分 P25/P50/P75、字数中位、连载占比、友好度指数）
  *   2. 新人题材风向 —— 新晋作者榜的年代×主题分布
  *   3. 新人成长路径 —— 新晋作者榜/新手金榜/勤奋指数/月榜 之间的作者交叉
- *   4. AI 文本解读 —— 有 QWEN_API_KEY 时调用通义千问生成新人向解读
+ *   4. AI 文本解读 —— 有 QWEN_API_KEY 时调用硅基流动 DeepSeek-V4-Flash 生成新人向解读
  *
  * 输出：data/jjwxc/newcomer.json（前端/展示读取）
  *
@@ -22,8 +22,9 @@ const DATA_DIR = path.join(__dirname, '..', 'data');
 const RANKS_FILE = path.join(DATA_DIR, 'jjwxc', 'ranks', 'latest.json');
 const OUT_FILE = path.join(DATA_DIR, 'jjwxc', 'newcomer.json');
 const QWEN_API_KEY = process.env.QWEN_API_KEY || '';
-const QWEN_API_URL = 'https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions';
 
+// 硅基流动 SiliconFlow OpenAI 兼容接口（国内直连，含永久免费模型）
+const QWEN_API_URL = 'https://api.siliconflow.cn/v1/chat/completions';
 // 新晋作者榜 orderstr=3（table 结构，books 为数组，含 sex 字段）
 const NEW_AUTHOR_RANK = '3';
 // ul 结构榜单（books 为分组数组 [{channel, books:[...]}]）
@@ -199,7 +200,7 @@ function analyzePathways(allRanks) {
 function callQwenAPI(messages) {
   return new Promise((resolve, reject) => {
     const payload = JSON.stringify({
-      model: 'qwen-plus',
+      model: 'deepseek-ai/DeepSeek-V4-Flash',
       messages,
       temperature: 0.7,
       max_tokens: 1500,
