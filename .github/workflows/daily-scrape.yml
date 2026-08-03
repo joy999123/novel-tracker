@@ -50,6 +50,12 @@ jobs:
       - name: Scrape JJWXC All Ranks (晋江全榜单)
         run: node scrapers/jjwxc-all-ranks.js
         continue-on-error: true
+              # 晋江新人加权分析 (基于全榜单计算赛道友好度/题材风向/成长路径，有 API key 时加 AI 解读)
+      - name: JJWXC Newcomer Analysis (晋江新人加权分析)
+        run: node scrapers/jjwxc-newcomer.js
+        env:
+          QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
+        continue-on-error: true
 
       # 起点收藏榜 Top1000 (每月1号更新 或 手动触发时运行，50页1000本)
       - name: Scrape Qidian Collection (起点收藏榜)
